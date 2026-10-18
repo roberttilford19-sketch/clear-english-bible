@@ -916,7 +916,7 @@ Luke 9
 
 40 I begged your disciples to cast it out, and they couldn’t.”
 
-41 Jesus answered, “Faithless and perverse generation, how long shall I be with you and bear with you? Bring your son here.”
+41 Jesus answered, “Faithless and perverse generation, how long will I be with you and bear with you? Bring your son here.”
 
 42 While he was still coming, the demon threw him down and convulsed him violently. But Jesus rebuked the unclean spirit, healed the boy, and gave him back to his father.
 
@@ -1010,7 +1010,7 @@ Luke 10
 
 24 for I tell you that many prophets and kings desired to see the things which you see, and didn’t see them, and to hear the things which you hear, and didn’t hear them.”
 
-25 See, a certain lawyer stood up and tested him, saying, “Teacher, what shall I do to inherit eternal life?”
+25 See, a certain lawyer stood up and tested him, saying, “Teacher, what should I do to inherit eternal life?”
 
 26 He said to him, “What is written in the law? How do you read it?”
 
@@ -1312,11 +1312,11 @@ Luke 13
 
 17 As he said these things, all his adversaries were disappointed; and all the multitude rejoiced for all the glorious things that were done by him.
 
-18 He said, “What is God’s Kingdom like? To what shall I compare it?
+18 He said, “What is God’s Kingdom like? To what will I compare it?
 
 19 It is like a grain of mustard seed which a man took and put in his own garden. It grew and became a large tree, and the birds of the sky live in its branches.”
 
-20 Again he said, “To what shall I compare God’s Kingdom?
+20 Again he said, “To what will I compare God’s Kingdom?
 
 21 It is like yeast, which a woman took and hid in three measures of flour, until it was all leavened.”
 
@@ -1662,7 +1662,7 @@ Luke 18
 
 17 Most certainly, I tell you, whoever doesn’t receive God’s Kingdom like a little child, he will in no way enter into it.”
 
-18 A certain ruler asked him, saying, “Good Teacher, what shall I do to inherit eternal life?”
+18 A certain ruler asked him, saying, “Good Teacher, what should I do to inherit eternal life?”
 
 19 Jesus asked him, “Why do you call me good? No one is good, except one: God.
 
@@ -1838,7 +1838,7 @@ Luke 20
 
 12 He sent yet a third, and they also wounded him and threw him out.
 
-13 The lord of the vineyard said, ‘What shall I do? I will send my beloved son. It may be that seeing him, they will respect him.’
+13 The lord of the vineyard said, ‘What will I do? I will send my beloved son. It may be that seeing him, they will respect him.’
 
 14 “But when the farmers saw him, they reasoned among themselves, saying, ‘This is the heir. Come, let’s kill him, that the inheritance may be ours.’
 
@@ -2084,7 +2084,7 @@ Luke 22
 
 48 But Jesus said to him, “Judas, do you betray the Son of Man with a kiss?”
 
-49 When those who were around him saw what was about to happen, they said to him, “Lord, shall we strike with the sword?”
+49 When those who were around him saw what was about to happen, they said to him, “Lord, should we strike with the sword?”
 
 50 A certain one of them struck the servant of the high priest, and cut off his right ear.
 

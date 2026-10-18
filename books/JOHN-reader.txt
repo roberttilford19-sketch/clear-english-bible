@@ -1150,7 +1150,7 @@ John 12
 
 26 If anyone serves me, let him follow me. Where I am, there my servant will also be. If anyone serves me, the Father will honor him.
 
-27 “Now my soul is troubled. What shall I say? ‘Father, save me from this time’? But I came to this time for this cause.
+27 “Now my soul is troubled. What should I say? ‘Father, save me from this time’? But I came to this time for this cause.
 
 28 Father, glorify your name!” Then a voice came out of the sky, saying, “I have both glorified it and will glorify it again.”
 
@@ -1172,11 +1172,17 @@ John 12
 
 37 But though he had done so many signs before them, yet they didn’t believe in him,
 
-38 that the word of Isaiah the prophet might be fulfilled, which he spoke: “Lord, who has believed our report? To whom has the arm of the Lord been revealed?”
+38 that the word of Isaiah the prophet might be fulfilled, which he spoke:
+“Lord, who has believed our report?
+  To whom has the arm of the Lord been revealed?”
 
 39 For this cause they couldn’t believe, for Isaiah said again:
 
-40 “He has blinded their eyes and he hardened their heart, lest they should see with their eyes, and perceive with their heart, and would turn, and I would heal them.”
+40 “He has blinded their eyes and he hardened their heart,
+  lest they should see with their eyes,
+  and perceive with their heart,
+  and would turn,
+  and I would heal them.”
 
 41 Isaiah said these things when he saw his glory, and spoke of him.
 
@@ -1648,7 +1654,10 @@ John 19
 
 23 Then the soldiers, when they had crucified Jesus, took his garments and made four parts, to every soldier a part; and also the tunic. Now the tunic was without seam, woven from the top throughout.
 
-24 Then they said to one another, “Let’s not tear it, but cast lots for it to decide whose it will be,” that the Scripture might be fulfilled, which says, “They parted my garments among them. They cast lots for my clothing.” Therefore the soldiers did these things.
+24 Then they said to one another, “Let’s not tear it, but cast lots for it to decide whose it will be,” that the Scripture might be fulfilled, which says,
+“They parted my garments among them.
+  They cast lots for my clothing.”
+Therefore the soldiers did these things.
 
 25 But standing by Jesus’ cross were his mother, his mother’s sister, Mary the wife of Clopas, and Mary Magdalene.
 
