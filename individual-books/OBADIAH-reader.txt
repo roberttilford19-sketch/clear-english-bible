@@ -1,6 +1,8 @@
 Clear English Bible — Obadiah (Chapter 1): A Clear English Translation
 
-DRAFT — NOT FINISHED. Obadiah chapter 1 is an internally audited (AUDITED) draft, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Obadiah chapter 1 was internally audited (AUDITED), formerly stood as a draft awaiting Robert's read-through, and was formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Obadiah 1
 

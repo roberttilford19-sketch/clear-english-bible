@@ -1,6 +1,8 @@
 Clear English Bible — Exodus (Chapters 1–40): A Clear English Translation
 
-DRAFT — NOT FINISHED. Exodus chapters 1–40 are all internally audited (AUDITED) drafts; chapter 6's closing live verification of verses 14–30 was completed 2026-10-13 (see EXODUS-COMPLETION-REPORT.md). Partial draft, unpublished. Base: World English Bible Classic (public domain). Exodus chapters 1–40 are awaiting Robert's read-through. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Exodus chapters 1–40 were all internally audited (AUDITED) and formerly stood as drafts; chapter 6's closing live verification of verses 14–30 was completed 2026-10-13 (see EXODUS-COMPLETION-REPORT.md). The file was formerly labeled a partial draft, unpublished. Base: World English Bible Classic (public domain). Exodus chapters 1–40 were then awaiting Robert's read-through. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Exodus 1
 

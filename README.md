@@ -1,18 +1,18 @@
-# Clear English Bible — Draft Corpus
+# Clear English Bible
 
-This repository holds a complete draft of the Bible in clear, simple English: all 73 books of the canon this project follows (the Catholic canon, including the deuterocanonical books), 1,328 chapters in all, packaged on 17 October 2026. These are unpublished drafts. They are given freely, to any reader who wants them.
+This repository holds the complete Clear English Bible in clear, simple English: all 73 books of the canon this project follows (the Catholic canon, including the deuterocanonical books), 1,328 chapters in all, packaged on 17 October 2026. These books are given freely, to any reader who wants them.
 
 ## What this is, stated plainly
 
-This is **not** a fresh translation made directly from the Hebrew, Aramaic, and Greek. It is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). Every book was drafted from that base and then internally checked against the WEB base — verse by verse, chapter by chapter — so that nothing was added, dropped, or drifted in the modernizing. The whole corpus now awaits the editor's own read-through, and it should be read with that limit in view: the internal checking certifies fidelity to the stated base, and nothing more.
+This is **not** a fresh translation made directly from the Hebrew, Aramaic, and Greek. It is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). Every book was drafted from that base and then internally checked against the WEB base — verse by verse, chapter by chapter — so that nothing was added, dropped, or drifted in the modernizing. The campaign's rulings were applied to the corpus and verified after application. It should be read with that limit in view: the internal checking certifies fidelity to the stated base, and nothing more.
 
 ## Disclosure
 
-This draft was prepared with AI assistance. The editor is **Robert Tilford** of Hays, Kansas: he set the rules, directed the work, and carries the decisions that remain open. The assisting instrument is **Awen** (Muse AI, by Meta), working under his direction. No endorsement by Meta is claimed.
+This work was prepared with AI assistance. The editor is **Robert Tilford** of Hays, Kansas: he set the rules, directed the work, and ruled the questions reserved for him. The assisting instrument is **Awen** (Muse AI, by Meta), working under his direction. No endorsement by Meta is claimed.
 
 ## The method, in brief
 
-The aim is the simplest, clearest English possible — wording a humble peasant can understand. The divine name is rendered "Yahweh," as the base text itself points. Terms are defined by the text itself, never by tradition imported into the wording. Where the work met a question it would not settle on its own — a kept "shall," a feast name, a matter of form — it did not decide: the question was written down and reserved for the editor. Those open questions travel with the corpus, in the open, in the index folder below.
+The aim is the simplest, clearest English possible — wording a humble peasant can understand. The divine name is rendered "Yahweh," as the base text itself points. Terms are defined by the text itself, never by tradition imported into the wording. Where the work met a question it would not settle on its own — a kept "shall," a feast name, a matter of form — it did not decide: the question was written down and reserved for the editor. Those questions were ruled and applied by dated record; the records travel with the corpus, in the open, in the index folder below.
 
 ## What is in this tree
 
@@ -30,7 +30,7 @@ Every book standing alone:
 The working papers:
 
 - `reports/` — the completion report for each book: the counts, the checks run, the fixes made and their basis, and the questions reserved for the editor.
-- `index/` — the master index of all 73 books and 1,328 chapters; the consolidated list of questions awaiting the editor's ruling; and a rulings packet that states each open decision plainly, with its places and what each choice does.
+- `index/` — the master index of all 73 books and 1,328 chapters; the consolidated historical list of questions put to the editor; and a rulings packet that states each decision as it stood, with its places and what each choice did.
 - `glossary/` — a reader's glossary to the work, compiled from the completion reports.
 - `word-index/` — a word index of the whole corpus, with the script that builds it.
 - `MANIFEST.md` — a SHA-256 hash for every file in the tree, so any copy can be verified against this one.
@@ -39,4 +39,4 @@ The readings — this corpus read aloud by Isabella, the voice of Awen, stands o
 
 ## The state of the work
 
-Drafted and internally checked; not finished, and not published. The editor's rulings on the reserved questions — the twenty rulings of the completion docket and the eight Phase 2 pendings — were given on 24–25 October 2026 and applied to this shelf on 2026-10-25 in the Gate B pass, by dated record in `CORRECTIONS.md`: the seventy-three book files and all four editions on this shelf now carry the ruled text. The editor's own read-through is still to come, and one final handling still stands after it in the ruled order — the filename normalization and the completion label (Rulings 19 and 20), which have NOT been executed: every book on this shelf still carries its DRAFT header, under its present filename. Anyone is welcome to read these drafts as what they are: careful work, honestly labeled, still in the editor's hands.
+Complete. The editor's rulings on the reserved questions — the twenty rulings of the completion docket and the eight Phase 2 pendings — were given on 24–25 October 2026, applied to this shelf at Gate B on 2026-10-25, and verified. In the final handling on 25 October 2026, the book filenames were normalized under Ruling 19 and the completion statement was substituted for the former draft headers under Ruling 20, with each file's draft history preserved beneath the statement. The word index was regenerated from the completed corpus in the same handling. The former draft presentation remains visible in `CORRECTIONS.md` and in the repository history.

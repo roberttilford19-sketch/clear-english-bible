@@ -1,24 +1,28 @@
 Clear English Bible — Apocrypha Edition
 
-This volume gathers the seven deuterocanonical books of the Clear English Bible draft corpus into one file: Tobit, Judith, Wisdom, Sirach, Baruch, and 1 and 2 Maccabees — 137 chapters in all, in the order in which they stand in the Catholic Edition on this shelf. It is an unpublished draft, given freely to any reader who wants it.
+This volume gathers the seven deuterocanonical books of the Clear English Bible corpus into one file: Tobit, Judith, Wisdom, Sirach, Baruch, and 1 and 2 Maccabees — 137 chapters in all, in the order in which they stand in the Catholic Edition on this shelf. It is given freely to any reader who wants it.
 
-What this is, stated plainly. This is not a fresh translation made directly from the Hebrew, Aramaic, and Greek. It is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). Every book was drafted from that base and then internally checked against it, verse by verse and chapter by chapter, so that nothing was added, dropped, or drifted in the modernizing. The whole corpus now awaits the editor's own read-through, and it should be read with that limit in view: the internal checking certifies fidelity to the stated base, and nothing more.
+What this is, stated plainly. This is not a fresh translation made directly from the Hebrew, Aramaic, and Greek. It is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). Every book was prepared from that base and then internally checked against it, verse by verse and chapter by chapter, so that nothing was added, dropped, or drifted in the modernizing. The campaign's rulings were applied to the corpus and verified after application. The internal checking certifies fidelity to the stated base, and nothing more.
 
-Disclosure. This draft was prepared with AI assistance. The editor is Robert Tilford of Hays, Kansas: he set the rules, directed the work, and carries the decisions that remain open. The assisting instrument is Awen (Muse AI, by Meta), working under his direction. No endorsement by Meta is claimed.
+Disclosure. This work was prepared with AI assistance. The editor is Robert Tilford of Hays, Kansas: he set the rules, directed the work, and ruled the questions reserved for him. The assisting instrument is Awen (Muse AI, by Meta), working under his direction. No endorsement by Meta is claimed.
 
-The method, in brief. The aim is the simplest, clearest English possible — wording a humble peasant can understand. The divine name is rendered "Yahweh," as the base text itself points. Terms are defined by the text itself, never by tradition imported into the wording. Where the work met a question it would not settle on its own — a kept "shall," a feast name, a matter of form — it did not decide: the question was written down and reserved for the editor, and those reserved questions stand recorded in the completion report that accompanies each book on this shelf.
+The method, in brief. The aim is the simplest, clearest English possible — wording a humble peasant can understand. The divine name is rendered "Yahweh," as the base text itself points. Terms are defined by the text itself, never by tradition imported into the wording. Where the work met a question it would not settle on its own — a kept "shall," a feast name, a matter of form — it did not decide: the question was written down and reserved for the editor, and those reserved questions were recorded in the completion report that accompanies each book on this shelf and were later ruled and applied by dated record.
 
 How this edition was drawn. These seven books are the whole of the difference between the Catholic canon this project follows and the sixty-six protocanonical books. They stand complete in the Catholic Edition on this shelf, and each stands alone in its own book file; they are gathered here as an edition of their own so that a reader who wants these books by themselves can take them by themselves. Nothing has been added to them, and nothing taken away.
 
 How this volume was assembled. The books below are the packaged reader files of the corpus, set one after another in the order in which they stand in the Catholic Edition; no book's wording has been altered in the assembling. Each book keeps its own header exactly as it was packaged. This volume was gathered on 24 October 2026, when the editor settled the name of the work as the Clear English Bible and ruled that these seven books stand as an edition of their own on this shelf.
 
-The state of the work. Drafted and internally checked; not finished, and not published. The editor's read-through is still to come, and his rulings on the reserved questions will be applied in a later pass, by dated record, before any edition is offered as final. Read these drafts as what they are: careful work, honestly labeled, still in the editor's hands.
+COMPLETE — This edition of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew, Aramaic, and Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. This edition formerly stated that the work was drafted and internally checked; not finished, and not published. It said that the editor's read-through was still to come and that his rulings on the reserved questions would be applied in a later pass, by dated record, before any edition was offered as final, and it asked readers to read the drafts as careful work, honestly labeled, still in the editor's hands. The rulings were applied and verified at Gate B, and this completion label was substituted in the final handling under Ruling 20; the former wording remains in the repository history.
 
 ========================================================================
 
 Clear English Bible — Tobit (Chapters 1–14): A Clear English Translation
 
-DRAFT — NOT FINISHED. Tobit chapters 1–14 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Tobit chapters 1–14 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Tobit 1
 
@@ -538,7 +542,9 @@ Tobit 14
 
 Clear English Bible — Judith (Chapters 1–16): A Clear English Translation
 
-DRAFT — NOT FINISHED. Judith chapters 1–16 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Judith chapters 1–16 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Judith 1
 
@@ -1252,7 +1258,9 @@ Judith 16
 
 Clear English Bible — Wisdom (Chapters 1–19): A Clear English Translation
 
-DRAFT — NOT FINISHED. Wisdom chapters 1–19 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Wisdom chapters 1–19 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Wisdom 1
 
@@ -2166,7 +2174,9 @@ Wisdom 19
 
 Clear English Bible — Sirach (Chapters 1–51): A Clear English Translation
 
-DRAFT — NOT FINISHED. Sirach chapters 1–51 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. Sirach (Ecclesiasticus) does not stand in the main text of the King James Version or the American Standard Version (1901), so for this book no KJV/ASV control arises. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. Sirach (Ecclesiasticus) does not stand in the main text of the King James Version or the American Standard Version (1901), so for this book no KJV/ASV control arises. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Sirach chapters 1–51 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 The Prologue of the Wisdom of Jesus the Son of Sirach
 
@@ -5068,7 +5078,9 @@ A Prayer of Jesus the son of Sirach.
 
 Clear English Bible — Baruch (Chapters 1–6): A Clear English Translation
 
-DRAFT — NOT FINISHED. Baruch chapters 1–6 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Baruch chapters 1–6 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Baruch 1
 
@@ -5512,7 +5524,9 @@ The Letter of Jeremy (Jeremiah)
 
 Clear English Bible — 1 Maccabees (Chapters 1–16): A Clear English Translation
 
-DRAFT — NOT FINISHED. 1 Maccabees chapters 1–16 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. 1 Maccabees chapters 1–16 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 1 Maccabees 1
 
@@ -7396,7 +7410,9 @@ DRAFT — NOT FINISHED. 1 Maccabees chapters 1–16 are all internally audited (
 
 Clear English Bible — 2 Maccabees (Chapters 1–15): A Clear English Translation
 
-DRAFT — NOT FINISHED. 2 Maccabees chapters 1–15 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. 2 Maccabees chapters 1–15 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 2 Maccabees 1
 

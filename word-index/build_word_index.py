@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Build WORD-INDEX.md — a mechanical index of every word in the 73-book
-Clear English Bible draft corpus, from the staged reader files in ../books/.
+Clear English Bible corpus, from the reader files in ../individual-books/.
 
 Tokenization rules (also stated at the top of WORD-INDEX.md):
-  * The corpus is the complete staged reader files, exactly as staged,
-    including each book's header and draft notice, and including verse
+  * The corpus is the complete reader files, exactly as they stand,
+    including each book's completion statement and draft-history note, and including verse
     numerals as they stand in the files.
   * A word (token) is a maximal run of Unicode letters and digits.
     An apostrophe (' or U+2019) inside such a run counts as part of the
@@ -27,16 +27,16 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-BOOKS = HERE.parent / "books"
+BOOKS = HERE.parent / "individual-books"
 
 ORDER = [
-    ("Genesis", "genesis-reader.txt"), ("Exodus", "EXODUS-reader.txt"),
+    ("Genesis", "GENESIS-reader.txt"), ("Exodus", "EXODUS-reader.txt"),
     ("Leviticus", "LEVITICUS-reader.txt"), ("Numbers", "NUMBERS-reader.txt"),
     ("Deuteronomy", "DEUTERONOMY-reader.txt"), ("Joshua", "JOSHUA-reader.txt"),
     ("Judges", "JUDGES-reader.txt"), ("Ruth", "RUTH-reader.txt"),
-    ("1 Samuel", "1SAMUEL-reader.txt"), ("2 Samuel", "2SAMUEL-reader.txt"),
-    ("1 Kings", "1KINGS-reader.txt"), ("2 Kings", "2KINGS-reader.txt"),
-    ("1 Chronicles", "1CHRONICLES-reader.txt"), ("2 Chronicles", "2CHRONICLES-reader.txt"),
+    ("1 Samuel", "1-SAMUEL-reader.txt"), ("2 Samuel", "2-SAMUEL-reader.txt"),
+    ("1 Kings", "1-KINGS-reader.txt"), ("2 Kings", "2-KINGS-reader.txt"),
+    ("1 Chronicles", "1-CHRONICLES-reader.txt"), ("2 Chronicles", "2-CHRONICLES-reader.txt"),
     ("Ezra", "EZRA-reader.txt"), ("Nehemiah", "NEHEMIAH-reader.txt"),
     ("Tobit", "TOBIT-reader.txt"), ("Judith", "JUDITH-reader.txt"),
     ("Esther", "ESTHER-reader.txt"), ("Job", "JOB-reader.txt"),
@@ -52,7 +52,7 @@ ORDER = [
     ("Nahum", "NAHUM-reader.txt"), ("Habakkuk", "HABAKKUK-reader.txt"),
     ("Zephaniah", "ZEPHANIAH-reader.txt"), ("Haggai", "HAGGAI-reader.txt"),
     ("Zechariah", "ZECHARIAH-reader.txt"), ("Malachi", "MALACHI-reader.txt"),
-    ("1 Maccabees", "1MACCABEES-reader.txt"), ("2 Maccabees", "2MACCABEES-reader.txt"),
+    ("1 Maccabees", "1-MACCABEES-reader.txt"), ("2 Maccabees", "2-MACCABEES-reader.txt"),
     ("Matthew", "MATTHEW-reader.txt"), ("Mark", "MARK-reader.txt"),
     ("Luke", "LUKE-reader.txt"), ("John", "JOHN-reader.txt"),
     ("Acts", "ACTS-reader.txt"), ("Romans", "ROMANS-reader.txt"),
@@ -132,17 +132,17 @@ def main():
         print(f"Genesis verification: AGREE ({len(perl)} words, {sum(perl.values())} tokens)")
 
     lines = []
-    lines.append("# Word Index — Clear Translation Bible (Clear English Bible draft corpus)")
+    lines.append("# Word Index — Clear English Bible (completed corpus)")
     lines.append("")
-    lines.append("A complete index of every word used in the 73 books of the draft corpus, "
-                 "generated mechanically by script (`build_word_index.py`, kept beside this file) "
-                 "from the staged reader files in `books/`. It is a machine-generated index: no "
+    lines.append( "A complete index of every word used in the 73 books of the corpus, "
+                  "generated mechanically by script (`build_word_index.py`, kept beside this file) "
+                 "from the reader files in `individual-books/`. It is a machine-generated index: no "
                  "entry was written or corrected by hand.")
     lines.append("")
     lines.append("## Tokenization rules")
     lines.append("")
-    lines.append("- The corpus is the complete staged reader files, exactly as staged, including each "
-                 "book's header and draft notice, and including the verse numerals as they stand in the files.")
+    lines.append("- The corpus is the complete reader files, exactly as they stand, including each "
+                 "book's completion statement and draft-history note, and including the verse numerals as they stand in the files.")
     lines.append("- A word (token) is a maximal run of Unicode letters and digits. An apostrophe "
                  "(' or ') inside such a run counts as part of the word when it sits between two "
                  "letters or digits, so \"God's\" and \"don't\" are single words; a leading or trailing "

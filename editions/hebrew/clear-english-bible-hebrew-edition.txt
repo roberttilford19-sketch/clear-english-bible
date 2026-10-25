@@ -2,27 +2,31 @@ Clear English Bible — Hebrew Edition
 
 The Torah, the Prophets, and the Writings — A Clear English Translation
 
-This volume gathers the Old Testament books of the Clear English Bible draft corpus into one file, arranged in the Hebrew Bible's own threefold order: the Torah, the five books from Genesis to Deuteronomy; the Prophets, from Joshua to Malachi; and the Writings, from Psalms to Chronicles — thirty-nine books, 931 chapters in all, counted from the books as they stand in this corpus. It is one volume of the Clear Translation Bible shelf. It is an unpublished draft, given freely to any reader who wants it.
+This volume gathers the Old Testament books of the Clear English Bible corpus into one file, arranged in the Hebrew Bible's own threefold order: the Torah, the five books from Genesis to Deuteronomy; the Prophets, from Joshua to Malachi; and the Writings, from Psalms to Chronicles — thirty-nine books, 931 chapters in all, counted from the books as they stand in this corpus. It is one volume of the Clear Translation Bible shelf. It is given freely to any reader who wants it.
 
-What this is, stated plainly. This is not a fresh translation made directly from the Hebrew. It is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). Every book was drafted from that base and then internally checked against it, verse by verse and chapter by chapter, so that nothing was added, dropped, or drifted in the modernizing. The whole corpus now awaits the editor's own read-through, and it should be read with that limit in view: the internal checking certifies fidelity to the stated base, and nothing more.
+What this is, stated plainly. This is not a fresh translation made directly from the Hebrew. It is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). Every book was prepared from that base and then internally checked against it, verse by verse and chapter by chapter, so that nothing was added, dropped, or drifted in the modernizing. The campaign's rulings were applied to the corpus and verified after application. The internal checking certifies fidelity to the stated base, and nothing more.
 
-The additions, by the editor's ruling. Two books in this volume stand complete with material that came to them in Greek. Esther stands complete as drafted, its Greek additions in place within the text, brackets and all. Daniel stands complete as drafted, all fourteen chapters, with Susanna as its thirteenth chapter and Bel and the Dragon as its fourteenth; on its own pages the book rides under its packaged title, Greek Daniel. These additions are Greek in origin, not Hebrew, and they stand in a volume named for the Hebrew Bible's order because the editor ruled that they stand complete as drafted — a ruling stated openly here, so that no reader mistakes what in these two books is Hebrew and what is Greek.
+The additions, by the editor's ruling. Two books in this volume stand complete with material that came to them in Greek. Esther stands complete as prepared, its Greek additions in place within the text, brackets and all. Daniel stands complete as prepared, all fourteen chapters, with Susanna as its thirteenth chapter and Bel and the Dragon as its fourteenth; on its own pages the book rides under its packaged title, Greek Daniel. These additions are Greek in origin, not Hebrew, and they stand in a volume named for the Hebrew Bible's order because the editor ruled that they stand complete as prepared — a ruling stated openly here, so that no reader mistakes what in these two books is Hebrew and what is Greek.
 
 The seven books not in this volume. Tobit, Judith, Wisdom, Sirach, Baruch, and 1 and 2 Maccabees are not gathered here, for they are no part of the Hebrew canon this volume's title names. They stand on this same shelf in the Catholic edition, and each in its own book file, as open to any reader as everything else here. Their absence from this volume is the boundary of the canon it represents, drawn openly, and nothing more.
 
-Disclosure. This draft was prepared with AI assistance. The editor is Robert Tilford of Hays, Kansas: he set the rules, directed the work, and carries the decisions that remain open. The assisting instrument is Awen (Muse AI, by Meta), working under his direction. No endorsement by Meta is claimed.
+Disclosure. This work was prepared with AI assistance. The editor is Robert Tilford of Hays, Kansas: he set the rules, directed the work, and ruled the questions reserved for him. The assisting instrument is Awen (Muse AI, by Meta), working under his direction. No endorsement by Meta is claimed.
 
-The method, in brief. The aim is the simplest, clearest English possible — wording a humble peasant can understand. The divine name is rendered "Yahweh," as the base text itself points. Terms are defined by the text itself, never by tradition imported into the wording. Where the work met a question it would not settle on its own — a kept "shall," a feast name, a matter of form — it did not decide: the question was written down and reserved for the editor, and those reserved questions stand recorded in the completion report that accompanies each book on this shelf.
+The method, in brief. The aim is the simplest, clearest English possible — wording a humble peasant can understand. The divine name is rendered "Yahweh," as the base text itself points. Terms are defined by the text itself, never by tradition imported into the wording. Where the work met a question it would not settle on its own — a kept "shall," a feast name, a matter of form — it did not decide: the question was written down and reserved for the editor, and those reserved questions were recorded in the completion report that accompanies each book on this shelf and were later ruled and applied by dated record.
 
-How this volume was assembled. The books below are the packaged reader files of the corpus, set one after another in the order of the Torah, the Prophets, and the Writings; no book's wording has been altered in the assembling. Samuel, Kings, and Chronicles each ride in their two parts, exactly as drafted, and Ezra and Nehemiah stand side by side as their own books, as drafted. Each book keeps its own header exactly as it was packaged, under the working name "Clear English Bible" that the books were drafted under; the name of this volume belongs to this shelf, and the books' own pages were not re-lettered to match it.
+How this volume was assembled. The books below are the packaged reader files of the corpus, set one after another in the order of the Torah, the Prophets, and the Writings; no book's wording has been altered in the assembling. Samuel, Kings, and Chronicles each ride in their two parts, exactly as prepared, and Ezra and Nehemiah stand side by side as their own books, as prepared. Each book keeps its own header exactly as it was packaged, under the working name "Clear English Bible" that the books were prepared under; the name of this volume belongs to this shelf, and the books' own pages were not re-lettered to match it.
 
-The state of the work. Drafted and internally checked; not finished, and not published. The editor's read-through is still to come, and his rulings on the reserved questions will be applied in a later pass, by dated record, before any edition is offered as final. Read these drafts as what they are: careful work, honestly labeled, still in the editor's hands.
+COMPLETE — This edition of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. This edition formerly stated that the work was drafted and internally checked; not finished, and not published. It said that the editor's read-through was still to come and that his rulings on the reserved questions would be applied in a later pass, by dated record, before any edition was offered as final, and it asked readers to read the drafts as careful work, honestly labeled, still in the editor's hands. The rulings were applied and verified at Gate B, and this completion label was substituted in the final handling under Ruling 20; the former wording remains in the repository history.
 
 ========================================================================
 
 Clear English Bible — Genesis (Chapters 1–50): A Clear English Translation
 
-DRAFT — NOT FINISHED. Genesis is now complete in draft: all 50 chapters drafted and internally audited (chapters 1–23 from earlier runs; chapters 24–50 added 2026-10-13), every chapter stopping at AUDITED pending Robert's read-through. Partial draft of the whole work, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Genesis was first completed in draft with all 50 chapters drafted and internally audited (chapters 1–23 from earlier runs; chapters 24–50 added 2026-10-13), every chapter then stopping at AUDITED pending Robert's read-through. The file was formerly labeled a partial draft of the whole work, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Genesis 1
 
@@ -3486,7 +3490,9 @@ Genesis 50
 
 Clear English Bible — Exodus (Chapters 1–40): A Clear English Translation
 
-DRAFT — NOT FINISHED. Exodus chapters 1–40 are all internally audited (AUDITED) drafts; chapter 6's closing live verification of verses 14–30 was completed 2026-10-13 (see EXODUS-COMPLETION-REPORT.md). Partial draft, unpublished. Base: World English Bible Classic (public domain). Exodus chapters 1–40 are awaiting Robert's read-through. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Exodus chapters 1–40 were all internally audited (AUDITED) and formerly stood as drafts; chapter 6's closing live verification of verses 14–30 was completed 2026-10-13 (see EXODUS-COMPLETION-REPORT.md). The file was formerly labeled a partial draft, unpublished. Base: World English Bible Classic (public domain). Exodus chapters 1–40 were then awaiting Robert's read-through. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Exodus 1
 
@@ -5998,7 +6004,9 @@ Exodus 40
 
 Clear English Bible — Leviticus (Chapters 1–27): A Clear English Translation
 
-DRAFT — NOT FINISHED. Leviticus chapters 1–27 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Leviticus chapters 1–27 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Leviticus 1
 
@@ -7772,7 +7780,9 @@ Leviticus 27
 
 Clear English Bible — Numbers (Chapters 1–36): A Clear English Translation
 
-DRAFT — NOT FINISHED. Numbers chapters 1–36 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Numbers chapters 1–36 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Numbers 1
 
@@ -10424,7 +10434,9 @@ Numbers 36
 
 Clear English Bible — Deuteronomy (Chapters 1–34): A Clear English Translation
 
-DRAFT — NOT FINISHED. Deuteronomy chapters 1–34 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Deuteronomy chapters 1–34 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Deuteronomy 1
 
@@ -12594,7 +12606,9 @@ Deuteronomy 34
 
 Clear English Bible — Joshua (Chapters 1–24): A Clear English Translation
 
-DRAFT — NOT FINISHED. Joshua chapters 1–24 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Joshua chapters 1–24 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Joshua 1
 
@@ -13964,7 +13978,9 @@ They said, “We are witnesses.”
 
 Clear English Bible — Judges (Chapters 1–21): A Clear English Translation
 
-DRAFT — NOT FINISHED. Judges chapters 1–21 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Judges chapters 1–21 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Judges 1
 
@@ -15246,7 +15262,9 @@ Judges 21
 
 Clear English Bible — 1 Samuel (Chapters 1–31): A Clear English Translation
 
-DRAFT — NOT FINISHED. 1 Samuel chapters 1–31 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. 1 Samuel chapters 1–31 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 1 Samuel 1
 
@@ -16932,7 +16950,9 @@ DRAFT — NOT FINISHED. 1 Samuel chapters 1–31 are all internally audited (AUD
 
 Clear English Bible — 2 Samuel (Chapters 1–24): A Clear English Translation
 
-DRAFT — NOT FINISHED. 2 Samuel chapters 1–24 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. 2 Samuel chapters 1–24 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 2 Samuel 1
 
@@ -18374,7 +18394,9 @@ DRAFT — NOT FINISHED. 2 Samuel chapters 1–24 are all internally audited (AUD
 
 Clear English Bible — 1 Kings (Chapters 1–22): A Clear English Translation
 
-DRAFT — NOT FINISHED. 1 Kings chapters 1–22 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. 1 Kings chapters 1–22 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 1 Kings 1
 
@@ -20054,7 +20076,9 @@ DRAFT — NOT FINISHED. 1 Kings chapters 1–22 are all internally audited (AUDI
 
 Clear English Bible — 2 Kings (Chapters 1–25): A Clear English Translation
 
-DRAFT — NOT FINISHED. 2 Kings chapters 1–25 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. 2 Kings chapters 1–25 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 2 Kings 1
 
@@ -21546,7 +21570,9 @@ DRAFT — NOT FINISHED. 2 Kings chapters 1–25 are all internally audited (AUDI
 
 Clear English Bible — Isaiah (Chapters 1–66): A Clear English Translation
 
-DRAFT — NOT FINISHED. Isaiah chapters 1–66 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Isaiah chapters 1–66 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Isaiah 1
 
@@ -26266,7 +26292,9 @@ to give his anger with fierceness,
 
 Clear English Bible — Jeremiah (Chapters 1–52): A Clear English Translation
 
-DRAFT — NOT FINISHED. Jeremiah chapters 1–52 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Jeremiah chapters 1–52 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Jeremiah 1
 
@@ -30606,7 +30634,9 @@ Jeremiah 52
 
 Clear English Bible — Ezekiel (Chapters 1–48): A Clear English Translation
 
-DRAFT — NOT FINISHED. Ezekiel chapters 1–48 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Ezekiel chapters 1–48 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Ezekiel 1
 
@@ -33631,7 +33661,9 @@ Ezekiel 48
 
 Clear English Bible — Hosea (Chapters 1–14): A Clear English Translation
 
-DRAFT — NOT FINISHED. Hosea chapters 1–14 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Hosea chapters 1–14 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Hosea 1
 
@@ -34472,7 +34504,9 @@ Hosea 14
 
 Clear English Bible — Joel (Chapters 1–3): A Clear English Translation
 
-DRAFT — NOT FINISHED. Joel chapters 1–3 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Joel chapters 1–3 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Joel 1
 
@@ -34809,7 +34843,9 @@ Then Jerusalem will be holy,
 
 Clear English Bible — Amos (Chapters 1–9): A Clear English Translation
 
-DRAFT — NOT FINISHED. Amos chapters 1–9 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Amos chapters 1–9 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Amos 1
 
@@ -35385,7 +35421,9 @@ They will also make gardens,
 
 Clear English Bible — Obadiah (Chapter 1): A Clear English Translation
 
-DRAFT — NOT FINISHED. Obadiah chapter 1 is an internally audited (AUDITED) draft, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Obadiah chapter 1 was internally audited (AUDITED), formerly stood as a draft awaiting Robert's read-through, and was formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Obadiah 1
 
@@ -35433,7 +35471,9 @@ Obadiah 1
 
 Clear English Bible — Jonah (Chapters 1–4): A Clear English Translation
 
-DRAFT — NOT FINISHED. Jonah chapters 1–4 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Jonah chapters 1–4 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Jonah 1
 
@@ -35557,7 +35597,9 @@ Jonah 4
 
 Clear English Bible — Micah (Chapters 1–7): A Clear English Translation
 
-DRAFT — NOT FINISHED. Micah chapters 1–7 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Micah chapters 1–7 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Micah 1
 
@@ -36053,7 +36095,9 @@ He doesn’t retain his anger forever,
 
 Clear English Bible — Nahum (Chapters 1–3): A Clear English Translation
 
-DRAFT — NOT FINISHED. Nahum chapters 1–3 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Nahum chapters 1–3 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Nahum 1
 
@@ -36157,7 +36201,9 @@ Nahum 3
 
 Clear English Bible — Habakkuk (Chapters 1–3): A Clear English Translation
 
-DRAFT — NOT FINISHED. Habakkuk chapters 1–3 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Habakkuk chapters 1–3 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Habakkuk 1
 
@@ -36327,7 +36373,9 @@ For the music director, on my stringed instruments.
 
 Clear English Bible — Zephaniah (Chapters 1–3): A Clear English Translation
 
-DRAFT — NOT FINISHED. Zephaniah chapters 1–3 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Zephaniah chapters 1–3 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Zephaniah 1
 
@@ -36443,7 +36491,9 @@ Zephaniah 3
 
 Clear English Bible — Haggai (Chapters 1–2): A Clear English Translation
 
-DRAFT — NOT FINISHED. Haggai chapters 1–2 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Haggai chapters 1–2 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Haggai 1
 
@@ -36527,7 +36577,9 @@ Haggai 2
 
 Clear English Bible — Zechariah (Chapters 1–14): A Clear English Translation
 
-DRAFT — NOT FINISHED. Zechariah chapters 1–14 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Zechariah chapters 1–14 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Zechariah 1
 
@@ -37083,7 +37135,9 @@ Zechariah 14
 
 Clear English Bible — Malachi (Chapters 1–4): A Clear English Translation
 
-DRAFT — NOT FINISHED. Malachi chapters 1–4 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Malachi chapters 1–4 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Malachi 1
 
@@ -37205,7 +37259,9 @@ Malachi 4
 
 Clear English Bible — Psalms (Psalms 1–150): A Clear English Translation
 
-DRAFT — NOT FINISHED. Psalms 1–150 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Psalms 1–150 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Psalm 1
 
@@ -45794,7 +45850,9 @@ Psalm 150
 
 Clear English Bible — Proverbs (Chapters 1–31): A Clear English Translation
 
-DRAFT — NOT FINISHED. Proverbs chapters 1–31 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Proverbs chapters 1–31 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Proverbs 1
 
@@ -47690,7 +47748,9 @@ Proverbs 31
 
 Clear English Bible — Job (Chapters 1–42): A Clear English Translation
 
-DRAFT — NOT FINISHED. Job chapters 1–42 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Job chapters 1–42 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Job 1
 
@@ -51020,7 +51080,9 @@ Job 42
 
 Clear English Bible — Song of Songs (Chapters 1–8): A Clear English Translation
 
-DRAFT — NOT FINISHED. Song of Songs chapters 1–8 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Song of Songs chapters 1–8 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Song of Songs 1
 
@@ -51350,7 +51412,9 @@ Beloved
 
 Clear English Bible — Ruth (Chapters 1–4): A Clear English Translation
 
-DRAFT — NOT FINISHED. Ruth chapters 1–4 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Ruth chapters 1–4 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Ruth 1
 
@@ -51532,7 +51596,9 @@ Ruth 4
 
 Clear English Bible — Lamentations (Chapters 1–5): A Clear English Translation
 
-DRAFT — NOT FINISHED. Lamentations chapters 1–5 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Lamentations chapters 1–5 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Lamentations 1
 
@@ -52160,7 +52226,9 @@ Lamentations 5
 
 Clear English Bible — Ecclesiastes (Chapters 1–12): A Clear English Translation
 
-DRAFT — NOT FINISHED. Ecclesiastes chapters 1–12 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Ecclesiastes chapters 1–12 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Ecclesiastes 1
 
@@ -52703,7 +52771,9 @@ Ecclesiastes 12
 
 Clear English Bible — Esther (Chapters 1–10): A Clear English Translation
 
-DRAFT — NOT FINISHED. Esther chapters 1–10 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor. This is Esther in its Greek (Catholic) form with the additions, taken from the base's ESG listing — not the Hebrew form (EST).
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor. This is Esther in its Greek (Catholic) form with the additions, taken from the base's ESG listing — not the Hebrew form (EST).
+
+Draft history — 25 October 2026. Esther chapters 1–10 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Esther 1
 
@@ -53153,7 +53223,9 @@ Esther 10
 
 Clear English Bible — Greek Daniel (Chapters 1–14): A Clear English Translation
 
-DRAFT — NOT FINISHED. Greek Daniel chapters 1–14 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Greek Daniel chapters 1–14 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Greek Daniel 1
 
@@ -54253,7 +54325,9 @@ Bel and the Dragon
 
 Clear English Bible — Ezra (Chapters 1–10): A Clear English Translation
 
-DRAFT — NOT FINISHED. Ezra chapters 1–10 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Ezra chapters 1–10 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Ezra 1
 
@@ -54837,7 +54911,9 @@ Ezra 10
 
 Clear English Bible — Nehemiah (Chapters 1–13): A Clear English Translation
 
-DRAFT — NOT FINISHED. Nehemiah chapters 1–13 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. Nehemiah chapters 1–13 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Nehemiah 1
 
@@ -55679,7 +55755,9 @@ Nehemiah 13
 
 Clear English Bible — 1 Chronicles (Chapters 1–29): A Clear English Translation
 
-DRAFT — NOT FINISHED. 1 Chronicles chapters 1–29 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. 1 Chronicles chapters 1–29 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 1 Chronicles 1
 
@@ -57625,7 +57703,9 @@ DRAFT — NOT FINISHED. 1 Chronicles chapters 1–29 are all internally audited 
 
 Clear English Bible — 2 Chronicles (Chapters 1–36): A Clear English Translation
 
-DRAFT — NOT FINISHED. 2 Chronicles chapters 1–36 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. 2 Chronicles chapters 1–36 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 2 Chronicles 1
 

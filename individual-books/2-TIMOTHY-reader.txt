@@ -1,6 +1,8 @@
 Clear English Bible — 2 Timothy (Chapters 1–4): A Clear English Translation
 
-DRAFT — NOT FINISHED. 2 Timothy chapters 1–4 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This draft was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+
+Draft history — 25 October 2026. 2 Timothy chapters 1–4 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 2 Timothy 1
 
