@@ -2,6 +2,10 @@ Clear English Bible — Sirach (Chapters 1–51): A Clear English Translation
 
 DRAFT — NOT FINISHED. Sirach chapters 1–51 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. Sirach (Ecclesiasticus) does not stand in the main text of the King James Version or the American Standard Version (1901), so for this book no KJV/ASV control arises. This draft was prepared with AI assistance. Robert Tilford is the editor.
 
+The Prologue of the Wisdom of Jesus the Son of Sirach
+
+WHEREAS many and great things have been delivered to us by the law and the prophets, and by the others that have followed in their steps, for which we must give Israel the praise for instruction and wisdom; and since not only the readers need to become skillful themselves, but also those who love learning must be able to profit those who are outside, both by speaking and writing; my grandfather Jesus, having much given himself to the reading of the law, the prophets, and the other books of our fathers, and having gained great familiarity with them, was also drawn on himself to write somewhat pertaining to instruction and wisdom, in order that those who love learning, and are devoted to these things, might make progress much more by living according to the law. You are entreated therefore to read with favor and attention, and to pardon us, if in any parts of what we have labored to interpret, we may seem to fail in some of the phrases. For things originally spoken in Hebrew don’t have the same force in them when they are translated into another language. Not only these, but the law itself, and the prophecies, and the rest of the books, have no small difference, when they are spoken in their original language. For having come into Egypt in the thirty-eighth year of Energetes the king, and having continued there some time, I found a copy giving no small instruction. I thought it therefore most necessary for me to apply some diligence and travail to translate this book, applying indeed much watchfulness and skill in that space of time to bring the book to an end and publish for them also, who in the land of their travels are desiring to learn, preparing their character in advance, so as to live according to the law.
+
 Sirach 1
 
 1 All wisdom comes from the Lord, and is with him forever.
@@ -12,11 +16,11 @@ Sirach 1
 
 4 Wisdom has been created before all things, and the understanding of prudence from everlasting.
 
-5 
+5 [Reader’s note: Verse 5 is omitted by the best authorities: The source of wisdom is God’s word in the highest heaven, and her ways are the eternal commandments.]
 
 6 To whom has the root of wisdom been revealed? Who has known her shrewd counsels?
 
-7 
+7 [Reader’s note: Verse 7 is omitted by the best authorities: To whom was the knowledge of wisdom manifested? Who has understood her abundant experience?]
 
 8 There is one wise, greatly to be feared, sitting upon his throne: the Lord.
 
@@ -44,7 +48,7 @@ Sirach 1
 
 20 To fear the Lord is the root of wisdom. Her branches are length of days.
 
-21 
+21 [Reader’s note: Verse 21 is omitted by the best authorities: The fear of the Lord drives away sins. Where it resides, it will turn away all anger.]
 
 22 Unjust wrath can never be justified, for his wrath tips the scale to his downfall.
 
@@ -140,7 +144,7 @@ Sirach 3
 
 18 The greater you are, humble yourself the more, and you will find favor before the Lord.
 
-19 
+19 [Reader’s note: Some manuscripts add Many are lofty and renowned, but he reveals his secrets to the humble.]
 
 20 For the power of the Lord is great, and he is glorified by those who are lowly.
 
@@ -358,7 +362,7 @@ Sirach 7
 
 9 Don’t say, “He will look upon the multitude of my gifts. When I make an offering to the Most High God, he will accept it.”
 
-10 Don’t be faint-hearted in your prayer. Don’t neglect to give alms.
+10 Don’t be faint-hearted in your prayer. Don’t neglect to give to the poor.
 
 11 Don’t laugh a man to scorn when he is in the bitterness of his soul, for there is one who humbles and exalts.
 
@@ -532,7 +536,7 @@ Sirach 10
 
 20 In the midst of kindred he who rules them has honor. Those who fear the Lord have honor in his eyes.
 
-21
+21 [Reader’s note: Verse 21 is omitted by the best authorities: Fear of the Lord is the beginning of acceptance, but obstinance and pride are the beginning of rejection.]
 
 22 The rich man, the honorable, and the poor all glory in the fear of the Lord.
 
@@ -584,7 +588,9 @@ Sirach 11
 
 14 Good things and bad, life and death, poverty and riches, are from the Lord.
 
-15-16
+15 [Reader’s note: Verses 15 and 16 are omitted by the best authorities.]
+
+16 [Reader’s note: Verses 15 and 16 are omitted by the best authorities.]
 
 17 The Lord’s gift remains with the godly. His good pleasure will prosper forever.
 
@@ -628,7 +634,7 @@ Sirach 12
 
 2 Do good to a godly man, and you will find a reward— if not from him, then from the Most High.
 
-3 No good will come to him who continues to do evil, nor to him who gives no alms.
+3 No good will come to him who continues to do evil, nor to him who gives nothing to the poor.
 
 4 Give to the godly man, and don’t help the sinner.
 
@@ -688,7 +694,7 @@ Sirach 13
 
 13 Keep them to yourself and be careful, for you walk in danger of falling.
 
-14
+14 [Reader’s note: The remainder of verse 13, and verse 14, are omitted by the best authorities.]
 
 15 Every living creature loves its own kind, and every man loves his neighbor.
 
@@ -842,7 +848,9 @@ Sirach 16
 
 14 He will make room for every work of mercy. Each man will receive according to his works.
 
-15-16
+15 [Reader’s note: Verses 15 and 16 are omitted by the best authorities.]
+
+16 [Reader’s note: Verses 15 and 16 are omitted by the best authorities.]
 
 17 Don’t say, “I will be hidden from the Lord,” and “Who will remember me from on high?” I will not be known among so many people, for what is my soul in a boundless creation?
 
@@ -882,7 +890,7 @@ Sirach 17
 
 4 He put the fear of man upon all flesh, and gave him dominion over beasts and birds.
 
-5
+5 [Reader’s note: Verse 5 is omitted by the best authorities.]
 
 6 He gave them counsel, tongue, eyes, ears, and heart to have understanding.
 
@@ -890,7 +898,7 @@ Sirach 17
 
 8 He set his eye upon their hearts, to show them the majesty of his works.
 
-9
+9 [Reader’s note: Verse 9 is omitted by the best authorities.]
 
 10 And they will praise his holy name, that they may declare the majesty of his works.
 
@@ -904,19 +912,19 @@ Sirach 17
 
 15 Their ways are ever before him. They will not be hidden from his eyes.
 
-16
+16 [Reader’s note: Verses 16, 18, and 21 are omitted by the best authorities.]
 
 17 For every nation he appointed a ruler, but Israel is the Lord’s portion.
 
-18
+18 [Reader’s note: Verses 16, 18, and 21 are omitted by the best authorities.]
 
 19 All their works are as clear as the sun before him. His eyes are continually upon their ways.
 
 20 Their sins are not hidden from him. All their sins are before the Lord.
 
-21
+21 [Reader’s note: Verses 16, 18, and 21 are omitted by the best authorities.]
 
-22 With him the alms of a man is as a signet. He will keep a man’s kindness as the pupil of the eye.
+22 With him a man’s charity is as a signet. He will keep a man’s kindness as the pupil of the eye.
 
 23 Afterwards he will rise up and repay them, and give their repayment upon their head.
 
@@ -944,7 +952,7 @@ Sirach 18
 
 2 The Lord alone is just.
 
-3
+3 [Reader’s note: The remainder of verse 2, and verse 3, are omitted by the best authorities.]
 
 4 He has given power to declare his works to no one. Who could trace out his mighty deeds?
 
@@ -1042,7 +1050,13 @@ Sirach 19
 
 17 Reprove your neighbor before you threaten him; and give place to the law of the Most High.
 
+18 [Reader’s note: Verses 18 and 19 are omitted by the best authorities.]
+
+19 [Reader’s note: Verses 18 and 19 are omitted by the best authorities.]
+
 20 All wisdom is the fear of the Lord. In all wisdom is the doing of the law.
+
+21 [Reader’s note: The remainder of verse 20 and verse 21 are omitted by the best authorities.]
 
 22 The knowledge of wickedness is not wisdom. The prudence of sinners is not counsel.
 
@@ -1068,7 +1082,9 @@ Sirach 20
 
 2 How good is it to reprove, rather than to be angry. He who confesses will be kept back from harm.
 
-4 As is the lust of a eunuch to deflower a virgin, so is he who executes judgments with violence.
+3 [Reader’s note: Verse 3 is omitted by the best authorities.]
+
+4 As is the lust of a eunuch to violate a virgin, so is he who executes judgments with violence.
 
 5 There is one who keeps silent and is found wise; and there is one who is hated for his much talk.
 
@@ -1076,7 +1092,7 @@ Sirach 20
 
 7 A wise man will be silent until his time has come, but the braggart and fool will miss his time.
 
-8 He who uses many words will be abhorred. He who takes authority for himself will be hated in it.
+8 He who uses many words will be hated. He who takes authority for himself will be hated in it.
 
 9 There is a prosperity that a man finds in misfortunes; and there is a gain that turns to loss.
 
@@ -1123,6 +1139,8 @@ Sirach 20
 30 Wisdom that is hidden, and treasure that is out of sight— what profit is in either of them?
 
 31 Better is a man who hides his folly than a man who hides his wisdom.
+
+32 [Reader’s note: Verse 32 is omitted by the best authorities.]
 
 Sirach 21
 
@@ -1199,6 +1217,10 @@ Sirach 22
 7 He who teaches a fool is like one who glues potsherds together, even like one who wakes a sleeper out of a deep sleep.
 
 8 He who teaches a fool is as one who teaches a man who slumbers. In the end he will say, “What is it?”
+
+9 [Reader’s note: Verses 9 and 10 are omitted by the best authorities.]
+
+10 [Reader’s note: Verses 9 and 10 are omitted by the best authorities.]
 
 11 Weep for the dead, for he lacks light. Weep for a fool, for he lacks understanding. Weep more sweetly for the dead, because he has found rest, but the life of the fool is worse than death.
 
@@ -1290,6 +1312,8 @@ Sirach 23
 
 27 And those who are left behind will know that there is nothing better than the fear of the Lord, and nothing sweeter than to heed the commandments of the Lord.
 
+28 [Reader’s note: Verse 28 is omitted by the best authorities.]
+
 Sirach 24
 
 1 Wisdom will praise her own soul, and will proclaim her glory in the midst of her people.
@@ -1326,6 +1350,8 @@ Sirach 24
 
 17 Like the vine, I put forth grace. My flowers are the fruit of glory and riches.
 
+18 [Reader’s note: Verse 18 is omitted by the best authorities.]
+
 19 “Come to me, all you who desire me, and be filled with my fruits.
 
 20 For my memory is sweeter than honey, and my inheritance than the honeycomb.
@@ -1335,6 +1361,8 @@ Sirach 24
 22 He who obeys me will not be ashamed. Those who work with me will not sin.”
 
 23 All these things are the book of the covenant of the Most High God, the law which Moses commanded us for an inheritance for the assemblies of Jacob.
+
+24 [Reader’s note: Verse 24 is omitted by the best authorities.]
 
 25 It is he who makes wisdom abundant, as Pishon, and as Tigris in the days of first fruits.
 
@@ -1379,6 +1407,8 @@ Sirach 25
 10 How great is he who has found wisdom! Yet there is none greater than one who fears the Lord.
 
 11 The fear of the Lord surpasses all things. To whom will he who holds it be likened?
+
+12 [Reader’s note: Verse 12 is omitted by the best authorities.]
 
 13 Any wound but a wound of the heart! Any wickedness but the wickedness of a woman!
 
@@ -1445,6 +1475,24 @@ Sirach 26
 17 As the lamp that shines upon the holy lampstand, so is the beauty of the face on a well-proportioned body.
 
 18 As the golden pillars are upon a base of silver, so are beautiful feet with the breasts of one who is steadfast.
+
+19 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+20 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+21 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+22 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+23 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+24 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+25 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+26 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+27 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
 
 28 For two things my heart is grieved, and for the third anger comes upon me: a warrior who suffers for poverty, men of understanding who are counted as garbage, and one who turns back from righteousness to sin— the Lord will prepare him for the sword!
 
@@ -1582,7 +1630,7 @@ Sirach 29
 
 7 Many on account of fraud have turned away. They are afraid of being defrauded for nothing.
 
-8 However be patient with a man in poor estate. Don’t keep him waiting for your alms.
+8 However be patient with a man in poor estate. Don’t keep him waiting for your gift.
 
 9 Help a poor man for the commandment’s sake. According to his need don’t send him empty away.
 
@@ -1650,7 +1698,7 @@ Sirach 30
 
 12 Bow down his neck in his youth, and beat him on the sides while he is a child, lest he become stubborn, and be disobedient to you, and there be sorrow to your soul.
 
-13 Chastise your son, and give him work, lest his shameless behavior be an offense to you.
+13 Discipline your son, and give him work, lest his shameless behavior be an offense to you.
 
 14 Better is a poor man who is healthy and fit, than a rich man who is afflicted in his body.
 
@@ -1698,7 +1746,7 @@ Sirach 31
 
 10 Who has been tried by it, and found perfect? Then let him boast. Who has had the power to transgress, and has not transgressed? And to do evil, and has not done it?
 
-11 His prosperity will be made sure. The congregation will proclaim his alms.
+11 His prosperity will be made sure. The congregation will proclaim his charity.
 
 12 Do you sit at a great table? Don’t be greedy there. Don’t say, “There is a lot of food on it!”
 
@@ -1916,7 +1964,7 @@ Sirach 35
 
 1 He who keeps the law multiplies offerings. He who heeds the commandments sacrifices a peace offering.
 
-2 He who returns a kindness offers fine flour. He who gives alms sacrifices a thank offering.
+2 He who returns a kindness offers fine flour. He who gives to the poor sacrifices a thank offering.
 
 3 To depart from wickedness pleases the Lord. To depart from unrighteousness is an atoning sacrifice.
 

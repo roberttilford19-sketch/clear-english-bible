@@ -8,9 +8,9 @@ Tobit 1
 
 2 who in the days of Enemessar king of the Assyrians was carried away captive out of Thisbe, which is on the right hand of Kedesh Naphtali in Galilee above Asher.
 
-3 I, Tobit walked in the ways of truth and righteousness all the days of my life, and I did many alms deeds to my kindred and my nation, who went with me into the land of the Assyrians, to Nineveh.
+3 I, Tobit walked in the ways of truth and righteousness all the days of my life, and I did many deeds of charity for my people and my nation, who went with me into the land of the Assyrians, to Nineveh.
 
-4 When I was in my own country, in the land of Israel, while I was yet young, all the tribe of Naphtali my father fell away from the house of Jerusalem, which was chosen out of all the tribes of Israel, that all the tribes should sacrifice there, and the temple of the habitation of the Most High was hallowed and built therein for all ages.
+4 When I was in my own country, in the land of Israel, while I was yet young, all the tribe of Naphtali my father fell away from the house of Jerusalem, which was chosen out of all the tribes of Israel, that all the tribes should sacrifice there, and the temple, the dwelling of the Most High, was consecrated and built there for all ages.
 
 5 All the tribes which fell away together sacrificed to the heifer Baal, and so did the house of Naphtali my father.
 
@@ -20,7 +20,7 @@ Tobit 1
 
 8 A third tenth I gave to them to whom it was appropriate, as Deborah my father’s mother had commanded me, because I was left an orphan by my father.
 
-9 When I became a man, I took as wife Anna of the seed of our own family. With her, I became the father of Tobias.
+9 When I became a man, I took as wife Anna, a descendant of our own family. With her, I became the father of Tobias.
 
 10 When I was carried away captive to Nineveh, all my kindred and my relatives ate of the bread of the Gentiles;
 
@@ -34,7 +34,7 @@ Tobit 1
 
 15 And when Enemessar was dead, Sennacherib his son reigned in his place. In his time, the highways were troubled, and I could no longer go into Media.
 
-16 In the days of Enemessar, I did many alms deeds to my kindred: I gave my bread to the hungry,
+16 In the days of Enemessar, I did many deeds of charity for my people: I gave my bread to the hungry,
 
 17 and my garments to the naked. If I saw any of my race dead, and thrown out on the wall of Ninevah, I buried him.
 
@@ -76,7 +76,7 @@ Tobit 2
 
 13 But when it came to my house, it began to cry, and I said to her, “Where did this kid come from? Is it stolen? Give it back to the owners; for it is not lawful to eat anything that is stolen.”
 
-14 But she said, “It has been given to me for a gift more than the wages.” I didn’t believe her, and I asked her to return it to the owners; and I was ashamed of her. But she answered and said to me, “Where are your alms and your righteous deeds? See, you and all your works are known.”
+14 But she said, “It has been given to me for a gift more than the wages.” I didn’t believe her, and I asked her to return it to the owners; and I was ashamed of her. But she answered and said to me, “Where is your charity and your righteous deeds? See, you and all your works are known.”
 
 Tobit 3
 
@@ -128,17 +128,17 @@ Tobit 4
 
 6 For if you do what is true, your deeds will prosperously succeed for you, and for all those who do righteousness.
 
-7 Give alms from your possessions. When you give alms, don’t let your eye be envious. Don’t turn away your face from any poor man, and the face of God won’t be turned away from you.
+7 Give to the poor from your possessions. When you give to the poor, don’t let your eye be envious. Don’t turn away your face from any poor man, and the face of God won’t be turned away from you.
 
-8 As your possessions are, give alms of it according to your abundance. If you have little, don’t be afraid to give alms according to that little;
+8 As your possessions are, give of it according to your abundance. If you have little, don’t be afraid to give according to that little;
 
 9 for you lay up a good treasure for yourself against the day of necessity;
 
-10 because alms-giving delivers from death, and doesn’t allow you to come into darkness.
+10 because giving to the poor delivers from death, and doesn’t allow you to come into darkness.
 
 11 Alms is a good gift in the sight of the Most High for all that give it.
 
-12 Beware, my child, of all fornication, and take first a wife of the seed of your fathers. Don’t take a strange wife, who is not of your father’s tribe; for we are the descendants of the prophets. Remember, my child, that Noah, Abraham, Isaac, and Jacob, our fathers of old time, all took wives of their kindred, and were blessed in their children, and their seed will inherit the land.
+12 Beware, my child, of all fornication, and take first a wife from the descendants of your fathers. Don’t take a strange wife, who is not of your father’s tribe; for we are the descendants of the prophets. Remember, my child, that Noah, Abraham, Isaac, and Jacob, our fathers of old time, all took wives of their kindred, and were blessed in their children, and their seed will inherit the land.
 
 13 And now, my child, love your kindred, and don’t scorn your kindred and the sons and the daughters of your people in your heart, to take a wife of them; for in scornfulness is destruction and much trouble, and in idleness is decay and great lack; for idleness is the mother of famine.
 
@@ -146,7 +146,7 @@ Tobit 4
 
 15 And what you yourself hate, do to no man. Don’t drink wine to drunkenness, and don’t let drunkenness go with you on your way.
 
-16 Give of your bread to the hungry, and of your garments to those who are naked. Give alms from all your abundance. Don’t let your eye be envious when you give alms.
+16 Give of your bread to the hungry, and of your garments to those who are naked. Give from all your abundance. Don’t let your eye be envious when you give.
 
 17 Pour out your bread on the burial of the just, and give nothing to sinners.
 
@@ -186,7 +186,7 @@ Tobit 5
 
 13 And he said to him, “Welcome, brother. Don’t be angry with me, because I sought to know your tribe and family. You are my brother, of an honest and good lineage; for I knew Ananias and Jathan, the sons of Shemaiah the great, when we went together to Jerusalem to worship, and offered the firstborn, and the tenths of our increase; and they didn’t go astray in the error of our kindred. My brother, you are of a great stock.
 
-14 But tell me, what wages will I give you? A drachma a day, and those things that be necessary for you, as to my son?
+14 But tell me, what wages should I give you? A drachma a day, and those things that be necessary for you, as to my son?
 
 15 And moreover, if you both return safe and sound, I will add something to your wages.”
 
@@ -418,9 +418,9 @@ Tobit 12
 
 7 It is good to conceal the secret of a king, but to reveal gloriously the works of God. Do good, and evil won’t find you.
 
-8 Good is prayer with fasting, alms, and righteousness. A little with righteousness is better than much with unrighteousness. It is better to give alms than to lay up gold.
+8 Good is prayer with fasting, charity, and righteousness. A little with righteousness is better than much with unrighteousness. It is better to give to the poor than to lay up gold.
 
-9 Alms delivers from death, and it purges away all sin. Those who give alms and do righteousness will be filled with life;
+9 Charity delivers from death, and it purges away all sin. Those who give to the poor and do righteousness will be filled with life;
 
 10 but those who sin are enemies to their own life.
 
@@ -490,7 +490,7 @@ Tobit 14
 
 1 Then Tobit finished giving thanks.
 
-2 He was fifty-eight years old when he lost his sight. After eight years, he received it again. He gave alms and he feared the Lord God more and more, and gave thanks to him.
+2 He was fifty-eight years old when he lost his sight. After eight years, he received it again. He gave to the poor and he feared the Lord God more and more, and gave thanks to him.
 
 3 Now he grew very old; and he called his son with the six sons of his son, and said to him, “My child, take your sons. See, I have grown old, and am ready to depart out of this life.
 
@@ -506,9 +506,9 @@ Tobit 14
 
 9 But you must keep the law and the rules, and show yourself merciful and righteous, that it may be well with you.
 
-10 Bury me decently, and your mother with me. Don’t stay at Nineveh. See, my child, what Aman did to Achiacharus who nourished him, how out of light he brought him into darkness, and all the recompense that he made him. Achiacharus was saved, but the other had his recompense, and he went down into darkness. Manasses gave alms, and escaped the snare of death which he set for him; but Aman fell into the snare, and perished.
+10 Bury me decently, and your mother with me. Don’t stay at Nineveh. See, my child, what Aman did to Achiacharus who nourished him, how out of light he brought him into darkness, and all the recompense that he made him. Achiacharus was saved, but the other had his recompense, and he went down into darkness. Manasses gave to the poor, and escaped the snare of death which he set for him; but Aman fell into the snare, and perished.
 
-11 And now, my children, consider what alms does, and how righteousness delivers.” While he was saying these things, he gave up the ghost in the bed; but he was one hundred fifty eight years old. Tobias buried him magnificently.
+11 And now, my children, consider what charity does, and how righteousness delivers.” While he was saying these things, he gave up the ghost in the bed; but he was one hundred fifty eight years old. Tobias buried him magnificently.
 
 12 When Anna died, he buried her with his father. But Tobias departed with his wife and his sons to Ecbatana to Raguel his father-in-law,
 

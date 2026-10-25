@@ -1,5 +1,7 @@
 # Clear English Bible — Master Index
 
+> **Gate B addendum — 2026-10-25.** On the editor's word (sequence ruled ~06:29 CDT; Gate B tapped ~06:44 CDT, 2026-10-25), this shelf was brought to the Phase 2 repaired text: all seventy-three book files replaced from the verified repaired tree (twenty-four books changed; forty-nine byte-identical), all four editions replaced with the verified rebuilt editions, and the DP5 glossary corrections executed — the dated record stands in `CORRECTIONS.md`. The entries below stand as the pre-application audit record, exactly as written; where an entry carries a docket question as PENDING ROBERT, that question was disposed in the completion docket (Rulings 1–20, 2026-10-24/25) and the Phase 2 pendings (DP1–DP8, 2026-10-25) and is answered in the text now on this shelf. The DRAFT state is unchanged: Rulings 19 (filenames) and 20 (completion label) were not executed at this pass.
+
 **Date: 2026-10-16. Coordinator-maintained (Support Crew E, Packaging).**
 
 This index is the one place where the whole Clear English Bible package is counted, book by book, against the files actually on disk. It exists so that completeness is provable rather than assumed: every book in the canon is listed, every book carries a status, and every status that claims work done points to the evidence file that carries it. It is a working index for the desk. It is not a publication, and nothing in it is published, emailed, posted, or uploaded.

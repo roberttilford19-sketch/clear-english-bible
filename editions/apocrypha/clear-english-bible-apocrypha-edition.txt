@@ -26,9 +26,9 @@ Tobit 1
 
 2 who in the days of Enemessar king of the Assyrians was carried away captive out of Thisbe, which is on the right hand of Kedesh Naphtali in Galilee above Asher.
 
-3 I, Tobit walked in the ways of truth and righteousness all the days of my life, and I did many alms deeds to my kindred and my nation, who went with me into the land of the Assyrians, to Nineveh.
+3 I, Tobit walked in the ways of truth and righteousness all the days of my life, and I did many deeds of charity for my people and my nation, who went with me into the land of the Assyrians, to Nineveh.
 
-4 When I was in my own country, in the land of Israel, while I was yet young, all the tribe of Naphtali my father fell away from the house of Jerusalem, which was chosen out of all the tribes of Israel, that all the tribes should sacrifice there, and the temple of the habitation of the Most High was hallowed and built therein for all ages.
+4 When I was in my own country, in the land of Israel, while I was yet young, all the tribe of Naphtali my father fell away from the house of Jerusalem, which was chosen out of all the tribes of Israel, that all the tribes should sacrifice there, and the temple, the dwelling of the Most High, was consecrated and built there for all ages.
 
 5 All the tribes which fell away together sacrificed to the heifer Baal, and so did the house of Naphtali my father.
 
@@ -38,7 +38,7 @@ Tobit 1
 
 8 A third tenth I gave to them to whom it was appropriate, as Deborah my father’s mother had commanded me, because I was left an orphan by my father.
 
-9 When I became a man, I took as wife Anna of the seed of our own family. With her, I became the father of Tobias.
+9 When I became a man, I took as wife Anna, a descendant of our own family. With her, I became the father of Tobias.
 
 10 When I was carried away captive to Nineveh, all my kindred and my relatives ate of the bread of the Gentiles;
 
@@ -52,7 +52,7 @@ Tobit 1
 
 15 And when Enemessar was dead, Sennacherib his son reigned in his place. In his time, the highways were troubled, and I could no longer go into Media.
 
-16 In the days of Enemessar, I did many alms deeds to my kindred: I gave my bread to the hungry,
+16 In the days of Enemessar, I did many deeds of charity for my people: I gave my bread to the hungry,
 
 17 and my garments to the naked. If I saw any of my race dead, and thrown out on the wall of Ninevah, I buried him.
 
@@ -94,7 +94,7 @@ Tobit 2
 
 13 But when it came to my house, it began to cry, and I said to her, “Where did this kid come from? Is it stolen? Give it back to the owners; for it is not lawful to eat anything that is stolen.”
 
-14 But she said, “It has been given to me for a gift more than the wages.” I didn’t believe her, and I asked her to return it to the owners; and I was ashamed of her. But she answered and said to me, “Where are your alms and your righteous deeds? See, you and all your works are known.”
+14 But she said, “It has been given to me for a gift more than the wages.” I didn’t believe her, and I asked her to return it to the owners; and I was ashamed of her. But she answered and said to me, “Where is your charity and your righteous deeds? See, you and all your works are known.”
 
 Tobit 3
 
@@ -146,17 +146,17 @@ Tobit 4
 
 6 For if you do what is true, your deeds will prosperously succeed for you, and for all those who do righteousness.
 
-7 Give alms from your possessions. When you give alms, don’t let your eye be envious. Don’t turn away your face from any poor man, and the face of God won’t be turned away from you.
+7 Give to the poor from your possessions. When you give to the poor, don’t let your eye be envious. Don’t turn away your face from any poor man, and the face of God won’t be turned away from you.
 
-8 As your possessions are, give alms of it according to your abundance. If you have little, don’t be afraid to give alms according to that little;
+8 As your possessions are, give of it according to your abundance. If you have little, don’t be afraid to give according to that little;
 
 9 for you lay up a good treasure for yourself against the day of necessity;
 
-10 because alms-giving delivers from death, and doesn’t allow you to come into darkness.
+10 because giving to the poor delivers from death, and doesn’t allow you to come into darkness.
 
 11 Alms is a good gift in the sight of the Most High for all that give it.
 
-12 Beware, my child, of all fornication, and take first a wife of the seed of your fathers. Don’t take a strange wife, who is not of your father’s tribe; for we are the descendants of the prophets. Remember, my child, that Noah, Abraham, Isaac, and Jacob, our fathers of old time, all took wives of their kindred, and were blessed in their children, and their seed will inherit the land.
+12 Beware, my child, of all fornication, and take first a wife from the descendants of your fathers. Don’t take a strange wife, who is not of your father’s tribe; for we are the descendants of the prophets. Remember, my child, that Noah, Abraham, Isaac, and Jacob, our fathers of old time, all took wives of their kindred, and were blessed in their children, and their seed will inherit the land.
 
 13 And now, my child, love your kindred, and don’t scorn your kindred and the sons and the daughters of your people in your heart, to take a wife of them; for in scornfulness is destruction and much trouble, and in idleness is decay and great lack; for idleness is the mother of famine.
 
@@ -164,7 +164,7 @@ Tobit 4
 
 15 And what you yourself hate, do to no man. Don’t drink wine to drunkenness, and don’t let drunkenness go with you on your way.
 
-16 Give of your bread to the hungry, and of your garments to those who are naked. Give alms from all your abundance. Don’t let your eye be envious when you give alms.
+16 Give of your bread to the hungry, and of your garments to those who are naked. Give from all your abundance. Don’t let your eye be envious when you give.
 
 17 Pour out your bread on the burial of the just, and give nothing to sinners.
 
@@ -204,7 +204,7 @@ Tobit 5
 
 13 And he said to him, “Welcome, brother. Don’t be angry with me, because I sought to know your tribe and family. You are my brother, of an honest and good lineage; for I knew Ananias and Jathan, the sons of Shemaiah the great, when we went together to Jerusalem to worship, and offered the firstborn, and the tenths of our increase; and they didn’t go astray in the error of our kindred. My brother, you are of a great stock.
 
-14 But tell me, what wages will I give you? A drachma a day, and those things that be necessary for you, as to my son?
+14 But tell me, what wages should I give you? A drachma a day, and those things that be necessary for you, as to my son?
 
 15 And moreover, if you both return safe and sound, I will add something to your wages.”
 
@@ -436,9 +436,9 @@ Tobit 12
 
 7 It is good to conceal the secret of a king, but to reveal gloriously the works of God. Do good, and evil won’t find you.
 
-8 Good is prayer with fasting, alms, and righteousness. A little with righteousness is better than much with unrighteousness. It is better to give alms than to lay up gold.
+8 Good is prayer with fasting, charity, and righteousness. A little with righteousness is better than much with unrighteousness. It is better to give to the poor than to lay up gold.
 
-9 Alms delivers from death, and it purges away all sin. Those who give alms and do righteousness will be filled with life;
+9 Charity delivers from death, and it purges away all sin. Those who give to the poor and do righteousness will be filled with life;
 
 10 but those who sin are enemies to their own life.
 
@@ -508,7 +508,7 @@ Tobit 14
 
 1 Then Tobit finished giving thanks.
 
-2 He was fifty-eight years old when he lost his sight. After eight years, he received it again. He gave alms and he feared the Lord God more and more, and gave thanks to him.
+2 He was fifty-eight years old when he lost his sight. After eight years, he received it again. He gave to the poor and he feared the Lord God more and more, and gave thanks to him.
 
 3 Now he grew very old; and he called his son with the six sons of his son, and said to him, “My child, take your sons. See, I have grown old, and am ready to depart out of this life.
 
@@ -524,9 +524,9 @@ Tobit 14
 
 9 But you must keep the law and the rules, and show yourself merciful and righteous, that it may be well with you.
 
-10 Bury me decently, and your mother with me. Don’t stay at Nineveh. See, my child, what Aman did to Achiacharus who nourished him, how out of light he brought him into darkness, and all the recompense that he made him. Achiacharus was saved, but the other had his recompense, and he went down into darkness. Manasses gave alms, and escaped the snare of death which he set for him; but Aman fell into the snare, and perished.
+10 Bury me decently, and your mother with me. Don’t stay at Nineveh. See, my child, what Aman did to Achiacharus who nourished him, how out of light he brought him into darkness, and all the recompense that he made him. Achiacharus was saved, but the other had his recompense, and he went down into darkness. Manasses gave to the poor, and escaped the snare of death which he set for him; but Aman fell into the snare, and perished.
 
-11 And now, my children, consider what alms does, and how righteousness delivers.” While he was saying these things, he gave up the ghost in the bed; but he was one hundred fifty eight years old. Tobias buried him magnificently.
+11 And now, my children, consider what charity does, and how righteousness delivers.” While he was saying these things, he gave up the ghost in the bed; but he was one hundred fifty eight years old. Tobias buried him magnificently.
 
 12 When Anna died, he buried her with his father. But Tobias departed with his wife and his sons to Ecbatana to Raguel his father-in-law,
 
@@ -582,7 +582,7 @@ Judith 2
 
 3 They decreed to destroy all flesh which didn’t follow the word of his mouth.
 
-4 It came to pass, when he had ended his counsel, Nebuchadnezzar king of the Assyrians called Holofernes the chief captain of his army, who was second to himself, and said to him,
+4 When he had ended his counsel, Nebuchadnezzar king of the Assyrians called Holofernes the chief captain of his army, who was second to himself, and said to him,
 
 5 “The great king, the lord of all the earth, says: ‘See, you must go out from my presence, and take with you men who trust in their strength, to one hundred twenty thousand footmen and twelve thousand horses with their riders.
 
@@ -668,7 +668,7 @@ Judith 4
 
 6 Joakim the high priest, who was in those days at Jerusalem, wrote to those who lived in Bethulia and Betomesthaim, which is opposite Esdraelon toward the plain that is near to Dothaim,
 
-7 charging them to seize upon the ascents of the hill country; because by them was the entrance into Judea, and it was easy to stop them from approaching, inasmuch as the approach was narrow, with space for two men at the most.
+7 charging them to seize upon the ascents of the hill country; because by them was the entrance into Judea, and it was easy to stop them from approaching, since the approach was narrow, with space for two men at the most.
 
 8 And the children of Israel did as Joakim the high priest had commanded them, as did the senate of all the people of Israel, which was in session at Jerusalem.
 
@@ -730,7 +730,7 @@ Judith 5
 
 21 But if there is no lawlessness in their nation, let my lord now pass by, lest their Lord defend them, and their God be for them, and we will be a reproach before all the earth.”
 
-22 It came to pass, when Achior had finished speaking these words, all the people standing around the tent complained. The great men of Holofernes, and all who lived by the sea side and in Moab, said that he should be cut to pieces.
+22 When Achior had finished speaking these words, all the people standing around the tent complained. The great men of Holofernes, and all who lived by the sea side and in Moab, said that he should be cut to pieces.
 
 23 For, they said, “We will not be afraid of the children of Israel, because, see, they are a people that has no power nor might to make the battle strong.
 
@@ -800,7 +800,7 @@ Judith 7
 
 9 “Let our lord now hear a word, that there not be losses in your army.
 
-10 For this people of the children of Israel do not trust in their spears, but in the height of the mountains wherein they dwell, for it is not easy to come up to the tops of their mountains.
+10 For this people of the children of Israel do not trust in their spears, but in the height of the mountains where they dwell, for it is not easy to come up to the tops of their mountains.
 
 11 And now, my lord, don’t fight against them as men fight who join battle, and there will not so much as one man of your people perish.
 
@@ -904,7 +904,7 @@ Judith 8
 
 28 And Ozias said to her, “All that you have spoken, you have spoken with a good heart. There is no one who will deny your words.
 
-29 For this is not the first day wherein your wisdom is manifested; but from the beginning of your days all the people have known your understanding, because the disposition of your heart is good.
+29 For this is not the first day on which your wisdom is shown; but from the beginning of your days all the people have known your understanding, because the disposition of your heart is good.
 
 30 But the people were exceedingly thirsty, and compelled us to do as we spoke to them, and to bring an oath upon ourselves, which we will not break.
 
@@ -922,7 +922,7 @@ Judith 8
 
 Judith 9
 
-1 But Judith fell upon her face, and put ashes upon her head, and uncovered the sackcloth with which she was clothed. The incense of that evening was now being offered at Jerusalem in the house of God, and Judith cried to the Lord with a loud voice, and said,
+1 But Judith fell facedown, and put ashes upon her head, and uncovered the sackcloth with which she was clothed. The incense of that evening was now being offered at Jerusalem in the house of God, and Judith cried to the Lord with a loud voice, and said,
 
 2 “O Lord God of my father Simeon, into whose hand you gave a sword to take vengeance on the strangers who loosened the belt of a virgin to defile her, uncovered her thigh to her shame, and profaned her womb to her reproach; for you said, ‘It must not be so;’ and they did so.
 
@@ -952,7 +952,7 @@ Judith 9
 
 Judith 10
 
-1 It came to pass, when she had ceased to cry to the God of Israel, and had finished saying all these words,
+1 When she had ceased to cry to the God of Israel, and had finished saying all these words,
 
 2 that she rose up where she had fallen down, called her maid, and went down into the house that she lived on the Sabbath days and on her feast days.
 
@@ -978,7 +978,7 @@ Judith 10
 
 13 I am coming into the presence of Holofernes the chief captain of your army, to declare words of truth. I will show him a way that he can go and win all the hill country, and there will not be lacking of his men one person, nor one life.”
 
-14 Now when the men heard her words, and considered her countenance, the beauty thereof was exceedingly marvelous in their eyes. They said to her,
+14 Now when the men heard her words, and considered her countenance, her beauty was exceedingly marvelous in their eyes. They said to her,
 
 15 “You have saved your life, in that you have hurried to come down to the presence of our master. Now come to his tent. Some of us will guide you until they deliver you into his hands.
 
@@ -1066,7 +1066,7 @@ Judith 12
 
 9 She came in clean and remained in the tent until she ate her food toward evening.
 
-10 It came to pass on the fourth day, that Holofernes made a feast for his own servants only, and called none of the officers to the banquet.
+10 On the fourth day, Holofernes made a feast for his own servants only, and called none of the officers to the banquet.
 
 11 And he said to Bagoas the eunuch, who had charge over all that he had, “Go now, and persuade this Hebrew woman who is with you that she come to us, and eat and drink with us.
 
@@ -1112,7 +1112,7 @@ Judith 13
 
 11 Judith said afar off to the watchmen at the gates, “Open, open the gate, now. God is with us, even our God, to show his power yet in Israel, and his might against the enemy, as he has done even this day.”
 
-12 It came to pass, when the men of her city heard her voice, they made haste to go down to the gate of their city, and they called together the elders of the city.
+12 When the men of her city heard her voice, they made haste to go down to the gate of their city, and they called together the elders of the city.
 
 13 They all ran together, both small and great, for it seemed unbelievable to them that she had come. They opened the gate and received them, making a fire to give light, and surrounded them.
 
@@ -1316,7 +1316,7 @@ Wisdom 2
 
 13 He professes to have knowledge of God, and calls himself a child of the Lord.
 
-14 He became to us a reproof of our thoughts.
+14 He became a reproach to our thoughts.
 
 15 He is grievous to us even to look at, because his life is unlike other men’s, and his paths are strange.
 
@@ -1738,7 +1738,7 @@ Wisdom 11
 
 14 For him who long before was thrown out and exposed they stopped mocking. In the end of what happened, they marveled, having thirsted in another manner than the righteous.
 
-15 But in return for the senseless imaginings of their unrighteousness, wherein they were led astray to worship irrational reptiles and wretched vermin, you sent upon them a multitude of irrational creatures to punish them,
+15 But in return for the senseless imaginings of their unrighteousness, by which they were led astray to worship irrational reptiles and wretched vermin, you sent upon them a multitude of irrational creatures to punish them,
 
 16 that they might learn that by what things a man sins, by these he is punished.
 
@@ -1766,7 +1766,7 @@ Wisdom 12
 
 1 For your incorruptible spirit is in all things.
 
-2 Therefore you convict little by little those who fall from the right way, and, putting them in remembrance by the things wherein they sin, you admonish them, that escaping from their wickedness they may believe in you, O Lord.
+2 Therefore you convict little by little those who fall from the right way, and, reminding them by the things by which they sin, you admonish them, that escaping from their wickedness they may believe in you, O Lord.
 
 3 For truly the old inhabitants of your holy land,
 
@@ -1936,7 +1936,7 @@ Wisdom 15
 
 6 Lovers of evil things, and worthy of such hopes, are those who make, desire, and worship them.
 
-7 For a potter, kneading soft earth, laboriously molds each article for our service. He fashions out of the same clay both the vessels that minister to clean uses, and those of a contrary sort, all in like manner. What will be the use of each article of either sort, the potter is the judge.
+7 For a potter, kneading soft earth, laboriously molds each article for our service. He fashions out of the same clay both the vessels that minister to clean uses, and those of a contrary sort, all in like manner. What should be the use of each article of either sort, the potter is the judge.
 
 8 Also, laboring to an evil end, he molds a vain god out of the same clay, he who, having but a little before been made of earth, after a short space goes his way to the earth out of which he was taken, when he is required to give back the soul which was lent him.
 
@@ -2168,6 +2168,10 @@ Clear English Bible — Sirach (Chapters 1–51): A Clear English Translation
 
 DRAFT — NOT FINISHED. Sirach chapters 1–51 are all internally audited (AUDITED) drafts, awaiting Robert's read-through. Partial draft, unpublished. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. Sirach (Ecclesiasticus) does not stand in the main text of the King James Version or the American Standard Version (1901), so for this book no KJV/ASV control arises. This draft was prepared with AI assistance. Robert Tilford is the editor.
 
+The Prologue of the Wisdom of Jesus the Son of Sirach
+
+WHEREAS many and great things have been delivered to us by the law and the prophets, and by the others that have followed in their steps, for which we must give Israel the praise for instruction and wisdom; and since not only the readers need to become skillful themselves, but also those who love learning must be able to profit those who are outside, both by speaking and writing; my grandfather Jesus, having much given himself to the reading of the law, the prophets, and the other books of our fathers, and having gained great familiarity with them, was also drawn on himself to write somewhat pertaining to instruction and wisdom, in order that those who love learning, and are devoted to these things, might make progress much more by living according to the law. You are entreated therefore to read with favor and attention, and to pardon us, if in any parts of what we have labored to interpret, we may seem to fail in some of the phrases. For things originally spoken in Hebrew don’t have the same force in them when they are translated into another language. Not only these, but the law itself, and the prophecies, and the rest of the books, have no small difference, when they are spoken in their original language. For having come into Egypt in the thirty-eighth year of Energetes the king, and having continued there some time, I found a copy giving no small instruction. I thought it therefore most necessary for me to apply some diligence and travail to translate this book, applying indeed much watchfulness and skill in that space of time to bring the book to an end and publish for them also, who in the land of their travels are desiring to learn, preparing their character in advance, so as to live according to the law.
+
 Sirach 1
 
 1 All wisdom comes from the Lord, and is with him forever.
@@ -2178,11 +2182,11 @@ Sirach 1
 
 4 Wisdom has been created before all things, and the understanding of prudence from everlasting.
 
-5 
+5 [Reader’s note: Verse 5 is omitted by the best authorities: The source of wisdom is God’s word in the highest heaven, and her ways are the eternal commandments.]
 
 6 To whom has the root of wisdom been revealed? Who has known her shrewd counsels?
 
-7 
+7 [Reader’s note: Verse 7 is omitted by the best authorities: To whom was the knowledge of wisdom manifested? Who has understood her abundant experience?]
 
 8 There is one wise, greatly to be feared, sitting upon his throne: the Lord.
 
@@ -2210,7 +2214,7 @@ Sirach 1
 
 20 To fear the Lord is the root of wisdom. Her branches are length of days.
 
-21 
+21 [Reader’s note: Verse 21 is omitted by the best authorities: The fear of the Lord drives away sins. Where it resides, it will turn away all anger.]
 
 22 Unjust wrath can never be justified, for his wrath tips the scale to his downfall.
 
@@ -2306,7 +2310,7 @@ Sirach 3
 
 18 The greater you are, humble yourself the more, and you will find favor before the Lord.
 
-19 
+19 [Reader’s note: Some manuscripts add Many are lofty and renowned, but he reveals his secrets to the humble.]
 
 20 For the power of the Lord is great, and he is glorified by those who are lowly.
 
@@ -2524,7 +2528,7 @@ Sirach 7
 
 9 Don’t say, “He will look upon the multitude of my gifts. When I make an offering to the Most High God, he will accept it.”
 
-10 Don’t be faint-hearted in your prayer. Don’t neglect to give alms.
+10 Don’t be faint-hearted in your prayer. Don’t neglect to give to the poor.
 
 11 Don’t laugh a man to scorn when he is in the bitterness of his soul, for there is one who humbles and exalts.
 
@@ -2698,7 +2702,7 @@ Sirach 10
 
 20 In the midst of kindred he who rules them has honor. Those who fear the Lord have honor in his eyes.
 
-21
+21 [Reader’s note: Verse 21 is omitted by the best authorities: Fear of the Lord is the beginning of acceptance, but obstinance and pride are the beginning of rejection.]
 
 22 The rich man, the honorable, and the poor all glory in the fear of the Lord.
 
@@ -2750,7 +2754,9 @@ Sirach 11
 
 14 Good things and bad, life and death, poverty and riches, are from the Lord.
 
-15-16
+15 [Reader’s note: Verses 15 and 16 are omitted by the best authorities.]
+
+16 [Reader’s note: Verses 15 and 16 are omitted by the best authorities.]
 
 17 The Lord’s gift remains with the godly. His good pleasure will prosper forever.
 
@@ -2794,7 +2800,7 @@ Sirach 12
 
 2 Do good to a godly man, and you will find a reward— if not from him, then from the Most High.
 
-3 No good will come to him who continues to do evil, nor to him who gives no alms.
+3 No good will come to him who continues to do evil, nor to him who gives nothing to the poor.
 
 4 Give to the godly man, and don’t help the sinner.
 
@@ -2854,7 +2860,7 @@ Sirach 13
 
 13 Keep them to yourself and be careful, for you walk in danger of falling.
 
-14
+14 [Reader’s note: The remainder of verse 13, and verse 14, are omitted by the best authorities.]
 
 15 Every living creature loves its own kind, and every man loves his neighbor.
 
@@ -3008,7 +3014,9 @@ Sirach 16
 
 14 He will make room for every work of mercy. Each man will receive according to his works.
 
-15-16
+15 [Reader’s note: Verses 15 and 16 are omitted by the best authorities.]
+
+16 [Reader’s note: Verses 15 and 16 are omitted by the best authorities.]
 
 17 Don’t say, “I will be hidden from the Lord,” and “Who will remember me from on high?” I will not be known among so many people, for what is my soul in a boundless creation?
 
@@ -3048,7 +3056,7 @@ Sirach 17
 
 4 He put the fear of man upon all flesh, and gave him dominion over beasts and birds.
 
-5
+5 [Reader’s note: Verse 5 is omitted by the best authorities.]
 
 6 He gave them counsel, tongue, eyes, ears, and heart to have understanding.
 
@@ -3056,7 +3064,7 @@ Sirach 17
 
 8 He set his eye upon their hearts, to show them the majesty of his works.
 
-9
+9 [Reader’s note: Verse 9 is omitted by the best authorities.]
 
 10 And they will praise his holy name, that they may declare the majesty of his works.
 
@@ -3070,19 +3078,19 @@ Sirach 17
 
 15 Their ways are ever before him. They will not be hidden from his eyes.
 
-16
+16 [Reader’s note: Verses 16, 18, and 21 are omitted by the best authorities.]
 
 17 For every nation he appointed a ruler, but Israel is the Lord’s portion.
 
-18
+18 [Reader’s note: Verses 16, 18, and 21 are omitted by the best authorities.]
 
 19 All their works are as clear as the sun before him. His eyes are continually upon their ways.
 
 20 Their sins are not hidden from him. All their sins are before the Lord.
 
-21
+21 [Reader’s note: Verses 16, 18, and 21 are omitted by the best authorities.]
 
-22 With him the alms of a man is as a signet. He will keep a man’s kindness as the pupil of the eye.
+22 With him a man’s charity is as a signet. He will keep a man’s kindness as the pupil of the eye.
 
 23 Afterwards he will rise up and repay them, and give their repayment upon their head.
 
@@ -3110,7 +3118,7 @@ Sirach 18
 
 2 The Lord alone is just.
 
-3
+3 [Reader’s note: The remainder of verse 2, and verse 3, are omitted by the best authorities.]
 
 4 He has given power to declare his works to no one. Who could trace out his mighty deeds?
 
@@ -3208,7 +3216,13 @@ Sirach 19
 
 17 Reprove your neighbor before you threaten him; and give place to the law of the Most High.
 
+18 [Reader’s note: Verses 18 and 19 are omitted by the best authorities.]
+
+19 [Reader’s note: Verses 18 and 19 are omitted by the best authorities.]
+
 20 All wisdom is the fear of the Lord. In all wisdom is the doing of the law.
+
+21 [Reader’s note: The remainder of verse 20 and verse 21 are omitted by the best authorities.]
 
 22 The knowledge of wickedness is not wisdom. The prudence of sinners is not counsel.
 
@@ -3234,7 +3248,9 @@ Sirach 20
 
 2 How good is it to reprove, rather than to be angry. He who confesses will be kept back from harm.
 
-4 As is the lust of a eunuch to deflower a virgin, so is he who executes judgments with violence.
+3 [Reader’s note: Verse 3 is omitted by the best authorities.]
+
+4 As is the lust of a eunuch to violate a virgin, so is he who executes judgments with violence.
 
 5 There is one who keeps silent and is found wise; and there is one who is hated for his much talk.
 
@@ -3242,7 +3258,7 @@ Sirach 20
 
 7 A wise man will be silent until his time has come, but the braggart and fool will miss his time.
 
-8 He who uses many words will be abhorred. He who takes authority for himself will be hated in it.
+8 He who uses many words will be hated. He who takes authority for himself will be hated in it.
 
 9 There is a prosperity that a man finds in misfortunes; and there is a gain that turns to loss.
 
@@ -3289,6 +3305,8 @@ Sirach 20
 30 Wisdom that is hidden, and treasure that is out of sight— what profit is in either of them?
 
 31 Better is a man who hides his folly than a man who hides his wisdom.
+
+32 [Reader’s note: Verse 32 is omitted by the best authorities.]
 
 Sirach 21
 
@@ -3365,6 +3383,10 @@ Sirach 22
 7 He who teaches a fool is like one who glues potsherds together, even like one who wakes a sleeper out of a deep sleep.
 
 8 He who teaches a fool is as one who teaches a man who slumbers. In the end he will say, “What is it?”
+
+9 [Reader’s note: Verses 9 and 10 are omitted by the best authorities.]
+
+10 [Reader’s note: Verses 9 and 10 are omitted by the best authorities.]
 
 11 Weep for the dead, for he lacks light. Weep for a fool, for he lacks understanding. Weep more sweetly for the dead, because he has found rest, but the life of the fool is worse than death.
 
@@ -3456,6 +3478,8 @@ Sirach 23
 
 27 And those who are left behind will know that there is nothing better than the fear of the Lord, and nothing sweeter than to heed the commandments of the Lord.
 
+28 [Reader’s note: Verse 28 is omitted by the best authorities.]
+
 Sirach 24
 
 1 Wisdom will praise her own soul, and will proclaim her glory in the midst of her people.
@@ -3492,6 +3516,8 @@ Sirach 24
 
 17 Like the vine, I put forth grace. My flowers are the fruit of glory and riches.
 
+18 [Reader’s note: Verse 18 is omitted by the best authorities.]
+
 19 “Come to me, all you who desire me, and be filled with my fruits.
 
 20 For my memory is sweeter than honey, and my inheritance than the honeycomb.
@@ -3501,6 +3527,8 @@ Sirach 24
 22 He who obeys me will not be ashamed. Those who work with me will not sin.”
 
 23 All these things are the book of the covenant of the Most High God, the law which Moses commanded us for an inheritance for the assemblies of Jacob.
+
+24 [Reader’s note: Verse 24 is omitted by the best authorities.]
 
 25 It is he who makes wisdom abundant, as Pishon, and as Tigris in the days of first fruits.
 
@@ -3545,6 +3573,8 @@ Sirach 25
 10 How great is he who has found wisdom! Yet there is none greater than one who fears the Lord.
 
 11 The fear of the Lord surpasses all things. To whom will he who holds it be likened?
+
+12 [Reader’s note: Verse 12 is omitted by the best authorities.]
 
 13 Any wound but a wound of the heart! Any wickedness but the wickedness of a woman!
 
@@ -3611,6 +3641,24 @@ Sirach 26
 17 As the lamp that shines upon the holy lampstand, so is the beauty of the face on a well-proportioned body.
 
 18 As the golden pillars are upon a base of silver, so are beautiful feet with the breasts of one who is steadfast.
+
+19 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+20 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+21 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+22 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+23 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+24 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+25 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+26 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
+
+27 [Reader’s note: Verses 19-27 are omitted by the best authorities.]
 
 28 For two things my heart is grieved, and for the third anger comes upon me: a warrior who suffers for poverty, men of understanding who are counted as garbage, and one who turns back from righteousness to sin— the Lord will prepare him for the sword!
 
@@ -3748,7 +3796,7 @@ Sirach 29
 
 7 Many on account of fraud have turned away. They are afraid of being defrauded for nothing.
 
-8 However be patient with a man in poor estate. Don’t keep him waiting for your alms.
+8 However be patient with a man in poor estate. Don’t keep him waiting for your gift.
 
 9 Help a poor man for the commandment’s sake. According to his need don’t send him empty away.
 
@@ -3816,7 +3864,7 @@ Sirach 30
 
 12 Bow down his neck in his youth, and beat him on the sides while he is a child, lest he become stubborn, and be disobedient to you, and there be sorrow to your soul.
 
-13 Chastise your son, and give him work, lest his shameless behavior be an offense to you.
+13 Discipline your son, and give him work, lest his shameless behavior be an offense to you.
 
 14 Better is a poor man who is healthy and fit, than a rich man who is afflicted in his body.
 
@@ -3864,7 +3912,7 @@ Sirach 31
 
 10 Who has been tried by it, and found perfect? Then let him boast. Who has had the power to transgress, and has not transgressed? And to do evil, and has not done it?
 
-11 His prosperity will be made sure. The congregation will proclaim his alms.
+11 His prosperity will be made sure. The congregation will proclaim his charity.
 
 12 Do you sit at a great table? Don’t be greedy there. Don’t say, “There is a lot of food on it!”
 
@@ -4082,7 +4130,7 @@ Sirach 35
 
 1 He who keeps the law multiplies offerings. He who heeds the commandments sacrifices a peace offering.
 
-2 He who returns a kindness offers fine flour. He who gives alms sacrifices a thank offering.
+2 He who returns a kindness offers fine flour. He who gives to the poor sacrifices a thank offering.
 
 3 To depart from wickedness pleases the Lord. To depart from unrighteousness is an atoning sacrifice.
 
@@ -5072,7 +5120,7 @@ Baruch 2
 
 1 Therefore the Lord has made good his word which he pronounced against us, and against our judges who judged Israel, and against our kings, and against our princes, and against the men of Israel and Judah,
 
-2 to bring upon us great plagues such as never happened before under the whole heaven, as it came to pass in Jerusalem, according to the things that are written in the law of Moses,
+2 to bring upon us great plagues such as never happened before under the whole heaven, as happened in Jerusalem, according to the things that are written in the law of Moses,
 
 3 that we should each eat the flesh of our own son, and each eat the flesh of our own daughter.
 
@@ -5156,7 +5204,7 @@ Baruch 3
 
 7 For this cause, you have put your fear in our hearts, to the intent that we should call upon your name. We will praise you in our captivity, for we have called to mind all the sin of our fathers who sinned before you.
 
-8 See, we are yet this day in our captivity where you have scattered us, for a reproach and a curse, and to be subject to penalty according to all the sins of our fathers who departed from the Lord our God.
+8 See, we are yet this day in our captivity where you have scattered us, as an object of reproach and a curse, and to be subject to penalty according to all the sins of our fathers who departed from the Lord our God.
 
 9 Hear, O Israel, the commandments of life! Give ear to understand wisdom!
 
@@ -5460,7 +5508,7 @@ The Letter of Jeremy (Jeremiah)
 
 72 You will know them to be no gods by the bright purple that rots upon them. They themselves will be consumed afterwards, and will be a reproach in the country.
 
-73 Better therefore is the just man who has no idols; for he will be far from reproach.
+73 A righteous man who has no idols is better off, for he will be far from reproach.
 
 Clear English Bible — 1 Maccabees (Chapters 1–16): A Clear English Translation
 
@@ -5986,7 +6034,7 @@ DRAFT — NOT FINISHED. 1 Maccabees chapters 1–16 are all internally audited (
 
 1 Maccabees 5
 
-1 It came to pass, when the Gentiles all around heard that the altar had been rebuilt and the sanctuary dedicated as before, they were exceedingly angry.
+1 When the Gentiles all around heard that the altar had been rebuilt and the sanctuary dedicated as before, they were exceedingly angry.
 
 2 They took counsel to destroy the race of Jacob that was in the midst of them, and they began to kill and destroy among the people.
 
@@ -6138,7 +6186,7 @@ DRAFT — NOT FINISHED. 1 Maccabees chapters 1–16 are all internally audited (
 
 7 and that they had pulled down the detestable thing which he had built upon the altar that was in Jerusalem, and that they had surrounded the sanctuary with high walls, as before, and also Bethsura, his city.
 
-8 It came to pass, when the king heard these words, he was astonished and moved exceedingly. He laid himself down on his bed, and fell sick for grief, because it had not turned out for him as he had planned.
+8 When the king heard these words, he was astonished and moved exceedingly. He laid himself down on his bed, and fell sick for grief, because it had not turned out for him as he had planned.
 
 9 He was there many days, because great grief continually gripped him, and he realized that he would die.
 
@@ -6254,7 +6302,7 @@ DRAFT — NOT FINISHED. 1 Maccabees chapters 1–16 are all internally audited (
 
 1 In the one hundred fifty first year, Demetrius the son of Seleucus came out of Rome, and went up with a few men to a city by the sea, and reigned there.
 
-2 It came to pass, when he would go into the house of the kingdom of his fathers, that the army laid hands on Antiochus and Lysias, to bring them to him.
+2 When he was entering the house of the kingdom of his fathers, that the army laid hands on Antiochus and Lysias, to bring them to him.
 
 3 The thing became known to him, and he said, “Don’t show me their faces!”
 
@@ -6464,7 +6512,7 @@ DRAFT — NOT FINISHED. 1 Maccabees chapters 1–16 are all internally audited (
 
 22 The rest of the acts of Judas, and his wars, and the valiant deeds which he did, and his greatness, are not written; for they were exceedingly many.
 
-23 It came to pass after the death of Judas, that the lawless emerged within all the borders of Israel. All those who did sin rose up.
+23 After the death of Judas, that the lawless emerged within all the borders of Israel. All those who did sin rose up.
 
 24 In those days there was an exceedingly great famine, and the country went over to their side.
 
@@ -6694,7 +6742,7 @@ DRAFT — NOT FINISHED. 1 Maccabees chapters 1–16 are all internally audited (
 
 63 The king made him sit with him, and said to his princes, “Go out with him into the midst of the city, and proclaim that no man may complain against him of any matter, and let no man trouble him for any reason.”
 
-64 It came to pass, when those who complained against him saw his honor according to the proclamation, and saw him clothed in purple, they all fled away.
+64 When those who complained against him saw his honor according to the proclamation, and saw him clothed in purple, they all fled away.
 
 65 The king gave him honor, and enrolled him among his chief friends, and made him a captain and governor of a province.
 
@@ -6742,7 +6790,7 @@ DRAFT — NOT FINISHED. 1 Maccabees chapters 1–16 are all internally audited (
 
 87 Jonathan, with those who were on his side, returned to Jerusalem, having many spoils.
 
-88 It came to pass, when King Alexander heard these things, he honored Jonathan even more.
+88 When King Alexander heard these things, he honored Jonathan even more.
 
 89 He sent him a gold buckle, as the custom is to give to the king’s kindred. He gave him Ekron and all its land for a possession.
 
@@ -6912,7 +6960,7 @@ DRAFT — NOT FINISHED. 1 Maccabees chapters 1–16 are all internally audited (
 
 7 Even before this time letters were sent to Onias the high priest from Arius, who was reigning among you, to signify that you are our kindred, as the copy written below shows.
 
-8 Onias welcomed honorably the man who was sent and received the letters, wherein declaration was made of alliance and friendship.
+8 Onias welcomed honorably the man who was sent and received the letters, in which declaration was made of alliance and friendship.
 
 9 Therefore we also, even though we need none of these things, having for our encouragement the holy books which are in our hands,
 
@@ -7162,7 +7210,7 @@ DRAFT — NOT FINISHED. 1 Maccabees chapters 1–16 are all internally audited (
 
 24 After this, Simon sent Numenius to Rome with a great shield of gold weighing one thousand minas, in order to confirm the alliance with them.
 
-25 But when the people heard these things, they said, “What thanks shall we give to Simon and his sons?
+25 But when the people heard these things, they said, “What thanks should we give to Simon and his sons?
 
 26 For he and his brothers and the house of his father have made themselves strong, and have fought and chased away Israel’s enemies, and confirmed liberty to Israel.”
 
@@ -7494,7 +7542,7 @@ DRAFT — NOT FINISHED. 2 Maccabees chapters 1–15 are all internally audited (
 
 1 When the holy city was inhabited with unbroken peace and the laws were kept very well because of the godliness of Onias the high priest and his hatred of wickedness,
 
-2 it came to pass that even the kings themselves honored the place and glorified the temple with the noblest presents,
+2 even the kings themselves honored the place and glorified the temple with the noblest presents,
 
 3 so that even King Seleucus of Asia bore all the costs belonging to the services of the sacrifices out of his own revenues.
 
@@ -7610,7 +7658,7 @@ DRAFT — NOT FINISHED. 2 Maccabees chapters 1–15 are all internally audited (
 
 18 Now when certain games that came every fifth year were kept at Tyre, and the king was present,
 
-19 the vile Jason sent sacred envoys, as being Antiochians of Jerusalem, bearing three hundred drachmas of silver to the sacrifice of Hercules, which even the bearers thereof thought not right to use for any sacrifice, because it was not fit, but to spend it for another purpose.
+19 the vile Jason sent sacred envoys, as being Antiochians of Jerusalem, bearing three hundred drachmas of silver to the sacrifice of Hercules, which even those who carried it thought not right to use for any sacrifice, because it was not fit, but to spend it for another purpose.
 
 20 Although the sender intended that this money was for the sacrifice of Hercules, yet on account of present circumstances it went to the construction of trireme warships.
 
@@ -7632,7 +7680,7 @@ DRAFT — NOT FINISHED. 2 Maccabees chapters 1–15 are all internally audited (
 
 29 Menelaus left his own brother Lysimachus for his deputy in the high priesthood; and Sostratus left Crates, who was over the Cyprians.
 
-30 Now while this was the state of things, it came to pass that the people of Tarsus and Mallus revolted because they were to be given as a present to Antiochis, the king’s concubine.
+30 Now while this was the state of things, the people of Tarsus and Mallus revolted because they were to be given as a present to Antiochis, the king’s concubine.
 
 31 The king therefore quickly came to settle matters, leaving for his deputy Andronicus, a man of high rank.
 
@@ -7796,7 +7844,7 @@ DRAFT — NOT FINISHED. 2 Maccabees chapters 1–15 are all internally audited (
 
 2 Maccabees 7
 
-1 It came to pass that seven brothers and their mother were at the king’s command taken and shamefully handled with scourges and cords, to compel them to taste of the detestable swine’s flesh.
+1 Seven brothers and their mother were at the king’s command taken and shamefully handled with scourges and cords, to compel them to taste of the detestable swine’s flesh.
 
 2 One of them made himself the spokesman and said, “What would you ask and learn from us? For we are ready to die rather than transgress the laws of our ancestors.”
 
@@ -7958,7 +8006,7 @@ DRAFT — NOT FINISHED. 2 Maccabees chapters 1–15 are all internally audited (
 
 1 Now about that time, Antiochus retreated in disorder from the region of Persia.
 
-2 For he had entered into the city called Persepolis, and he attempted to rob a temple and to control the city. Therefore the multitudes rushed in and the people of the country turned to defend themselves with weapons; and it came to pass that Antiochus was put to flight by the people of the country and broke his camp with disgrace.
+2 For he had entered into the city called Persepolis, and he attempted to rob a temple and to control the city. Therefore the multitudes rushed in and the people of the country turned to defend themselves with weapons; and Antiochus was put to flight by the people of the country and broke his camp with disgrace.
 
 3 While he was at Ecbatana, news was brought to him about what had happened to Nicanor and the forces of Timotheus.
 
@@ -7968,7 +8016,7 @@ DRAFT — NOT FINISHED. 2 Maccabees chapters 1–15 are all internally audited (
 
 6 and that most justly, for he had tormented other men’s bowels with many and strange sufferings.
 
-7 But he in no way ceased from his rude insolence. No, he was filled with even more arrogance, breathing fire in his passion against the Jews, and giving orders to hasten the journey. But it came to pass moreover that he fell from his chariot as it rushed along, and having a grievous fall was tortured in all of the members of his body.
+7 But he in no way ceased from his rude insolence. No, he was filled with even more arrogance, breathing fire in his passion against the Jews, and giving orders to hasten the journey. But he also fell from his chariot as it rushed along, and having a grievous fall was tortured in all of the members of his body.
 
 8 He who had just supposed himself to have the waves of the sea at his bidding because he was so superhumanly arrogant, and who thought to weigh the heights of the mountains in a balance, was now brought to the ground and carried in a litter, showing to all that the power was obviously God’s,
 
@@ -8024,7 +8072,7 @@ DRAFT — NOT FINISHED. 2 Maccabees chapters 1–15 are all internally audited (
 
 4 When they had done these things, they fell prostrate and implored the Lord that they might fall no more into such evils; but that, if they ever did sin, they might be chastened by him with forbearance, and not be delivered to blaspheming and barbarous heathen.
 
-5 Now on the same day that the sanctuary was profaned by foreigners, upon that very day it came to pass that the sanctuary was cleansed, even on the twenty-fifth day of the same month, which is Chislev.
+5 Now on the same day that the sanctuary was profaned by foreigners, upon that very day the sanctuary was cleansed, even on the twenty-fifth day of the same month, which is Chislev.
 
 6 They observed eight days with gladness in the manner of the feast of tabernacles, remembering how not long before, during the feast of tabernacles, they were wandering in the mountains and in the caves like wild animals.
 
@@ -8126,7 +8174,7 @@ DRAFT — NOT FINISHED. 2 Maccabees chapters 1–15 are all internally audited (
 
 16 The letter written to the Jews from Lysias was to this effect: “Lysias to the people of the Jews, greetings.
 
-17 John and Absalom, who were sent from you, having delivered the document written below, made request concerning the things written therein.
+17 John and Absalom, who were sent from you, having delivered the document written below, made request concerning the things written in it.
 
 18 Whatever things therefore needed to be brought before the king I declared to him, and what things were possible he allowed.
 
@@ -8224,7 +8272,7 @@ DRAFT — NOT FINISHED. 2 Maccabees chapters 1–15 are all internally audited (
 
 26 Then Judas, marching against Carnion and the temple of Atergatis, killed twenty-five thousand people.
 
-27 After he had put these to flight and destroyed them, he marched against Ephron also, a strong city, wherein were multitudes of people of all nations. Stalwart young men placed on the walls made a vigorous defense. There were great stores of war engines and darts there.
+27 After he had put these to flight and destroyed them, he marched against Ephron also, a strong city, in which were multitudes of people of all nations. Stalwart young men placed on the walls made a vigorous defense. There were great stores of war engines and darts there.
 
 28 But calling upon the Sovereign who with might shatters the strength of the enemy, they took the city into their hands, and killed as many as twenty-five thousand of those who were in it.
 
@@ -8238,7 +8286,7 @@ DRAFT — NOT FINISHED. 2 Maccabees chapters 1–15 are all internally audited (
 
 33 He came out with three thousand infantry and four hundred cavalry.
 
-34 When they had set themselves in array, it came to pass that a few of the Jews fell.
+34 When they had set themselves in array, a few of the Jews fell.
 
 35 A certain Dositheus, one of Bacenor’s company, who was on horseback and was a strong man, pressed hard on Gorgias, and taking hold of his cloke dragged him along by main force. While he planned to take the accursed man alive, one of the Thracian cavalry bore down on him and disabled his shoulder, and so Gorgias escaped to Marisa.
 
@@ -8278,7 +8326,7 @@ DRAFT — NOT FINISHED. 2 Maccabees chapters 1–15 are all internally audited (
 
 7 By such a fate it happened that the breaker of the law, Menelaus, died, without obtaining so much as a grave in the earth, and that justly;
 
-8 for inasmuch as he had perpetrated many sins against the altar, whose fire and whose ashes were holy, he received his death in ashes.
+8 for because he had committed many sins against the altar, whose fire and whose ashes were holy, he received his death in ashes.
 
 9 Now the king, infuriated in spirit, was coming with intent to inflict on the Jews the very worst of the sufferings that had been done in his father’s time.
 

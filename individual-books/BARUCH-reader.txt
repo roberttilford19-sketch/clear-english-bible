@@ -52,7 +52,7 @@ Baruch 2
 
 1 Therefore the Lord has made good his word which he pronounced against us, and against our judges who judged Israel, and against our kings, and against our princes, and against the men of Israel and Judah,
 
-2 to bring upon us great plagues such as never happened before under the whole heaven, as it came to pass in Jerusalem, according to the things that are written in the law of Moses,
+2 to bring upon us great plagues such as never happened before under the whole heaven, as happened in Jerusalem, according to the things that are written in the law of Moses,
 
 3 that we should each eat the flesh of our own son, and each eat the flesh of our own daughter.
 
@@ -136,7 +136,7 @@ Baruch 3
 
 7 For this cause, you have put your fear in our hearts, to the intent that we should call upon your name. We will praise you in our captivity, for we have called to mind all the sin of our fathers who sinned before you.
 
-8 See, we are yet this day in our captivity where you have scattered us, for a reproach and a curse, and to be subject to penalty according to all the sins of our fathers who departed from the Lord our God.
+8 See, we are yet this day in our captivity where you have scattered us, as an object of reproach and a curse, and to be subject to penalty according to all the sins of our fathers who departed from the Lord our God.
 
 9 Hear, O Israel, the commandments of life! Give ear to understand wisdom!
 
@@ -440,4 +440,4 @@ The Letter of Jeremy (Jeremiah)
 
 72 You will know them to be no gods by the bright purple that rots upon them. They themselves will be consumed afterwards, and will be a reproach in the country.
 
-73 Better therefore is the just man who has no idols; for he will be far from reproach.
+73 A righteous man who has no idols is better off, for he will be far from reproach.

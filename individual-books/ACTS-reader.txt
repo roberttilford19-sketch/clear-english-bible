@@ -257,7 +257,7 @@ Acts 4
 
 15 But when they had commanded them to go aside out of the council, they conferred among themselves,
 
-16 saying, “What shall we do to these men? Because indeed a notable miracle has been done through them, as can be plainly seen by all who dwell in Jerusalem, and we can’t deny it.
+16 saying, “What should we do to these men? Because indeed a notable miracle has been done through them, as can be plainly seen by all who dwell in Jerusalem, and we can’t deny it.
 
 17 But so that this spreads no further among the people, let’s threaten them, that from now on they don’t speak to anyone in this name.”
 
@@ -632,7 +632,7 @@ Acts 8
 
 36 As they went on the way, they came to some water; and the eunuch said, “See, here is water. What is keeping me from being baptized?”
 
-37
+37 [Reader’s note: TR adds Philip said, “If you believe with all your heart, you may.” He answered, “I believe that Jesus Christ is the Son of God.”]
 
 38 He commanded the chariot to stand still, and they both went down into the water, both Philip and the eunuch, and he baptized him.
 
@@ -1184,7 +1184,7 @@ says the Lord, who does all these things.’
 
 33 After they had spent some time there, they were dismissed in peace from the brothers to the apostles.
 
-34
+34 [Reader’s note: Some manuscripts add: But it seemed good to Silas to stay there.]
 
 35 But Paul and Barnabas stayed in Antioch, teaching and preaching the word of the Lord, with many others also.
 
@@ -1802,7 +1802,7 @@ Acts 24
 
 6 He even tried to profane the temple, and we arrested him.
 
-7
+7 [Reader’s note: TR adds “but the commanding officer, Lysias, came by and with great violence took him out of our hands,”]
 
 8 By examining him yourself you may ascertain all these things of which we accuse him.”
 
