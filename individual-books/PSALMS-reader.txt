@@ -5,6 +5,10 @@ COMPLETE — This book of the Clear English Bible is complete. This is a clear-E
 Draft history — 25 October 2026. Psalms 1–150 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 
+A note on the name "Yah": Yah is God's name in its short form — the same name that ends the word "Hallelujah."
+
+A note on the word "Selah": Selah is a Hebrew word in the psalms whose meaning is no longer certain; it likely marks a pause in the singing.
+
 Psalm 1
 
 1 Blessed is the man who doesn’t walk in the advice of the wicked, nor stand
