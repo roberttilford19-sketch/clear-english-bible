@@ -68,7 +68,7 @@ Sirach 1
 
 29 Don’t be a hypocrite in men’s sight. Keep watch over your lips.
 
-30 Don’t exalt yourself, lest you fall and bring dishonor upon your soul. The Lord will reveal your secrets and will cast you down in the midst of the congregation, because you didn’t come to the fear of the Lord and your heart was full of deceit.
+30 Don’t exalt yourself, or you will fall and bring dishonor upon your soul. The Lord will reveal your secrets and will cast you down in the midst of the congregation, because you didn’t come to the fear of the Lord and your heart was full of deceit.
 
 Sirach 2
 
@@ -84,7 +84,7 @@ Sirach 2
 
 6 Put your trust in him, and he will help you. Make your ways straight, and set your hope on him.
 
-7 All you who fear the Lord, wait for his mercy. Don’t turn aside, lest you fall.
+7 All you who fear the Lord, wait for his mercy. Don’t turn aside, or you will fall.
 
 8 All you who fear the Lord, put your trust in him, and your reward will not fail.
 
@@ -316,7 +316,7 @@ Sirach 6
 
 23 Give ear, my son, and accept my judgment. Don’t refuse my counsel.
 
-24 Bring your feet into her fetters, and your neck into her chain.
+24 Bring your feet into her chains, and your neck into her chain.
 
 25 Put your shoulder under her and bear her. Don’t be grieved with her bonds.
 
@@ -326,7 +326,7 @@ Sirach 6
 
 28 For at the last you will find her rest; and she will be turned for you into gladness.
 
-29 Her fetters will be to you for a covering of strength, and her chains for a robe of glory.
+29 Her chains will be to you for a covering of strength, and her chains for a robe of glory.
 
 30 For there is a golden ornament upon her, and her bands are a purple cord.
 
@@ -342,7 +342,7 @@ Sirach 6
 
 36 If you see a man of understanding, get to him early. Let your foot wear out the steps of his doors.
 
-37 Let your mind dwell on the rules of the Lord and meditate continually on his commandments. He will establish your heart and your desire for wisdom will be given to you.
+37 Let your mind dwell on the ordinances of the Lord and meditate continually on his commandments. He will establish your heart and your desire for wisdom will be given to you.
 
 Sirach 7
 
@@ -356,7 +356,7 @@ Sirach 7
 
 5 Don’t justify yourself in the presence of the Lord, and don’t display your wisdom before the king.
 
-6 Don’t seek to be a judge, lest you not be able to take away sins, lest perhaps you fear the person of a mighty man, and lay a stumbling block in the way of your uprightness.
+6 Don’t seek to be a judge, for you may not be able to take away sins, and you may fear the person of a mighty man, and lay a stumbling block in the way of your uprightness.
 
 7 Don’t sin against the multitude of the city. Don’t disgrace yourself in the crowd.
 
@@ -364,7 +364,7 @@ Sirach 7
 
 9 Don’t say, “He will look upon the multitude of my gifts. When I make an offering to the Most High God, he will accept it.”
 
-10 Don’t be faint-hearted in your prayer. Don’t neglect to give to the poor.
+10 Don’t be faint-hearted in your prayer. Don’t neglect almsgiving.
 
 11 Don’t laugh a man to scorn when he is in the bitterness of his soul, for there is one who humbles and exalts.
 
@@ -406,7 +406,7 @@ Sirach 7
 
 30 With all your strength love him who made you. Don’t forsake his ministers.
 
-31 Fear the Lord and honor the priest. Give him his portion, even as it is commanded you: the first fruits, the trespass offering, the gift of the shoulders, the sacrifice of sanctification, and the first fruits of holy things.
+31 Fear the Lord and honor the priest. Give him his portion, even as it is commanded you: the first fruits, the trespass offering, the gift of the shoulders, the sacrifice of consecration, and the first fruits of holy things.
 
 32 Also stretch out your hand to the poor man, that your blessing may be complete.
 
@@ -420,13 +420,13 @@ Sirach 7
 
 Sirach 8
 
-1 Don’t contend with a mighty man, lest perhaps you fall into his hands.
+1 Don’t contend with a mighty man, or you may fall into his hands.
 
-2 Don’t strive with a rich man, lest perhaps he overpower you; for gold has destroyed many, and turned away the hearts of kings.
+2 Don’t strive with a rich man, or he may overpower you; for gold has destroyed many, and turned away the hearts of kings.
 
 3 Don’t argue with a loudmouthed man. Don’t heap wood upon his fire.
 
-4 Don’t make fun of a rude man, lest your ancestors be dishonored.
+4 Don’t make fun of a rude man, or your ancestors will be dishonored.
 
 5 Don’t reproach a man when he turns from sin. Remember that we are all worthy of punishment.
 
@@ -438,9 +438,9 @@ Sirach 8
 
 9 Don’t miss the discourse of the aged, for they also learned from their parents, because from them you will learn understanding, and to give an answer in time of need.
 
-10 Don’t kindle the coals of a sinner, lest you be burned with the flame of his fire.
+10 Don’t kindle the coals of a sinner, or you will be burned with the flame of his fire.
 
-11 Don’t rise up from the presence of an insolent man, lest he lie in wait as an ambush for your mouth.
+11 Don’t rise up from the presence of an insolent man, or he will lie in wait as an ambush for your mouth.
 
 12 Don’t lend to a man who is stronger than you; and if you lend, count it as a loss.
 
@@ -448,7 +448,7 @@ Sirach 8
 
 14 Don’t go to law with a judge; for according to his honor they will give judgment for him.
 
-15 Don’t travel with a reckless man, lest he be burdensome to you; for he will do as he pleases, and you will perish with his folly.
+15 Don’t travel with a reckless man, or he will be burdensome to you; for he will do as he pleases, and you will perish with his folly.
 
 16 Don’t fight with a wrathful man. Don’t travel with him through the desert, for blood is as nothing in his sight. Where there is no help, he will overthrow you.
 
@@ -460,15 +460,15 @@ Sirach 8
 
 Sirach 9
 
-1 Don’t be jealous over the wife of your bosom, and don’t teach her an evil lesson against yourself.
+1 Don’t be jealous over the wife in your arms, and don’t teach her an evil lesson against yourself.
 
 2 Don’t give your soul to a woman and let her trample down your strength.
 
-3 Don’t go to meet a woman who plays the prostitute, lest perhaps you fall into her snares.
+3 Don’t go to meet a woman who plays the prostitute, or you may fall into her snares.
 
-4 Don’t associate with a woman who is a singer, lest perhaps you be caught by her tricks.
+4 Don’t associate with a woman who is a singer, or you may be caught by her tricks.
 
-5 Don’t gaze at a virgin, lest perhaps you stumble and incur penalties for her.
+5 Don’t gaze at a virgin, or you may stumble and incur penalties for her.
 
 6 Don’t give your soul to prostitutes, that you not lose your inheritance.
 
@@ -476,7 +476,7 @@ Sirach 9
 
 8 Turn your eye away from a beautiful woman, and don’t gaze at another’s beauty. Many have been led astray by the beauty of a woman; and with this, passion is kindled like a fire.
 
-9 Don’t dine at all with a woman who has a husband, or revel with her at wine, lest perhaps your soul turn away to her, and with your spirit you slide into destruction.
+9 Don’t dine at all with a woman who has a husband, or revel with her at wine, or your soul may turn away to her, and with your spirit you may slide into destruction.
 
 10 Don’t forsake an old friend; for a new one is not comparable to him. A new friend is like new wine: if it becomes old, you will drink it with gladness.
 
@@ -484,7 +484,7 @@ Sirach 9
 
 12 Don’t delight in the delights of the ungodly. Remember they will not go unpunished to the grave.
 
-13 Keep yourself far from the man who has power to kill, and you will not be troubled by the fear of death. If you come to him, commit no fault, lest he take away your life. Know surely that you go about in the midst of snares, and walk upon the battlements of a city.
+13 Keep yourself far from the man who has power to kill, and you will not be troubled by the fear of death. If you come to him, commit no fault, or he will take away your life. Know surely that you go about in the midst of snares, and walk upon the battlements of a city.
 
 14 As well as you can, aim to know your neighbors, and take counsel with the wise.
 
@@ -552,7 +552,7 @@ Sirach 10
 
 27 Better is he who labors and abounds in all things, than he who boasts and lacks bread.
 
-28 My son, glorify your soul in humility, and ascribe to yourself honor according to your worthiness.
+28 My son, glorify your soul in humility, and give yourself honor according to your worthiness.
 
 29 Who will justify him who sins against his own soul? Who will honor him who dishonors his own life?
 
@@ -626,7 +626,7 @@ Sirach 11
 
 32 From a spark of fire, a heap of many coals is kindled, and a sinful man lies in wait to shed blood.
 
-33 Take heed of an evil-doer, for he plans wicked things, lest perhaps he ruin your reputation forever.
+33 Take heed of an evil-doer, for he plans wicked things, and may ruin your reputation forever.
 
 34 Receive a stranger into your house, and he will distract you with arguments and estrange you from your own family.
 
@@ -636,11 +636,11 @@ Sirach 12
 
 2 Do good to a godly man, and you will find a reward— if not from him, then from the Most High.
 
-3 No good will come to him who continues to do evil, nor to him who gives nothing to the poor.
+3 No good will come to him who continues to do evil, nor to him who gives no almsgiving.
 
 4 Give to the godly man, and don’t help the sinner.
 
-5 Do good to one who is lowly. Don’t give to an ungodly man. Keep back his bread, and don’t give it to him, lest he subdue you with it; for you would receive twice as much evil for all the good you would have done to him.
+5 Do good to one who is lowly. Don’t give to an ungodly man. Keep back his bread, and don’t give it to him, or he will subdue you with it; for you would receive twice as much evil for all the good you would have done to him.
 
 6 For the Most High also hates sinners, and will repay vengeance to the ungodly.
 
@@ -654,7 +654,7 @@ Sirach 12
 
 11 Though he humbles himself and walks bowed down, still be careful and beware of him. You will be to him as one who has wiped a mirror, to be sure it doesn’t completely tarnish.
 
-12 Don’t set him next to you, lest he overthrow you and stand in your place. Don’t let him sit on your right hand, lest he seek to take your seat, and at the last you acknowledge my words, and be pricked with my sayings.
+12 Don’t set him next to you, or he will overthrow you and stand in your place. Don’t let him sit on your right hand, or he will seek to take your seat, and at the last you acknowledge my words, and be pricked with my sayings.
 
 13 Who will pity a charmer that is bitten by a snake, or any who come near wild beasts?
 
@@ -688,7 +688,7 @@ Sirach 13
 
 9 If a mighty man invites you, be reserved, and he will invite you more.
 
-10 Don’t press him, lest you be thrust back. Don’t stand far off, lest you be forgotten.
+10 Don’t press him, or you will be thrust back. Don’t stand far off, or you will be forgotten.
 
 11 Don’t try to speak with him as an equal, and don’t believe his many words; for he will test you with much talk, and will examine you in a smiling manner.
 
@@ -714,7 +714,7 @@ Sirach 13
 
 22 When a rich man falls, there are many helpers. He speaks things not to be spoken, and men justify him. A humble man falls, and men rebuke him. He utters wisdom, and is not listened to.
 
-23 A rich man speaks, and all keep silence. They extol what he says to the clouds. A poor man speaks, and they say, “Who is this?” If he stumbles, they will help to overthrow him.
+23 A rich man speaks, and all keep silence. They lift up what he says to the clouds. A poor man speaks, and they say, “Who is this?” If he stumbles, they will help to overthrow him.
 
 24 Riches are good if they have no sin. Poverty is evil only in the opinion of the ungodly.
 
@@ -828,7 +828,7 @@ Sirach 16
 
 3 Don’t trust in their life. Don’t rely on their numbers; for one can be better than a thousand, and to die childless than to have ungodly children.
 
-4 For from one who has understanding, a city will be populated, but a race of wicked men will be made desolate.
+4 For from one who has understanding, a city will be populated, but a tribe of wicked men will be made desolate.
 
 5 I have seen many such things with my eyes. My ear has heard mightier things than these.
 
@@ -906,7 +906,7 @@ Sirach 17
 
 11 He added to them knowledge, and gave them a law of life for a heritage.
 
-12 He made an everlasting covenant with them, and showed them his decrees.
+12 He made an everlasting covenant with them, and showed them his judgments.
 
 13 Their eyes saw the majesty of his glory. Their ears heard the glory of his voice.
 
@@ -926,13 +926,13 @@ Sirach 17
 
 21 [Reader’s note: Verses 16, 18, and 21 are omitted by the best authorities.]
 
-22 With him a man’s charity is as a signet. He will keep a man’s kindness as the pupil of the eye.
+22 With him a man’s almsgiving is as a signet. He will keep a man’s kindness as the pupil of the eye.
 
 23 Afterwards he will rise up and repay them, and give their repayment upon their head.
 
 24 However to those who repent he grants a return. He comforts those who are losing hope.
 
-25 Return to the Lord, and forsake sins. Make your prayer before his face offend less.
+25 Return to the Lord, and forsake sins. Pray before his face, and lessen offense.
 
 26 Turn again to the Most High, and turn away from sin. Greatly hate the detestable thing.
 
@@ -974,9 +974,9 @@ Sirach 18
 
 12 He saw and perceived their end, that it is evil. Therefore he multiplied his forgiveness.
 
-13 The mercy of a man is on his neighbor; but the mercy of the Lord is on all flesh: reproving, chastening, teaching, and bringing back, as a shepherd does his flock.
+13 The mercy of a man is on his neighbor; but the mercy of the Lord is on all flesh: reproving, disciplining, teaching, and bringing back, as a shepherd does his flock.
 
-14 He has mercy on those who accept chastening, and that diligently seek after his judgments.
+14 He has mercy on those who accept discipline, and that diligently seek after his judgments.
 
 15 My son, don’t add reproach to your good deeds, and no harsh words in any of your giving.
 
@@ -1182,7 +1182,7 @@ Sirach 21
 
 18 As a house that is destroyed, so is wisdom to a fool. The knowledge of an unwise man is talk without sense.
 
-19 Instruction is as fetters on the feet of an unwise man, and as manacles on the right hand.
+19 Instruction is as chains on the feet of an unwise man, and as manacles on the right hand.
 
 20 A fool lifts up his voice with laughter, but a clever man smiles quietly.
 
@@ -1228,7 +1228,7 @@ Sirach 22
 
 12 Mourning for the dead lasts seven days, but for a fool and an ungodly man, it lasts all the days of his life.
 
-13 Don’t talk much with a foolish man, and don’t go to one who has no understanding. Beware of him, lest you have trouble and be defiled in his onslaught. Turn away from him, and you will find rest, and you won’t be wearied in his madness.
+13 Don’t talk much with a foolish man, and don’t go to one who has no understanding. Beware of him, or you will have trouble and be defiled in his onslaught. Turn away from him, and you will find rest, and you won’t be wearied in his madness.
 
 14 What would be heavier than lead? What is its name, but “Fool”?
 
@@ -1460,7 +1460,7 @@ Sirach 26
 
 9 The fornication of a woman is in the lifting up of her eyes; it will be known by her eyelids.
 
-10 Keep strict watch on a headstrong daughter, lest she find liberty for herself, and use it.
+10 Keep strict watch on a headstrong daughter, or she will find liberty for herself, and use it.
 
 11 Watch out for an impudent eye, and don’t be surprised if it sins against you.
 
@@ -1614,7 +1614,7 @@ Sirach 28
 
 25 so make a balance and a weight for your words, and make a door and a bar for your mouth.
 
-26 Take heed lest you slip with it, lest you fall before one who lies in wait.
+26 Take heed so that you don’t slip with it, or you will fall before one who lies in wait.
 
 Sirach 29
 
@@ -1694,13 +1694,13 @@ Sirach 30
 
 9 Pamper your child, and he will make you afraid. Play with him, and he will grieve you.
 
-10 Don’t laugh with him, lest you have sorrow with him, and you gnash your teeth in the end.
+10 Don’t laugh with him, or you will have sorrow with him, and will gnash your teeth in the end.
 
 11 Give him no liberty in his youth, and don’t ignore his follies.
 
-12 Bow down his neck in his youth, and beat him on the sides while he is a child, lest he become stubborn, and be disobedient to you, and there be sorrow to your soul.
+12 Bow down his neck in his youth, and beat him on the sides while he is a child, or he will become stubborn, and be disobedient to you, and there will be sorrow to your soul.
 
-13 Discipline your son, and give him work, lest his shameless behavior be an offense to you.
+13 Discipline your son, and give him work, or his shameless behavior will be an offense to you.
 
 14 Better is a poor man who is healthy and fit, than a rich man who is afflicted in his body.
 
@@ -1748,7 +1748,7 @@ Sirach 31
 
 10 Who has been tried by it, and found perfect? Then let him boast. Who has had the power to transgress, and has not transgressed? And to do evil, and has not done it?
 
-11 His prosperity will be made sure. The congregation will proclaim his charity.
+11 His prosperity will be made sure. The congregation will proclaim his almsgiving.
 
 12 Do you sit at a great table? Don’t be greedy there. Don’t say, “There is a lot of food on it!”
 
@@ -1758,9 +1758,9 @@ Sirach 31
 
 15 Consider your neighbor’s feelings by your own. Be discreet in every point.
 
-16 Eat like a human being those things which are set before you. Don’t eat greedily, lest you be hated.
+16 Eat like a human being those things which are set before you. Don’t eat greedily, or you will be hated.
 
-17 Be first to stop for manners’ sake. Don’t be insatiable, lest you offend.
+17 Be first to stop for manners’ sake. Don’t be insatiable, or you will offend.
 
 18 And if you sit among many, Don’t reach out your hand before them.
 
@@ -1858,13 +1858,13 @@ Sirach 33
 
 8 They were distinguished by the Lord’s knowledge, and he varied seasons and feasts.
 
-9 Some of them he exalted and hallowed, and some of them he has made ordinary days.
+9 Some of them he exalted and consecrated, and some of them he has made ordinary days.
 
 10 And all men are from the ground. Adam was created from dust.
 
 11 In the abundance of his knowledge the Lord distinguished them, and made their ways different.
 
-12 Some of them he blessed and exalted, and some of them he made holy and brought near to himself. Some of them he cursed and brought low, and overthrew them from their place.
+12 Some of them he blessed and exalted, and some of them he consecrated and brought near to himself. Some of them he cursed and brought low, and overthrew them from their place.
 
 13 As the clay of the potter in his hand, all his ways are according to his good pleasure, so men are in the hand of him who made them, to give to them according to his judgment.
 
@@ -1880,7 +1880,7 @@ Sirach 33
 
 19 Hear me, you great men of the people, and listen with your ears, you rulers of the congregation.
 
-20 To son and wife, to brother and friend, don’t give power over yourself while you live, and don’t give your goods to another, lest you regret it and must ask for them.
+20 To son and wife, to brother and friend, don’t give power over yourself while you live, and don’t give your goods to another, or you will regret it and must ask for them.
 
 21 While you still live and breath is in you, don’t give yourself over to anybody.
 
@@ -1898,7 +1898,7 @@ Sirach 33
 
 28 Send him to labor, that he not be idle, for idleness teaches much mischief.
 
-29 Set him to work, as is fit for him. If he doesn’t obey, make his fetters heavy.
+29 Set him to work, as is fit for him. If he doesn’t obey, make his chains heavy.
 
 30 Don’t be excessive toward any. Do nothing unjust.
 
@@ -2068,13 +2068,13 @@ Sirach 37
 
 4 There is a companion who rejoices in the gladness of a friend, but in time of affliction will be against him.
 
-5 There is a companion who for the belly’s sake labors with his friend, yet in the face of battle will carry his buckler.
+5 There is a companion who for the belly’s sake labors with his friend, yet in the face of battle will carry his shield.
 
 6 Don’t forget a friend in your soul. Don’t be unmindful of him in your riches.
 
 7 Every counselor extols counsel, but some give counsel in their own interest.
 
-8 Let your soul beware of a counselor, and know in advance what is his interest (for he will take counsel for himself), lest he cast the lot against you,
+8 Let your soul beware of a counselor, and know in advance what is his interest (for he will take counsel for himself), or he may cast the lot against you,
 
 9 and say to you, “Your way is good.” Then he will stand near you, to see what will happen to you.
 
@@ -2156,7 +2156,7 @@ Sirach 38
 
 16 My son, let your tears fall over the dead, and as one who suffers grievously, begin lamentation. Wind up his body with due honor. Don’t neglect his burial.
 
-17 Make bitter weeping and make passionate wailing. Let your mourning be according to his merit, for one day or two, lest you be spoken evil of; and so be comforted for your sorrow.
+17 Make bitter weeping and make passionate wailing. Let your mourning be according to his merit, for one day or two, or you will be spoken evil of; and so be comforted for your sorrow.
 
 18 For from sorrow comes death. Sorrow of heart saps one’s strength.
 
@@ -2166,7 +2166,7 @@ Sirach 38
 
 21 Don’t forget it, for there is no returning again. You do him no good, and you would harm yourself.
 
-22 Remember his end, for so also will yours be: yesterday for him, and today for you.
+22 Remember my end, for so also will yours be: yesterday for me, and today for you.
 
 23 When the dead is at rest, let his remembrance rest. Be comforted for him when his spirit departs from him.
 
@@ -2188,7 +2188,7 @@ Sirach 38
 
 32 Without these no city would be inhabited. Men wouldn’t reside as foreigners or walk up and down there.
 
-33 They won’t be sought for in the council of the people. They won’t mount on high in the assembly. They won’t sit on the seat of the judge. They won’t understand the covenant of judgment. Neither will they declare instruction and judgment. They won’t be found where parables are.
+33 They won’t be sought for in the council of the people. They won’t mount on high in the congregation. They won’t sit on the seat of the judge. They won’t understand the covenant of judgment. Neither will they declare instruction and judgment. They won’t be found where parables are.
 
 34 But they will maintain the fabric of the age. Their prayer is in the handiwork of their craft.
 
@@ -2394,11 +2394,11 @@ Sirach 42
 
 8 Don’t be ashamed to instruct the unwise and foolish, and one of extreme old age who contends with those who are young. So you will be well instructed indeed and approved in the sight of every living man.
 
-9 A daughter is a secret cause of wakefulness to a father. Care for her takes away sleep— in her youth, lest she pass the flower of her age; when she is married, lest she should be hated;
+9 A daughter is a secret cause of wakefulness to a father. Care for her takes away sleep— in her youth, that she may pass the flower of her age; when she is married, that she may be hated;
 
-10 in her virginity, lest she should be defiled and be with child in her father’s house; when she has a husband, lest she should transgress; and when she is married, lest she should be barren.
+10 in her virginity, that she may be defiled and be with child in her father’s house; when she has a husband, that she may transgress; and when she is married, that she may be barren.
 
-11 Keep a strict watch over a headstrong daughter, lest she make you a laughingstock to your enemies, a byword in the city and notorious among the people, and shame you in public.
+11 Keep a strict watch over a headstrong daughter, or she will make you a laughingstock to your enemies, a byword in the city and notorious among the people, and shame you in public.
 
 12 Don’t gaze at every beautiful body. Don’t sit in the midst of women.
 
@@ -2530,7 +2530,7 @@ Sirach 44
 
 16 Enoch pleased the Lord, and was taken up, an example of repentance to all generations.
 
-17 Noah was found perfect and righteous. In the season of wrath, he kept the race alive. Therefore a remnant was left on the earth when the flood came.
+17 Noah was found perfect and righteous. In the season of wrath, he kept the human race alive. Therefore a remnant was left on the earth when the flood came.
 
 18 Everlasting covenants were made with him, that all flesh should no more be blotted out by a flood.
 
@@ -2552,7 +2552,7 @@ Sirach 45
 
 3 By his words he caused the wonders to cease. God glorified him in the sight of kings. He gave him commandments for his people and showed him part of his glory.
 
-4 He sanctified him in his faithfulness and meekness. He chose him out of all people.
+4 He consecrated him in his faithfulness and meekness. He chose him out of all people.
 
 5 He made him to hear his voice, led him into the thick darkness, and gave him commandments face to face, even the law of life and knowledge, that he might teach Jacob the covenant, and Israel his judgments.
 
@@ -2636,7 +2636,7 @@ Sirach 46
 
 18 He utterly destroyed the rulers of the Tyrians and all the princes of the Philistines.
 
-19 Before the time of his age-long sleep, he testified in the sight of the lord and his anointed, “I have not taken any man’s goods, so much as a sandal;” and no one accused him.
+19 Before the time of his age-long sleep, he testified in the sight of the Lord and his anointed, “I have not taken any man’s goods, so much as a sandal;” and no one accused him.
 
 20 Even after he fell asleep, he prophesied, and showed the king his end, and lifted up his voice from the earth in prophecy, to blot out the wickedness of the people.
 
@@ -2758,7 +2758,7 @@ Sirach 49
 
 6 They set the chosen city of the sanctuary on fire and made her streets desolate, as it was written by the hand of Jeremiah.
 
-7 For they mistreated him; yet he was sanctified in the womb to be a prophet, to root out, to afflict, to destroy and likewise to build and to plant.
+7 For they mistreated him; yet he was consecrated in the womb to be a prophet, to root out, to afflict, to destroy and likewise to build and to plant.
 
 8 Ezekiel saw the vision of glory, which God showed him on the chariot of the cherubim.
 
