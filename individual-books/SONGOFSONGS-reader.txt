@@ -4,6 +4,8 @@ COMPLETE — This book of the Clear English Bible is complete. This is a clear-E
 
 Draft history — 25 October 2026. Song of Songs chapters 1–8 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
+A note on the name "Yah": Yah is God's name in its short form — the same name that ends the word "Hallelujah."
+
 Song of Songs 1
 
 1 The Song of songs, which is Solomon’s.
@@ -24,7 +26,7 @@ Beloved
 
 They are right to love you.
 
-5 I am dark, but lovely, you daughters of Jerusalem, like Kedar’s tents, like Solomon’s curtains.
+5 I am dark and lovely, you daughters of Jerusalem, like Kedar’s tents, like Solomon’s curtains.
 
 6 Don’t stare at me because I am dark, because the sun has scorched me. My mother’s sons were angry with me. They made me keeper of the vineyards. I haven’t kept my own vineyard.
 
@@ -34,7 +36,7 @@ Lover
 
 8 If you don’t know, most beautiful among women, follow the tracks of the sheep. Graze your young goats beside the shepherds’ tents.
 
-9 I have compared you, my love, to a steed in Pharaoh’s chariots.
+9 I have compared you, my love, to a mare in Pharaoh’s chariots.
 
 10 Your cheeks are beautiful with earrings, your neck with strings of jewels.
 
@@ -44,7 +46,7 @@ Friends
 
 Beloved
 
-12 While the king sat at his table, my perfume spread its fragrance.
+12 While the king sat at his table, my nard spread its fragrance.
 
 13 My beloved is to me a sachet of myrrh, that lies between my breasts.
 
@@ -82,11 +84,11 @@ Beloved
 
 6 His left hand is under my head. His right hand embraces me.
 
-7 I adjure you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up, nor awaken love, until it so desires.
+7 I charge you, daughters of Jerusalem, by the gazelles, or by the does of the field, that you not stir up, nor awaken love, until it so desires.
 
 8 The voice of my beloved! See, he comes, leaping on the mountains, skipping on the hills.
 
-9 My beloved is like a roe or a young deer. See, he stands behind our wall! He looks in at the windows. He glances through the lattice.
+9 My beloved is like a gazelle or a young deer. See, he stands behind our wall! He looks in at the windows. He glances through the lattice.
 
 10 My beloved spoke, and said to me, “Rise up, my love, my beautiful one, and come away.
 
@@ -106,7 +108,7 @@ Beloved
 
 16 My beloved is mine, and I am his. He browses among the lilies.
 
-17 Until the day is cool, and the shadows flee away, turn, my beloved, and be like a roe or a young deer on the mountains of Bether.
+17 Until the day is cool, and the shadows flee away, turn, my beloved, and be like a gazelle or a young deer on the mountains of Bether.
 
 Song of Songs 3
 
@@ -118,7 +120,7 @@ Song of Songs 3
 
 4 I had scarcely passed from them, when I found him whom my soul loves. I held him, and would not let him go, until I had brought him into my mother’s house, into the room of her who conceived me.
 
-5 I adjure you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up nor awaken love, until it so desires.
+5 I charge you, daughters of Jerusalem, by the gazelles, or by the does of the field, that you not stir up nor awaken love, until it so desires.
 
 6 Who is this who comes up from the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all spices of the merchant?
 
@@ -144,7 +146,7 @@ Lover
 
 4 Your neck is like David’s tower built for an armory, on which a thousand shields hang, all the shields of the mighty men.
 
-5 Your two breasts are like two fawns that are twins of a roe, which feed among the lilies.
+5 Your two breasts are like two fawns that are twins of a gazelle, which feed among the lilies.
 
 6 Until the day is cool, and the shadows flee away, I will go to the mountain of myrrh, to the hill of frankincense.
 
@@ -152,7 +154,7 @@ Lover
 
 8 Come with me from Lebanon, my bride, with me from Lebanon. Look from the top of Amana, from the top of Senir and Hermon, from the lions’ dens, from the mountains of the leopards.
 
-9 You have ravished my heart, my sister, my bride. You have ravished my heart with one of your eyes, with one chain of your neck.
+9 You have captured my heart, my sister, my bride. You have captured my heart with one of your eyes, with one chain of your neck.
 
 10 How beautiful is your love, my sister, my bride! How much better is your love than wine, the fragrance of your perfumes than all kinds of spices!
 
@@ -160,9 +162,9 @@ Lover
 
 12 My sister, my bride, is a locked up garden; a locked up spring, a sealed fountain.
 
-13 Your shoots are an orchard of pomegranates, with precious fruits, henna with spikenard plants,
+13 Your shoots are an orchard of pomegranates, with precious fruits, henna with nard plants,
 
-14 spikenard and saffron, calamus and cinnamon, with every kind of incense tree; myrrh and aloes, with all the best spices,
+14 nard and saffron, calamus and cinnamon, with every kind of incense tree; myrrh and aloes, with all the best spices,
 
 15 a fountain of gardens, a well of living waters, flowing streams from Lebanon.
 
@@ -182,7 +184,7 @@ Eat, friends! Drink, yes, drink abundantly, beloved.
 
 Beloved
 
-2 I was asleep, but my heart was awake. It is the voice of my beloved who knocks: “Open to me, my sister, my love, my dove, my undefiled; for my head is filled with dew, and my hair with the dampness of the night.”
+2 I was asleep, but my heart was awake. It is the voice of my beloved who knocks: “Open to me, my sister, my love, my dove, my perfect one; for my head is filled with dew, and my hair with the dampness of the night.”
 
 3 I have taken off my robe. Indeed, must I put it on? I have washed my feet. Indeed, must I soil them?
 
@@ -194,15 +196,15 @@ Beloved
 
 7 The watchmen who go about the city found me. They beat me. They bruised me. The keepers of the walls took my cloak away from me.
 
-8 I adjure you, daughters of Jerusalem, If you find my beloved, that you tell him that I am faint with love.
+8 I charge you, daughters of Jerusalem, If you find my beloved, that you tell him that I am faint with love.
 
 Friends
 
-9 How is your beloved better than another beloved, you fairest among women? How is your beloved better than another beloved, that you do so adjure us?
+9 How is your beloved better than another beloved, you fairest among women? How is your beloved better than another beloved, that you so charge us?
 
 Beloved
 
-10 My beloved is white and ruddy. The best among ten thousand.
+10 My beloved is white and ruddy. Distinguished among ten thousand.
 
 11 His head is like the purest gold. His hair is bushy, black as a raven.
 
@@ -260,9 +262,9 @@ Song of Songs 7
 
 1 How beautiful are your feet in sandals, prince’s daughter! Your rounded thighs are like jewels, the work of the hands of a skillful workman.
 
-2 Your body is like a round goblet, no mixed wine is wanting. Your waist is like a heap of wheat, set about with lilies.
+2 Your navel is like a round goblet, no mixed wine is wanting. Your belly is like a heap of wheat, set about with lilies.
 
-3 Your two breasts are like two fawns, that are twins of a roe.
+3 Your two breasts are like two fawns, that are twins of a gazelle.
 
 4 Your neck is like an ivory tower. Your eyes are like the pools in Heshbon by the gate of Bathrabbim. Your nose is like the tower of Lebanon which looks toward Damascus.
 
@@ -294,7 +296,7 @@ Song of Songs 8
 
 3 His left hand would be under my head. His right hand would embrace me.
 
-4 I adjure you, daughters of Jerusalem, that you not stir up, nor awaken love, until it so desires.
+4 I charge you, daughters of Jerusalem, that you not stir up, nor awaken love, until it so desires.
 
 Friends
 
@@ -328,4 +330,4 @@ Lover
 
 Beloved
 
-14 Come away, my beloved! Be like a gazelle or a young stag on the mountains of spices!
+14 Come away, my beloved! Be like a gazelle or a young deer on the mountains of spices!
