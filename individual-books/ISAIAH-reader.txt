@@ -4,6 +4,8 @@ COMPLETE — This book of the Clear English Bible is complete. This is a clear-E
 
 Draft history — 25 October 2026. Isaiah chapters 1–66 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
+A note on the name "Yah": Yah is God's name in its short form — the same name that ends the word "Hallelujah."
+
 Isaiah 1
 
 1 The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
@@ -551,7 +553,7 @@ Isaiah 7
 
 13 He said, “Listen now, house of David. Is it not enough for you to try the patience of men, that you will try the patience of my God also?
 
-14 Therefore the Lord himself will give you a sign. See, the virgin will conceive, and bear a son, and will call his name Immanuel.
+14 Therefore the Lord himself will give you a sign. See, the young woman will conceive, and bear a son, and will call his name Immanuel.
 
 15 He will eat butter and honey when he knows to refuse the evil and choose the good.
 
@@ -607,7 +609,7 @@ Isaiah 8
 
 15 Many will stumble over it, fall, be broken, be snared, and be captured.”
 
-16 Wrap up the covenant. Seal the law among my disciples.
+16 Wrap up the testimony. Seal the law among my disciples.
 
 17 I will wait for Yahweh, who hides his face from the house of Jacob, and I will look for him.
 
@@ -615,7 +617,7 @@ Isaiah 8
 
 19 When they tell you, “Consult with those who have familiar spirits and with the wizards, who chirp and who mutter,” shouldn’t a people consult with their God? Should they consult the dead on behalf of the living?
 
-20 Turn to the law and to the covenant! If they don’t speak according to this word, surely there is no morning for them.
+20 Turn to the law and to the testimony! If they don’t speak according to this word, surely there is no morning for them.
 
 21 They will pass through it, very distressed and hungry. It will happen that when they are hungry, they will worry, and curse their king and their God. They will turn their faces upward,
 
@@ -1245,7 +1247,7 @@ Isaiah 24
 
 4 The earth mourns and fades away. The world languishes and fades away. The lofty people of the earth languish.
 
-5 The earth also is polluted under its inhabitants, because they have transgressed the laws, violated the rules, and broken the everlasting covenant.
+5 The earth also is polluted under its inhabitants, because they have transgressed the laws, violated the statutes, and broken the everlasting covenant.
 
 6 Therefore the curse has devoured the earth, and those who dwell therein are found guilty. Therefore the inhabitants of the earth are burned, and few men are left.
 
@@ -3584,7 +3586,7 @@ for Yahweh will go before you,
 14 Just as many were astonished at you—
   his appearance was marred more than any man, and his form more than the sons of men—
 
-15 so he will cleanse many nations.
+15 so he will sprinkle many nations.
   Kings will shut their mouths at him;
   for they will see that which had not been told them,
   and they will understand that which they had not heard.
@@ -3954,7 +3956,7 @@ Declare to my people their disobedience,
 2 Yet they seek me daily,
   and delight to know my ways.
 As a nation that did righteousness,
-  and didn’t forsake the rule of their God,
+  and didn’t forsake the ordinance of their God,
 they ask of me righteous judgments.
   They delight to draw near to God.
 
