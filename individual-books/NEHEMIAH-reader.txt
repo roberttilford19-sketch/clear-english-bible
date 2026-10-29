@@ -19,7 +19,7 @@ Nehemiah 1
 
 6 let your ear now be attentive and your eyes open, that you may listen to the prayer of your servant which I pray before you at this time, day and night, for the children of Israel your servants, while I confess the sins of the children of Israel which we have sinned against you. Yes, I and my father’s house have sinned.
 
-7 We have dealt very corruptly against you, and have not kept the commandments, nor the rules, nor the rules, which you commanded your servant Moses.
+7 We have dealt very corruptly against you, and have not kept the commandments, nor the statutes, nor the ordinances, which you commanded your servant Moses.
 
 8 “Remember, I beg you, the word that you commanded your servant Moses, saying, ‘If you trespass, I will scatter you among the peoples;
 
@@ -73,7 +73,7 @@ Nehemiah 2
 
 Nehemiah 3
 
-1 Then Eliashib the high priest rose up with his brothers the priests, and they built the sheep gate. They sanctified it, and set up its doors. They sanctified it even to the tower of Hammeah, to the tower of Hananel.
+1 Then Eliashib the high priest rose up with his brothers the priests, and they built the sheep gate. They consecrated it, and set up its doors. They consecrated it even to the tower of Hammeah, to the tower of Hananel.
 
 2 Next to him the men of Jericho built. Next to them Zaccur the son of Imri built.
 
@@ -199,13 +199,13 @@ Nehemiah 5
 
 6 I was very angry when I heard their cry and these words.
 
-7 Then I consulted with myself, and contended with the nobles and the rulers, and said to them, “You exact usury, everyone of his brother.” I held a great assembly against them.
+7 Then I consulted with myself, and contended with the nobles and the rulers, and said to them, “You exact interest, everyone of his brother.” I held a great assembly against them.
 
 8 I said to them, “We, after our ability, have redeemed our brothers the Jews that were sold to the nations; and would you even sell your brothers, and should they be sold to us?” Then they held their peace, and found not a word to say.
 
 9 Also I said, “The thing that you do is not good. Shouldn’t you walk in the fear of our God because of the reproach of the nations, our enemies?
 
-10 I likewise, my brothers and my servants, lend them money and grain. Please let us stop this usury.
+10 I likewise, my brothers and my servants, lend them money and grain. Please let us stop this interest.
 
 11 Please restore to them, even today, their fields, their vineyards, their olive groves, and their houses, also the hundredth part of the money, and of the grain, the new wine, and the oil, that you are charging them.”
 
@@ -221,7 +221,7 @@ Nehemiah 5
 
 17 Moreover there were at my table, of the Jews and the rulers, one hundred fifty men, in addition to those who came to us from among the nations that were around us.
 
-18 Now that which was prepared for one day was one ox and six choice sheep. Also fowls were prepared for me, and once in ten days a store of all sorts of wine. Yet for all this, I didn’t demand the governor’s pay, because the bondage was heavy on this people.
+18 Now that which was prepared for one day was one ox and six choice sheep. Also birds were prepared for me, and once in ten days a store of all sorts of wine. Yet for all this, I didn’t demand the governor’s pay, because the bondage was heavy on this people.
 
 19 Remember me, my God, for all the good that I have done for this people.
 
@@ -387,7 +387,7 @@ Nehemiah 7
 
 60 All the temple servants and the children of Solomon’s servants were three hundred ninety-two.
 
-61 These were those who went up from Tel Melah, Tel Harsha, Cherub, Addon, and Immer; but they could not show their fathers’ houses, nor their offspring, whether they were of Israel:
+61 These were those who went up from Tel Melah, Tel Harsha, Cherub, Addon, and Immer; but they could not show their fathers’ households, nor their offspring, whether they were of Israel:
 
 62 The children of Delaiah, the children of Tobiah, the children of Nekoda: six hundred forty-two.
 
@@ -443,11 +443,11 @@ Nehemiah 8
 
 14 They found written in the law how Yahweh had commanded by Moses that the children of Israel should dwell in booths in the feast of the seventh month;
 
-15 and that they should publish and proclaim in all their cities and in Jerusalem, saying, “Go out to the mountain, and get olive branches, branches of wild olive, myrtle branches, palm branches, and branches of thick trees, to make temporary shelters, as it is written.”
+15 and that they should publish and proclaim in all their cities and in Jerusalem, saying, “Go out to the mountain, and get olive branches, branches of wild olive, myrtle branches, palm branches, and branches of thick trees, to make booths, as it is written.”
 
-16 So the people went out and brought them, and made themselves temporary shelters, everyone on the roof of his house, in their courts, in the courts of God’s house, in the wide place of the water gate, and in the wide place of Ephraim’s gate.
+16 So the people went out and brought them, and made themselves booths, everyone on the roof of his house, in their courts, in the courts of God’s house, in the wide place of the water gate, and in the wide place of Ephraim’s gate.
 
-17 All the assembly of those who had come back out of the captivity made temporary shelters and lived in the temporary shelters, for since the days of Joshua the son of Nun to that day the children of Israel had not done so. There was very great gladness.
+17 All the assembly of those who had come back out of the captivity made booths and lived in the booths, for since the days of Joshua the son of Nun to that day the children of Israel had not done so. There was very great gladness.
 
 18 Also day by day, from the first day to the last day, he read in the book of the law of God. They kept the feast seven days; and on the eighth day was a solemn assembly, according to the rule.
 
@@ -477,9 +477,9 @@ Nehemiah 9
 
 12 Moreover, in a pillar of cloud you led them by day; and in a pillar of fire by night, to give them light in the way in which they should go.
 
-13 “You also came down on Mount Sinai, and spoke with them from heaven, and gave them right rules and true laws, good rules and commandments,
+13 “You also came down on Mount Sinai, and spoke with them from heaven, and gave them right ordinances and true laws, good statutes and commandments,
 
-14 and made known to them your holy Sabbath, and commanded them commandments, rules, and a law, by Moses your servant,
+14 and made known to them your holy Sabbath, and commanded them commandments, statutes, and a law, by Moses your servant,
 
 15 and gave them bread from the sky for their hunger, and brought water out of the rock for them for their thirst, and commanded them that they should go in to possess the land which you had sworn to give them.
 
@@ -509,7 +509,7 @@ Nehemiah 9
 
 28 But after they had rest, they did evil again before you; therefore you left them in the hands of their enemies, so that they had the dominion over them; yet when they returned and cried to you, you heard from heaven; and many times you delivered them according to your mercies,
 
-29 and testified against them, that you might bring them again to your law. Yet they were arrogant, and didn’t listen to your commandments, but sinned against your rules (which if a man does, he will live in them), turned their backs, stiffened their neck, and would not hear.
+29 and testified against them, that you might bring them again to your law. Yet they were arrogant, and didn’t listen to your commandments, but sinned against your ordinances (which if a man does, he will live in them), turned their backs, stiffened their neck, and would not hear.
 
 30 Yet many years you put up with them, and testified against them by your Spirit through your prophets. Yet they would not listen. Therefore you gave them into the hand of the peoples of the lands.
 
@@ -587,7 +587,7 @@ Nehemiah 10
 
 28 The rest of the people, the priests, the Levites, the gatekeepers, the singers, the temple servants, and all those who had separated themselves from the peoples of the lands to the law of God, their wives, their sons, and their daughters—everyone who had knowledge and understanding—
 
-29 joined with their brothers, their nobles, and entered into a curse and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of Yahweh our Lord, and his rules and his rules;
+29 joined with their brothers, their nobles, and entered into a curse and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of Yahweh our Lord, and his ordinances and his statutes;
 
 30 and that we would not give our daughters to the peoples of the land, nor take their daughters for our sons;
 
@@ -595,19 +595,19 @@ Nehemiah 10
 
 32 Also we made rules for ourselves, to charge ourselves yearly with the third part of a shekel for the service of the house of our God:
 
-33 for the show bread, for the continual meal offering, for the continual burnt offering, for the Sabbaths, for the new moons, for the set feasts, for the holy things, for the sin offerings to make atonement for Israel, and for all the work of the house of our God.
+33 for the bread of the Presence, for the continual meal offering, for the continual burnt offering, for the Sabbaths, for the new moons, for the set feasts, for the holy things, for the sin offerings to make atonement for Israel, and for all the work of the house of our God.
 
-34 We, the priests, the Levites, and the people, cast lots for the wood offering, to bring it into the house of our God, according to our fathers’ houses, at times appointed year by year, to burn on Yahweh our God’s altar, as it is written in the law;
+34 We, the priests, the Levites, and the people, cast lots for the wood offering, to bring it into the house of our God, according to our fathers’ households, at times appointed year by year, to burn on Yahweh our God’s altar, as it is written in the law;
 
 35 and to bring the first fruits of our ground and the first fruits of all fruit of all kinds of trees, year by year, to Yahweh’s house;
 
 36 also the firstborn of our sons and of our livestock, as it is written in the law, and the firstborn of our herds and of our flocks, to bring to the house of our God, to the priests who minister in the house of our God;
 
-37 and that we should bring the first fruits of our dough, our wave offerings, the fruit of all kinds of trees, and the new wine and the oil, to the priests, to the rooms of the house of our God; and the tithes of our ground to the Levites; for they, the Levites, take the tithes in all our farming villages.
+37 and that we should bring the first fruits of our dough, our contributions, the fruit of all kinds of trees, and the new wine and the oil, to the priests, to the rooms of the house of our God; and the tithes of our ground to the Levites; for they, the Levites, take the tithes in all our farming villages.
 
 38 The priest, the descendent of Aaron, will be with the Levites when the Levites take tithes. The Levites will bring up the tithe of the tithes to the house of our God, to the rooms, into the treasure house.
 
-39 For the children of Israel and the children of Levi will bring the wave offering of the grain, of the new wine, and of the oil, to the rooms where the vessels of the sanctuary are, and the priests who minister, with the gatekeepers and the singers. We will not forsake the house of our God.
+39 For the children of Israel and the children of Levi will bring the contribution of the grain, of the new wine, and of the oil, to the rooms where the vessels of the sanctuary are, and the priests who minister, with the gatekeepers and the singers. We will not forsake the house of our God.
 
 Nehemiah 11
 
@@ -771,13 +771,13 @@ Nehemiah 12
 
 43 They offered great sacrifices that day, and rejoiced, for God had made them rejoice with great joy; and the women and the children also rejoiced, so that the joy of Jerusalem was heard even far away.
 
-44 On that day, men were appointed over the rooms for the treasures, for the wave offerings, for the first fruits, and for the tithes, to gather into them according to the fields of the cities the portions appointed by the law for the priests and Levites; for Judah rejoiced for the priests and for the Levites who served.
+44 On that day, men were appointed over the rooms for the treasures, for the contributions, for the first fruits, and for the tithes, to gather into them according to the fields of the cities the portions appointed by the law for the priests and Levites; for Judah rejoiced for the priests and for the Levites who served.
 
 45 They performed the duty of their God and the duty of the purification, and so did the singers and the gatekeepers, according to the commandment of David and of Solomon his son.
 
 46 For in the days of David and Asaph of old there was a chief of the singers, and songs of praise and thanksgiving to God.
 
-47 All Israel in the days of Zerubbabel and in the days of Nehemiah gave the portions of the singers and the gatekeepers, as every day required; and they set apart that which was for the Levites; and the Levites set apart that which was for the sons of Aaron.
+47 All Israel in the days of Zerubbabel and in the days of Nehemiah gave the portions of the singers and the gatekeepers, as every day required; and they consecrated that which was for the Levites; and the Levites consecrated that which was for the sons of Aaron.
 
 Nehemiah 13
 
@@ -789,7 +789,7 @@ Nehemiah 13
 
 4 Now before this, Eliashib the priest, who was appointed over the rooms of the house of our God, being allied to Tobiah,
 
-5 had prepared for him a great room, where previously they laid the meal offerings, the frankincense, the vessels, and the tithes of the grain, the new wine, and the oil, which were given by commandment to the Levites, the singers, and the gatekeepers; and the wave offerings for the priests.
+5 had prepared for him a great room, where previously they laid the meal offerings, the frankincense, the vessels, and the tithes of the grain, the new wine, and the oil, which were given by commandment to the Levites, the singers, and the gatekeepers; and the contributions for the priests.
 
 6 But in all this, I was not at Jerusalem; for in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king,
 
@@ -823,7 +823,7 @@ Nehemiah 13
 
 21 Then I testified against them, and said to them, “Why do you stay around the wall? If you do so again, I will lay hands on you.” From that time on, they didn’t come on the Sabbath.
 
-22 I commanded the Levites that they should purify themselves, and that they should come and keep the gates, to sanctify the Sabbath day. Remember me for this also, my God, and spare me according to the greatness of your loving kindness.
+22 I commanded the Levites that they should purify themselves, and that they should come and keep the gates, to consecrate the Sabbath day. Remember me for this also, my God, and spare me according to the greatness of your loving kindness.
 
 23 In those days I also saw the Jews who had married women of Ashdod, of Ammon, and of Moab;
 
