@@ -18,9 +18,9 @@ Joshua 1
 
 6 “Be strong and courageous; for you will cause this people to inherit the land which I swore to their fathers to give them.
 
-7 Only be strong and very courageous. Be careful to observe to do according to all the law which Moses my servant commanded you. Don’t turn from it to the right hand or to the left, that you may have good success wherever you go.
+7 Only be strong and very courageous. Be careful to do everything in the law which Moses my servant commanded you. Don’t turn from it to the right hand or to the left, that you may have good success wherever you go.
 
-8 This book of the law must not depart from your mouth, but you must meditate on it day and night, that you may observe to do according to all that is written in it; for then you will make your way prosperous, and then you will have good success.
+8 This book of the law must not depart from your mouth, but you must meditate on it day and night, that you may do according to all that is written in it; for then you will make your way prosperous, and then you will have good success.
 
 9 Haven’t I commanded you? Be strong and courageous. Don’t be afraid. Don’t be dismayed, for Yahweh your God is with you wherever you go.”
 
@@ -76,13 +76,13 @@ Joshua 2
 
 16 She said to them, “Go to the mountain, lest the pursuers find you. Hide yourselves there three days, until the pursuers have returned. Afterward, you may go your way.”
 
-17 The men said to her, “We will be guiltless of this your oath which you’ve made us to swear.
+17 The men said to her, “We will be free from the oath you made us swear.
 
 18 See, when we come into the land, tie this line of scarlet thread in the window which you used to let us down. Gather to yourself into the house your father, your mother, your brothers, and all your father’s household.
 
 19 It will be that whoever goes out of the doors of your house into the street, his blood will be on his head, and we will be guiltless. Whoever is with you in the house, his blood will be on our head, if any hand is on him.
 
-20 But if you talk about this business of ours, then we will be guiltless of your oath which you’ve made us to swear.”
+20 But if you talk about this business of ours, then we will be free from the oath you made us swear.”
 
 21 She said, “Let it be as you have said.” She sent them away, and they departed. Then she tied the scarlet line in the window.
 
@@ -208,7 +208,7 @@ Joshua 5
 
 14 He said, “No; but I have come now as commander of Yahweh’s army.” Joshua fell on his face to the earth, and worshiped, and asked him, “What does my lord say to his servant?”
 
-15 The prince of Yahweh’s army said to Joshua, “Take off your sandals, for the place on which you stand is holy.” Joshua did so.
+15 The commander of Yahweh’s army said to Joshua, “Take off your sandals, for the place on which you stand is holy.” Joshua did so.
 
 Joshua 6
 
@@ -246,7 +246,7 @@ Joshua 6
 
 17 The city will be devoted, even it and all that is in it, to Yahweh. Only Rahab the prostitute will live, she and all who are with her in the house, because she hid the messengers that we sent.
 
-18 But as for you, only keep yourselves from what is devoted to destruction, lest when you have devoted it, you take of the devoted thing; so you would make the camp of Israel accursed and trouble it.
+18 But you must keep away from everything that is devoted to destruction. If you take any of it for yourselves, you will bring a curse and trouble on the camp of Israel.
 
 19 But all the silver, gold, and vessels of bronze and iron are holy to Yahweh. They must come into Yahweh’s treasury.”
 
@@ -272,7 +272,7 @@ Joshua 7
 
 2 Joshua sent men from Jericho to Ai, which is beside Beth Aven, on the east side of Bethel, and spoke to them, saying, “Go up and spy out the land.” The men went up and spied out Ai.
 
-3 They returned to Joshua, and said to him, “Don’t let all the people go up, but let about two or three thousand men go up and strike Ai. Don’t make all the people to toil there, for there are only a few of them.”
+3 They returned to Joshua, and said to him, “Don’t let all the people go up, but let about two or three thousand men go up and strike Ai. Don’t wear all the people out there, for there are only a few of them.”
 
 4 So about three thousand men of the people went up there, and they fled before the men of Ai.
 
@@ -316,7 +316,7 @@ Joshua 7
 
 24 Joshua, and all Israel with him, took Achan the son of Zerah, the silver, the robe, the wedge of gold, his sons, his daughters, his cattle, his donkeys, his sheep, his tent, and all that he had; and they brought them up to the valley of Achor.
 
-25 Joshua said, “Why have you troubled us? Yahweh will trouble you today.” All Israel stoned him with stones, and they burned them with fire and stoned them with stones.
+25 Joshua said, “Why have you troubled us? Yahweh will trouble you today.” All Israel stoned Achan with stones. Then they burned his household and all that he had with fire, and stoned them with stones.
 
 26 They raised over him a great heap of stones that remains to this day. Yahweh turned from the fierceness of his anger. Therefore the name of that place was called “The valley of Achor” to this day.
 
@@ -420,7 +420,7 @@ Joshua 9
 
 13 These wineskins, which we filled, were new; and see, they are torn. These our garments and our sandals have become old because of the very long journey.”
 
-14 The men sampled their provisions, and didn’t ask counsel from Yahweh’s mouth.
+14 The men sampled their provisions, and didn’t ask Yahweh for counsel.
 
 15 Joshua made peace with them, and made a covenant with them, to let them live. The princes of the congregation swore to them.
 
@@ -434,11 +434,11 @@ Joshua 9
 
 20 We will do this to them, and let them live; lest wrath be on us, because of the oath which we swore to them.”
 
-21 The princes said to them, “Let them live.” So they became wood cutters and drawers of water for all the congregation, as the princes had spoken to them.
+21 The princes said to them, “Let them live.” So they became wood cutters and water carriers for all the congregation, as the princes had spoken to them.
 
 22 Joshua called for them, and he spoke to them, saying, “Why have you deceived us, saying, ‘We are very far from you,’ when you live among us?
 
-23 Now therefore you are cursed, and some of you will never fail to be slaves, both wood cutters and drawers of water for the house of my God.”
+23 Now therefore you are cursed, and some of you will never fail to be slaves, both wood cutters and water carriers for the house of my God.”
 
 24 They answered Joshua, and said, “Because your servants were certainly told how Yahweh your God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you. Therefore we were very afraid for our lives because of you, and have done this thing.
 
@@ -446,7 +446,7 @@ Joshua 9
 
 26 He did so to them, and delivered them out of the hand of the children of Israel, so that they didn’t kill them.
 
-27 That day Joshua made them wood cutters and drawers of water for the congregation and for Yahweh’s altar to this day, in the place which he should choose.
+27 That day Joshua made them wood cutters and water carriers for the congregation and for Yahweh’s altar to this day, in the place which he should choose.
 
 Joshua 10
 
@@ -474,7 +474,7 @@ Joshua 10
 
 12 Then Joshua spoke to Yahweh in the day when Yahweh delivered up the Amorites before the children of Israel. He said in the sight of Israel, “Sun, stand still on Gibeon! You, moon, stop in the valley of Aijalon!”
 
-13 The sun stood still, and the moon stayed, until the nation had avenged themselves of their enemies. Isn’t this written in the book of Jashar? The sun stayed in the middle of the sky, and didn’t hurry to go down about a whole day.
+13 The sun stood still, and the moon stayed, until the nation had avenged itself on its enemies. Isn’t this written in the book of Jashar? The sun stayed in the middle of the sky, and didn’t hurry to go down about a whole day.
 
 14 There was no day like that before it or after it, that Yahweh listened to the voice of a man; for Yahweh fought for Israel.
 
@@ -490,7 +490,7 @@ Joshua 10
 
 20 When Joshua and the children of Israel had finished killing them with a very great slaughter until they were consumed, and the remnant which remained of them had entered into the fortified cities,
 
-21 all the people returned to the camp to Joshua at Makkedah in peace. None moved his tongue against any of the children of Israel.
+21 all the people returned to the camp to Joshua at Makkedah in peace. No one dared say a word against any of the children of Israel.
 
 22 Then Joshua said, “Open the cave entrance, and bring those five kings out of the cave to me.”
 
@@ -576,7 +576,7 @@ Joshua 11
 
 19 There was not a city that made peace with the children of Israel, except the Hivites, the inhabitants of Gibeon. They took all in battle.
 
-20 For it was of Yahweh to harden their hearts, to come against Israel in battle, that he might utterly destroy them, that they might have no favor, but that he might destroy them, as Yahweh commanded Moses.
+20 For it was of Yahweh to harden their hearts, to come against Israel in battle, that he might utterly destroy them, that they might receive no mercy, but that he might destroy them, as Yahweh commanded Moses.
 
 21 Joshua came at that time, and cut off the Anakim from the hill country, from Hebron, from Debir, from Anab, and from all the hill country of Judah, and from all the hill country of Israel. Joshua utterly destroyed them with their cities.
 
@@ -678,7 +678,7 @@ Joshua 13
 
 21 all the cities of the plain, and all the kingdom of Sihon king of the Amorites, who reigned in Heshbon, whom Moses struck with the chiefs of Midian, Evi, Rekem, Zur, Hur, and Reba, the princes of Sihon, who lived in the land.
 
-22 The children of Israel also killed Balaam the son of Beor, the soothsayer, with the sword, among the rest of their slain.
+22 The children of Israel also killed Balaam the son of Beor, who practiced divination, with the sword, among the rest of their slain.
 
 23 The border of the children of Reuben was the bank of the Jordan. This was the inheritance of the children of Reuben according to their families, the cities and its villages.
 
@@ -906,7 +906,7 @@ Joshua 17
 
 10 Southward it was Ephraim’s, and northward it was Manasseh’s, and the sea was his border. They reached to Asher on the north, and to Issachar on the east.
 
-11 Manasseh had three heights in Issachar, in Asher Beth Shean and its towns, and Ibleam and its towns, and the inhabitants of Dor and its towns, and the inhabitants of Endor and its towns, and the inhabitants of Taanach and its towns, and the inhabitants of Megiddo and its towns.
+11 In Issachar and in Asher, Manasseh held Beth Shean and its towns, Ibleam and its towns, the inhabitants of Dor and its towns, the inhabitants of Endor and its towns, the inhabitants of Taanach and its towns, and the inhabitants of Megiddo and its towns.
 
 12 Yet the children of Manasseh couldn’t drive out the inhabitants of those cities; but the Canaanites would dwell in that land.
 
@@ -1096,7 +1096,7 @@ Joshua 20
 
 5 If the avenger of blood pursues him, then they must not deliver up the man slayer into his hand; because he struck his neighbor unintentionally, and didn’t hate him before.
 
-6 He must dwell in that city until he stands before the congregation for judgment, until the death of the high priest that will be in those days. Then the man slayer will return, and come to his own city, and to his own house, to the city he fled from.’ ”
+6 He must dwell in that city until he stands before the congregation for judgment, until the death of the high priest serving at that time. Then the man slayer will return, and come to his own city, and to his own house, to the city he fled from.’ ”
 
 7 They set apart Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath Arba (also called Hebron) in the hill country of Judah.
 
@@ -1242,7 +1242,7 @@ Joshua 22
 
 22 “The Mighty One, God, Yahweh, the Mighty One, God, Yahweh, he knows; and Israel will know: if it was in rebellion, or if in trespass against Yahweh (don’t save us today),
 
-23 that we have built us an altar to turn away from following Yahweh; or if to offer burnt offering or meal offering, or if to offer sacrifices of peace offerings, let Yahweh himself require it.
+23 that we have built us an altar to turn away from following Yahweh; or if to offer burnt offering or meal offering, or if to offer sacrifices of peace offerings, may Yahweh himself call us to account.
 
 24 “If we have not out of concern done this, and for a reason, saying, ‘In time to come your children might speak to our children, saying, “What have you to do with Yahweh, the God of Israel?
 
@@ -1352,7 +1352,7 @@ They said, “We are witnesses.”
 
 24 The people said to Joshua, “We will serve Yahweh our God, and we will listen to his voice.”
 
-25 So Joshua made a covenant with the people that day, and made for them a rule and a rule in Shechem.
+25 So Joshua made a covenant with the people that day, and set for them a statute and an ordinance in Shechem.
 
 26 Joshua wrote these words in the book of the law of God; and he took a great stone, and set it up there under the oak that was by the sanctuary of Yahweh.
 

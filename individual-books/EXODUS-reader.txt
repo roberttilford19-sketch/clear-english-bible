@@ -120,7 +120,7 @@ Exodus 3
 
 8 I have come down to save them from the Egyptians, and to bring them up out of that land to a good and large land, to a land flowing with milk and honey; to the place of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite.
 
-9 Now, look, the cry of the children of Israel has come to me. I have also seen the hard treatment with which the Egyptians treat them badly.
+9 Now, look, the cry of the children of Israel has come to me. I have also seen how harshly the Egyptians oppress them.
 
 10 Come now, then, and I will send you to Pharaoh, so that you may bring my people, the children of Israel, out of Egypt.
 
@@ -140,7 +140,7 @@ Exodus 3
 
 18 They will listen to you. You must come, you and the elders of Israel, to the king of Egypt, and you must tell him, ‘Yahweh, the God of the Hebrews, has met with us. Now please let us go three days’ journey into the wilderness, so that we may sacrifice to Yahweh, our God.’
 
-19 I know that the king of Egypt will not let you go, no, not by a mighty hand.
+19 I know that the king of Egypt will not let you go, not even when a mighty hand forces him.
 
 20 I will reach out my hand and strike Egypt with all my wonders which I will do among them, and after that he will let you go.
 
@@ -279,13 +279,13 @@ Exodus 6
 
 8 I will bring you into the land which I promised to give to Abraham, to Isaac, and to Jacob; and I will give it to you as your own: I am Yahweh.’ “
 
-9 Moses spoke in this way to the children of Israel, but they did not listen to Moses because of pain of spirit, and because of cruel slavery.
+9 Moses spoke in this way to the children of Israel, but they did not listen to Moses because their spirit was crushed, and because of cruel slavery.
 
 10 Yahweh spoke to Moses, saying,
 
 11 “Go in, speak to Pharaoh king of Egypt, and tell him to let the children of Israel go out of his land.”
 
-12 Moses spoke before Yahweh, saying, “Look, the children of Israel have not listened to me. How then will Pharaoh listen to me, when I have uncircumcised lips?”
+12 Moses spoke before Yahweh, saying, “Look, the children of Israel have not listened to me. How then will Pharaoh listen to me, when I am such a poor speaker?”
 
 13 Yahweh spoke to Moses and to Aaron, and gave them a command for the children of Israel, and for Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.
 
@@ -313,15 +313,15 @@ Exodus 6
 
 25 Eleazar, Aaron’s son, took one of the daughters of Putiel as his wife; and she bore him Phinehas. These are the heads of the fathers’ houses of the Levites according to their families.
 
-26 These are that Aaron and Moses to whom Yahweh said, “Bring out the children of Israel from the land of Egypt according to their armies.”
+26 These are the same Aaron and Moses to whom Yahweh said, “Bring out the children of Israel from the land of Egypt according to their armies.”
 
-27 These are those who spoke to Pharaoh king of Egypt, to bring out the children of Israel from Egypt. These are that Moses and Aaron.
+27 These are those who spoke to Pharaoh king of Egypt, to bring out the children of Israel from Egypt. These are the same Moses and Aaron.
 
 28 On the day when Yahweh spoke to Moses in the land of Egypt,
 
 29 Yahweh said to Moses, “I am Yahweh. Tell Pharaoh king of Egypt all that I tell you.”
 
-30 Moses said before Yahweh, “Look, I am of uncircumcised lips, and how will Pharaoh listen to me?”
+30 Moses said before Yahweh, “Look, I am a poor speaker, and how will Pharaoh listen to me?”
 
 Exodus 7
 
@@ -445,7 +445,7 @@ Exodus 9
 
 1 Then Yahweh said to Moses, “Go in to Pharaoh, and tell him, ‘This is what Yahweh, the God of the Hebrews, says: “Let my people go, that they may serve me.
 
-2 For if you refuse to let them go, and hold them still,
+2 For if you refuse to let them go, and still hold on to them,
 
 3 look, Yahweh’s hand is on your livestock which are in the field, on the horses, on the donkeys, on the camels, on the herds, and on the flocks with a very severe sickness.
 
@@ -533,7 +533,7 @@ Exodus 10
 
 9 Moses said, “We will go with our young and with our old. We will go with our sons and with our daughters, with our flocks and with our herds; for we must hold a feast to Yahweh.”
 
-10 He said to them, “Yahweh be with you if I let you go with your little ones! See, evil is clearly before your faces.
+10 He said to them, “Yahweh be with you if I let you go with your little ones! Clearly, you have evil in mind.
 
 11 Not so! Go now you who are men, and serve Yahweh; for that is what you desire!” Then they were driven out from Pharaoh’s presence.
 
@@ -833,7 +833,7 @@ Exodus 15
 
 10 You blew with your wind. The sea covered them. They sank like lead in the mighty waters.
 
-11 Who is like you, Yahweh, among the gods? Who is like you, glorious in holiness, fearful in praises, doing wonders?
+11 Who is like you, Yahweh, among the gods? Who is like you, glorious in holiness, awesome in praises, doing wonders?
 
 12 You stretched out your right hand. The earth swallowed them.
 
@@ -969,7 +969,7 @@ Exodus 17
 
 13 Joshua defeated Amalek and his people with the edge of the sword.
 
-14 Yahweh said to Moses, “Write this in a book, to be remembered, and tell it in the ears of Joshua: that I will completely blot out the memory of Amalek from under the sky.”
+14 Yahweh said to Moses, “Write this in a book, to be remembered, and recite it to Joshua: that I will completely blot out the memory of Amalek from under the sky.”
 
 15 Moses built an altar, and called its name “Yahweh our Banner”.
 
@@ -997,7 +997,7 @@ Exodus 18
 
 10 Jethro said, “Blessed be Yahweh, who has delivered you out of the hand of the Egyptians, and out of the hand of Pharaoh; who has delivered the people from under the hand of the Egyptians.
 
-11 Now I know that Yahweh is greater than all gods because of the way that they treated people with pride.”
+11 Now I know that Yahweh is greater than all gods, for he rose above the very thing in which they dealt proudly against Israel.”
 
 12 Jethro, Moses’ father-in-law, took a burnt offering and sacrifices for God. Aaron came with all the elders of Israel, to eat bread with Moses’ father-in-law before God.
 
@@ -1005,7 +1005,7 @@ Exodus 18
 
 14 When Moses’ father-in-law saw all that he did to the people, he said, “What is this thing that you do for the people? Why do you sit alone, and all the people stand around you from morning to evening?”
 
-15 Moses said to his father-in-law, “Because the people come to me to ask God.
+15 Moses said to his father-in-law, “Because the people come to me to seek God’s judgment.
 
 16 When they have a matter, they come to me, and I judge between a man and his neighbor, and I make them know the statutes of God, and his laws.”
 
@@ -1131,7 +1131,7 @@ Exodus 20
 
 23 You must most certainly not make gods of silver or gods of gold for yourselves to be alongside me.
 
-24 You must make an altar of earth for me, and must sacrifice on it your burnt offerings and your peace offerings, your sheep and your cattle. In every place where I record my name I will come to you and I will bless you.
+24 You must make an altar of earth for me, and must sacrifice on it your burnt offerings and your peace offerings, your sheep and your cattle. In every place where I cause my name to be remembered, I will come to you and I will bless you.
 
 25 If you make me an altar of stone, you must not build it of cut stones; for if you lift up your tool on it, you have polluted it.
 
@@ -1181,7 +1181,7 @@ Exodus 21
 
 21 But if his servant gets up after a day or two, he will not be punished, for the servant is his property.
 
-22 “If men fight and hurt a pregnant woman so that she gives birth prematurely, and yet no harm follows, he will surely be fined as much as the woman’s husband demands and the judges allow.
+22 “If men fight and hurt a pregnant woman so that her child comes out, and yet no harm follows, he will surely be fined as much as the woman’s husband demands and the judges allow.
 
 23 But if any harm follows, then you must take life for life,
 
@@ -1217,7 +1217,7 @@ Exodus 22
 
 2 If the thief is found breaking in, and is struck so that he dies, there will be no guilt of bloodshed for him.
 
-3 If the sun has risen on him, he is guilty of bloodshed. He must pay it back in full. If he has nothing, then he will be sold for his theft.
+3 If the sun has risen on him, the one who struck him is guilty of bloodshed. He must pay it back in full. If he has nothing, then he will be sold for his theft.
 
 4 If the stolen property is found in his possession alive, whether it is ox, donkey, or sheep, he must pay double.
 
@@ -1241,7 +1241,7 @@ Exodus 22
 
 14 “If a man borrows anything of his neighbor’s, and it is injured, or dies, its owner not being with it, he must surely pay it back in full.
 
-15 If its owner is with it, he will not pay for it. If it is a rented thing, it came for its rent.
+15 If its owner is with it, he will not pay for it. If it was rented, its loss is covered by the rental price.
 
 16 “If a man seduces a virgin who is not pledged to be married, and lies with her, he must surely pay a dowry for her to be his wife.
 
@@ -1391,7 +1391,7 @@ Exodus 25
 
 4 blue, purple, scarlet, fine linen, goats’ hair,
 
-5 rams’ skins dyed red, sea cow hides, acacia wood,
+5 rams’ skins dyed red, tachash hides (the exact animal is uncertain), acacia wood,
 
 6 oil for the light, spices for the anointing oil and for the sweet incense,
 
@@ -1457,7 +1457,7 @@ Exodus 25
 
 37 You must make its lamps seven, and they must light its lamps to give light to the space in front of it.
 
-38 Its snuffers and its snuff dishes must be of pure gold.
+38 Its wick trimmers and their trays must be of pure gold.
 
 39 It must be made of a talent of pure gold, with all these accessories.
 
@@ -1491,7 +1491,7 @@ Exodus 26
 
 13 The cubit on the one side and the cubit on the other side, of that which remains in the length of the curtains of the tent, must hang over the sides of the tabernacle on this side and on that side, to cover it.
 
-14 You must make a covering for the tent of rams’ skins dyed red, and a covering of sea cow hides above.
+14 You must make a covering for the tent of rams’ skins dyed red, and a covering of tachash hides (the exact animal is uncertain) above.
 
 15 “You must make the boards for the tabernacle of acacia wood, standing upright.
 
@@ -1559,9 +1559,9 @@ Exodus 27
 
 9 “You must make the court of the tabernacle: for the south side southward there must be hangings for the court of fine twined linen one hundred cubits long for one side.
 
-10 Its pillars must be twenty, and their sockets twenty, of bronze. The hooks of the pillars and their fillets must be of silver.
+10 Its pillars must be twenty, and their sockets twenty, of bronze. The hooks of the pillars and their connecting bands must be of silver.
 
-11 In the same way for the length of the north side, there must be hangings one hundred cubits long, and its pillars twenty, and their sockets twenty, of bronze; the hooks of the pillars, and their fillets, of silver.
+11 In the same way for the length of the north side, there must be hangings one hundred cubits long, and its pillars twenty, and their sockets twenty, of bronze; the hooks of the pillars, and their connecting bands, of silver.
 
 12 For the width of the court on the west side there must be hangings of fifty cubits; their pillars ten, and their sockets ten.
 
@@ -1573,7 +1573,7 @@ Exodus 27
 
 16 For the gate of the court there must be a screen of twenty cubits, of blue, and purple, and scarlet, and fine twined linen, the work of the embroiderer; their pillars four, and their sockets four.
 
-17 All the pillars of the court around must be filleted with silver; their hooks of silver, and their sockets of bronze.
+17 All the pillars of the court around must have connecting bands of silver; their hooks of silver, and their sockets of bronze.
 
 18 The length of the court must be one hundred cubits, and the width fifty throughout, and the height five cubits, of fine twined linen, and their sockets of bronze.
 
@@ -1643,11 +1643,11 @@ Exodus 28
 
 29 Aaron must bear the names of the children of Israel in the breastplate of judgment on his heart, when he goes in to the holy place, for a memorial before Yahweh continually.
 
-30 You must put in the breastplate of judgment the Urim and the Thummim; and they must be on Aaron’s heart, when he goes in before Yahweh. Aaron must bear the judgment of the children of Israel on his heart before Yahweh continually.
+30 You must put in the breastplate of judgment the Urim and the Thummim (the sacred objects for seeking God’s judgment); and they must be on Aaron’s heart, when he goes in before Yahweh. Aaron must bear the judgment of the children of Israel on his heart before Yahweh continually.
 
 31 “You must make the robe of the ephod all of blue.
 
-32 It must have a hole for the head in the middle of it. It must have a binding of woven work around its hole, as it were the hole of a coat of mail, that it not be torn.
+32 It must have a hole for the head in the middle of it. It must have a binding of woven work around its hole, as it were the opening of a coat of armor, that it not be torn.
 
 33 On its hem you must make pomegranates of blue, and of purple, and of scarlet, all around its hem; with bells of gold between and around them:
 
@@ -1773,7 +1773,7 @@ Exodus 30
 
 3 You must cover it with pure gold, its top, its sides around it, and its horns; and you must make a gold molding around it.
 
-4 You must make two golden rings for it under its molding; on its two ribs, on its two sides you must make them; and they must be for places for poles with which to bear it.
+4 You must make two golden rings for it under its molding; on its two side walls, on its two sides you must make them; and they must be for places for poles with which to bear it.
 
 5 You must make the poles of acacia wood, and cover them with gold.
 
@@ -2015,7 +2015,7 @@ Exodus 34
 
 6 Yahweh passed by before him, and proclaimed, “Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth,
 
-7 keeping loving kindness for thousands, forgiving iniquity and disobedience and sin; and who will by no means clear the guilty, visiting the iniquity of the fathers on the children, and on the children’s children, on the third and on the fourth generation.”
+7 keeping loving kindness for thousands, forgiving iniquity and disobedience and sin; and who will by no means clear the guilty, punishing the children, and the children’s children, for the fathers’ sin, on the third and on the fourth generation.”
 
 8 Moses hurried and bowed his head toward the earth, and worshiped.
 
@@ -2087,7 +2087,7 @@ Exodus 35
 
 6 blue, purple, scarlet, fine linen, goats’ hair,
 
-7 rams’ skins dyed red, sea cow hides, acacia wood,
+7 rams’ skins dyed red, tachash hides (the exact animal is uncertain), acacia wood,
 
 8 oil for the light, spices for the anointing oil and for the sweet incense,
 
@@ -2099,7 +2099,7 @@ Exodus 35
 
 12 the ark, and its poles, the mercy seat, the veil of the screen;
 
-13 the table with its poles and all its vessels, and the show bread;
+13 the table with its poles and all its vessels, and the bread of the presence;
 
 14 the lamp stand also for the light, with its vessels, its lamps, and the oil for the light;
 
@@ -2119,7 +2119,7 @@ Exodus 35
 
 22 They came, both men and women, as many as were willing-hearted, and brought brooches, earrings, signet rings, and armlets, all jewels of gold; even every man who offered an offering of gold to Yahweh.
 
-23 Everyone with whom was found blue, purple, scarlet, fine linen, goats’ hair, rams’ skins dyed red, and sea cow hides, brought them.
+23 Everyone with whom was found blue, purple, scarlet, fine linen, goats’ hair, rams’ skins dyed red, and tachash hides (the exact animal is uncertain), brought them.
 
 24 Everyone who offered an offering of silver and bronze brought Yahweh’s offering; and everyone with whom was found acacia wood for any work of the service, brought it.
 
@@ -2183,7 +2183,7 @@ Exodus 36
 
 18 He made fifty clasps of bronze to join the tent together, so that it might be one whole.
 
-19 He made a covering for the tent of rams’ skins dyed red, and a covering of sea cow hides above.
+19 He made a covering for the tent of rams’ skins dyed red, and a covering of tachash hides (the exact animal is uncertain) above.
 
 20 He made the boards for the tabernacle of acacia wood, standing up.
 
@@ -2221,7 +2221,7 @@ Exodus 36
 
 37 He made a screen for the door of the tent, of blue, purple, scarlet, and fine twined linen, the work of an embroiderer;
 
-38 and the five pillars of it with their hooks. He overlaid their capitals and their fillets with gold, and their five sockets were of bronze.
+38 and the five pillars of it with their hooks. He overlaid their capitals and their connecting bands with gold, and their five sockets were of bronze.
 
 Exodus 37
 
@@ -2269,7 +2269,7 @@ Exodus 37
 
 22 Their buds and their branches were of one piece with it. The whole thing was one beaten work of pure gold.
 
-23 He made its seven lamps, and its snuffers, and its snuff dishes, of pure gold.
+23 He made its seven lamps, and its wick trimmers, and their trays, of pure gold.
 
 24 He made it of a talent of pure gold, with all its vessels.
 
@@ -2277,7 +2277,7 @@ Exodus 37
 
 26 He overlaid it with pure gold: its top, its sides around it, and its horns. He made a gold molding around it.
 
-27 He made two golden rings for it under its molding crown, on its two ribs, on its two sides, for places for poles with which to carry it.
+27 He made two golden rings for it under its molding crown, on its two side walls, on its two sides, for places for poles with which to carry it.
 
 28 He made the poles of acacia wood, and overlaid them with gold.
 
@@ -2303,25 +2303,25 @@ Exodus 38
 
 9 He made the court: for the south side southward the hangings of the court were of fine twined linen, one hundred cubits;
 
-10 their pillars were twenty, and their sockets twenty, of bronze; the hooks of the pillars and their fillets were of silver.
+10 their pillars were twenty, and their sockets twenty, of bronze; the hooks of the pillars and their connecting bands were of silver.
 
-11 For the north side one hundred cubits, their pillars twenty, and their sockets twenty, of bronze; the hooks of the pillars, and their fillets, of silver.
+11 For the north side one hundred cubits, their pillars twenty, and their sockets twenty, of bronze; the hooks of the pillars, and their connecting bands, of silver.
 
-12 For the west side were hangings of fifty cubits, their pillars ten, and their sockets ten; the hooks of the pillars, and their fillets, of silver.
+12 For the west side were hangings of fifty cubits, their pillars ten, and their sockets ten; the hooks of the pillars, and their connecting bands, of silver.
 
 13 For the east side eastward fifty cubits,
 
 14 the hangings for the one side were fifteen cubits; their pillars three, and their sockets three;
 
-15 and so for the other side: on this hand and that hand by the gate of the court were hangings of fifteen cubits; their pillars three, and their sockets three.
+15 and so for the other side: on both sides of the gate of the court were hangings of fifteen cubits; their pillars three, and their sockets three.
 
 16 All the hangings around the court were of fine twined linen.
 
-17 The sockets for the pillars were of bronze. The hooks of the pillars and their fillets were of silver. Their capitals were overlaid with silver. All the pillars of the court had silver bands.
+17 The sockets for the pillars were of bronze. The hooks of the pillars and their connecting bands were of silver. Their capitals were overlaid with silver. All the pillars of the court had silver bands.
 
 18 The screen for the gate of the court was the work of the embroiderer, of blue, purple, scarlet, and fine twined linen. Twenty cubits was the length, and the height along the width was five cubits, like the hangings of the court.
 
-19 Their pillars were four, and their sockets four, of bronze; their hooks of silver, and the overlaying of their capitals, and their fillets, of silver.
+19 Their pillars were four, and their sockets four, of bronze; their hooks of silver, and the overlaying of their capitals, and their connecting bands, of silver.
 
 20 All the pins of the tabernacle, and around the court, were of bronze.
 
@@ -2339,7 +2339,7 @@ Exodus 38
 
 27 The one hundred talents of silver were for casting the sockets of the sanctuary and the sockets of the veil: one hundred sockets for the one hundred talents, one talent per socket.
 
-28 From the one thousand seven hundred seventy-five shekels he made hooks for the pillars, overlaid their capitals, and made fillets for them.
+28 From the one thousand seven hundred seventy-five shekels he made hooks for the pillars, overlaid their capitals, and made connecting bands for them.
 
 29 The bronze of the offering was seventy talents and two thousand four hundred shekels.
 
@@ -2393,7 +2393,7 @@ Exodus 39
 
 22 He made the robe of the ephod of woven work, all of blue.
 
-23 The opening of the robe in the middle of it was like the opening of a coat of mail, with a binding around its opening, so that it should not be torn.
+23 The opening of the robe in the middle of it was like the opening of a coat of armor, with a binding around its opening, so that it should not be torn.
 
 24 They made on the skirts of the robe pomegranates of blue, purple, scarlet, and twined linen.
 
@@ -2415,11 +2415,11 @@ Exodus 39
 
 33 They brought the tabernacle to Moses: the tent, with all its furniture, its clasps, its boards, its bars, its pillars, its sockets,
 
-34 the covering of rams’ skins dyed red, the covering of sea cow hides, the veil of the screen,
+34 the covering of rams’ skins dyed red, the covering of tachash hides (the exact animal is uncertain), the veil of the screen,
 
 35 the ark of the covenant with its poles, the mercy seat,
 
-36 the table, all its vessels, the show bread,
+36 the table, all its vessels, the bread of the presence,
 
 37 the pure lamp stand, its lamps, even the lamps to be set in order, all its vessels, the oil for the light,
 

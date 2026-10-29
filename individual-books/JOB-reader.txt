@@ -15,7 +15,7 @@ Job 1
 
 4 His sons went and held a feast in the house of each one on his birthday; and they sent and called for their three sisters to eat and to drink with them.
 
-5 It was so, when the days of their feasting had run their course, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all. For Job said, “It may be that my sons have sinned, and renounced God in their hearts.” Job did so continually.
+5 It was so, when the days of their feasting had run their course, that Job sent and purified them, and rose up early in the morning, and offered burnt offerings according to the number of them all. For Job said, “It may be that my sons have sinned, and renounced God in their hearts.” Job did so continually.
 
 6 Now on the day when God’s sons came to present themselves before Yahweh, Satan also came among them.
 
@@ -92,7 +92,7 @@ Job 3
   Don’t let God from above seek for it,
   neither let the light shine on it.
 
-5 Let darkness and the shadow of death claim it for their own.
+5 Let darkness and deep darkness claim it for their own.
   Let a cloud dwell on it.
   Let all that makes the day black terrify it.
 
@@ -220,7 +220,7 @@ Job 4
 
 19 How much more those who dwell in houses of clay,
   whose foundation is in the dust,
-  who are crushed before the moth!
+  who are crushed more readily than a moth!
 
 20 Between morning and evening they are destroyed.
   They perish forever without any regarding it.
@@ -245,7 +245,7 @@ Job 5
 
 5 whose harvest the hungry eat up,
   and take it even out of the thorns.
-  The snare gapes for their substance.
+  The thirsty pant after their wealth.
 
 6 For affliction doesn’t come out of the dust,
   neither does trouble spring out of the ground;
@@ -281,7 +281,7 @@ Job 5
   and injustice shuts her mouth.
 
 17 “See, happy is the man whom God corrects.
-  Therefore do not despise the chastening of the Almighty.
+  Therefore do not despise the discipline of the Almighty.
 
 18 For he wounds and binds up.
   He injures and his hands make whole.
@@ -406,7 +406,7 @@ They are as loathsome food to me.
   My cause is righteous.
 
 30 Is there injustice on my tongue?
-  Can’t my taste discern mischievous things?
+  Can’t my taste discern wicked things?
 
 Job 7
 
@@ -414,7 +414,7 @@ Job 7
   Aren’t his days like the days of a hired hand?
 
 2 As a servant who earnestly desires the shadow,
-  as a hireling who looks for his wages,
+  as a hired hand who looks for his wages,
 
 3 so I am made to possess months of misery,
   wearisome nights are appointed to me.
@@ -603,7 +603,7 @@ Job 9
   but fills me with bitterness.
 
 19 If it is a matter of strength, see, he is mighty!
-  If of justice, ‘Who,’ says he, ‘will summon me?’
+  If of justice, ‘Who will summon me?’
 
 20 Though I am righteous, my own mouth will condemn me.
   Though I am blameless, it will prove me perverse.
@@ -646,7 +646,7 @@ Job 9
 32 For he is not a man, as I am, that I should answer him,
   that we should come together in judgment.
 
-33 There is no umpire between us,
+33 There is no mediator between us,
   that might lay his hand on us both.
 
 34 Let him take his rod away from me.
@@ -693,7 +693,7 @@ Job 10
   and knit me together with bones and sinews.
 
 12 You have granted me life and loving kindness.
-  Your visitation has preserved my spirit.
+  Your care has preserved my spirit.
 
 13 Yet you hid these things in your heart.
   I know that this is with you:
@@ -711,7 +711,7 @@ Job 10
 
 17 You renew your witnesses against me,
   and increase your indignation on me.
-  Changes and warfare are with me.
+  Fresh troops keep coming against me.
 
 18 “ ‘Why, then, have you brought me out of the womb?
   I wish I had given up the spirit, and no eye had seen me.
@@ -724,10 +724,10 @@ Job 10
 Leave me alone, that I may find a little comfort,
 
   21 before I go where I will not return from,
-  to the land of darkness and of the shadow of death;
+  to the land of darkness and of deep darkness;
 
 22 the land dark as midnight,
-  of the shadow of death,
+  of deep darkness,
   without any order,
   where the light is as midnight.’ ”
 
@@ -749,7 +749,7 @@ Job 11
 
 6 that he would show you the secrets of wisdom!
   For true wisdom has two sides.
-  Know therefore that God exacts of you less than your sin deserves.
+  Know therefore that God has forgotten part of what your sin deserves.
 
 7 “Can you fathom the mystery of God?
   Or can you probe the limits of the Almighty?
@@ -766,8 +766,7 @@ Job 11
 11 For he knows false men.
   He sees sin also, even though he doesn’t consider it.
 
-12 An empty-headed man becomes wise
-  when a man is born as a wild donkey’s colt.
+12 An empty-headed man becomes wise when a wild donkey’s colt is born a human being.
 
 13 “If you set your heart aright,
   stretch out your hands toward him.
@@ -862,7 +861,7 @@ Job 12
   and loosens the belt of the strong.
 
 22 He uncovers deep things out of darkness,
-  and brings out to light the shadow of death.
+  and brings out to light deep darkness.
 
 23 He increases the nations, and he destroys them.
   He enlarges the nations, and he leads them captive.
@@ -943,7 +942,7 @@ Job 13
 22 Then call, and I will answer,
   or let me speak, and you answer me.
 
-23 How many are my sins and sins?
+23 How many are my iniquities and sins?
   Make me know my disobedience and my sin.
 
 24 Why do you hide your face,
@@ -957,7 +956,7 @@ Job 13
 
 27 You also put my feet in the stocks,
   and mark all my paths.
-  You set a bound to the soles of my feet,
+  You put marks on the soles of my feet,
 
 28 though I am decaying like a rotten thing,
   like a garment that is moth-eaten.
@@ -976,12 +975,12 @@ Job 14
 4 Who can bring a clean thing out of an unclean?
   Not one.
 
-  5 Seeing his days are determined,
+  5 Since his days are determined,
   the number of his months is with you,
   and you have appointed his bounds that he can’t pass.
 
 6 Look away from him, that he may rest,
-  until he accomplishes, as a hireling, his day.
+  until he accomplishes, as a hired hand, his day.
 
 7 “For there is hope for a tree if it is cut down,
   that it will sprout again,
@@ -1008,7 +1007,7 @@ Job 14
   that you would appoint me a set time and remember me!
 
 14 If a man dies, will he live again?
-  I would wait all the days of my warfare,
+  I would wait all the days of my hard service,
   until my release should come.
 
 15 You would call, and I would answer you.
@@ -1112,8 +1111,7 @@ Job 15
 25 Because he has stretched out his hand against God,
   and behaves himself proudly against the Almighty,
 
-26 he runs at him with a stiff neck,
-  with the thick shields of his bucklers,
+26 he runs at him with a stiff neck, with the thick bosses of his shields,
 
 27 because he has covered his face with his fatness,
   and gathered fat on his thighs.
@@ -1160,7 +1158,7 @@ Job 16
   and shake my head at you,
 
 5 but I would strengthen you with my mouth.
-  The solace of my lips would relieve you.
+  The comfort of my lips would relieve you.
 
 6 “Though I speak, my grief is not subsided.
   Though I forbear, what am I eased?
@@ -1227,7 +1225,7 @@ Job 17
 2 Surely there are mockers with me.
   My eye dwells on their provocation.
 
-3 “Now give a pledge. Be collateral for me with yourself.
+3 “Now give a pledge. Be security for me with yourself.
   Who is there who will strike hands with me?
 
 4 For you have hidden their heart from understanding,
@@ -1386,7 +1384,7 @@ Job 19
   I beg him with my mouth.
 
 17 My breath is offensive to my wife.
-  I am loathsome to the children of my own mother.
+  I am a stranger to the children of my own mother.
 
 18 Even young children despise me.
   If I arise, they speak against me.
@@ -1493,7 +1491,7 @@ Job 20
 22 In the fullness of his sufficiency, distress will overtake him.
   The hand of everyone who is in misery will come on him.
 
-23 When he is about to fill his belly, God will cast the fierceness of his wrath on him.
+23 While he is filling his belly, God will cast the fierceness of his wrath on him.
   It will rain on him while he is eating.
 
 24 He will flee from the iron weapon.
@@ -1587,8 +1585,7 @@ Job 21
 23 One dies in his full strength,
   being wholly at ease and quiet.
 
-24 His pails are full of milk.
-  The marrow of his bones is moistened.
+24 His sides are full of fat. The marrow of his bones is moist.
 
 25 Another dies in bitterness of soul,
   and never tastes of good.
@@ -1643,8 +1640,7 @@ Job 22
 7 You haven’t given water to the weary to drink,
   and you have withheld bread from the hungry.
 
-8 But as for the mighty man, he had the earth.
-  The honorable man, he lived in it.
+8 The powerful man owned the earth, and the honored man lived in it.
 
 9 You have sent widows away empty,
   and the arms of the fatherless have been broken.
@@ -1747,7 +1743,7 @@ Job 23
   I have kept his way, and not turned away.
 
 12 I haven’t gone back from the commandment of his lips.
-  I have treasured up the words of his mouth more than my necessary food.
+  I have treasured up the words of his mouth more than my daily bread.
 
 13 But he stands alone, and who can oppose him?
   What his soul desires, even that he does.
@@ -1802,7 +1798,7 @@ and take a pledge of the poor,
 
 12 From out of the populous city, men groan.
   The soul of the wounded cries out,
-  yet God doesn’t regard the folly.
+  yet God charges no one with wrongdoing.
 
 13 “These are of those who rebel against the light.
   They don’t know its ways,
@@ -1846,7 +1842,7 @@ and take a pledge of the poor,
 
 24 They are exalted; yet a little while, and they are gone.
   Yes, they are brought low, they are taken out of the way as all others,
-  and are cut off as the tops of the ears of grain.
+  and are cut off as the tops of the heads of grain.
 
 25 If it isn’t so now, who will prove me a liar,
   and make my speech worth nothing?”
@@ -1907,7 +1903,7 @@ Job 26
 12 He stirs up the sea with his power,
   and by his understanding he strikes through Rahab.
 
-13 By his Spirit the heavens are garnished.
+13 By his Spirit the heavens are made bright.
   His hand has pierced the swift serpent.
 
 14 See, these are but the outskirts of his ways.
@@ -1965,8 +1961,7 @@ Job 27
 17 he may prepare it, but the just will put it on,
   and the innocent will divide the silver.
 
-18 He builds his house as the moth,
-  as a booth which the watchman makes.
+18 He builds his house as the moth, as a hut that a watchman makes.
 
 19 He lies down rich, but he will not do so again.
   He opens his eyes, and he is not.
@@ -2039,7 +2034,7 @@ Job 28
   neither will it be exchanged for jewels of fine gold.
 
 18 No mention will be made of coral or of crystal.
-  Yes, the price of wisdom is above rubies.
+  Yes, the price of wisdom is above pearls.
 
 19 The topaz of Ethiopia will not equal it.
   It won’t be valued with pure gold.
@@ -2113,13 +2108,13 @@ Job 29
   and I caused the widow’s heart to sing for joy.
 
 14 I put on righteousness, and it clothed me.
-  My justice was as a robe and a diadem.
+  My justice was as a robe and a turban.
 
 15 I was eyes to the blind,
   and feet to the lame.
 
 16 I was a father to the needy.
-  I researched the cause of him whom I didn’t know.
+  I searched out the cause of him whom I didn’t know.
 
 17 I broke the jaws of the unrighteous
   and plucked the prey out of his teeth.
@@ -2223,8 +2218,7 @@ Job 30
 23 For I know that you will bring me to death,
   to the house appointed for all living.
 
-24 “However doesn’t one stretch out a hand in his fall?
-  Or in his calamity therefore cry for help?
+24 “Yet in his fall, does a man not stretch out his hand? In his calamity, does he not cry for help?
 
 25 Didn’t I weep for him who was in trouble?
   Wasn’t my soul grieved for the needy?
@@ -2277,8 +2271,7 @@ Job 31
 9 “If my heart has been enticed to a woman,
   and I have laid wait at my neighbor’s door,
 
-10 then let my wife grind for another,
-  and let others sleep with her.
+10 then let my wife grind grain for another, and let others kneel over her.
 
 11 For that would be a heinous crime.
   Yes, it would be a sin to be punished by the judges,
@@ -2342,7 +2335,7 @@ Job 31
   by asking his life with a curse);
 
 31 if the men of my tent have not said,
-  ‘Who can find one who has not been filled with his meat?’
+  ‘Who can find one who has not been filled with his food?’
 
 32 (the foreigner has not camped in the street,
   but I have opened my doors to the traveler);
@@ -2355,7 +2348,7 @@ Job 31
   so that I kept silence, and didn’t go out of the door—
 
 35 oh that I had one to hear me!
-  See, here is my signature! Let the Almighty answer me!
+  See, here is my mark! Let the Almighty answer me!
   Let the accuser write my indictment!
 
 36 Surely I would carry it on my shoulder,
@@ -2370,8 +2363,7 @@ Job 31
 39 if I have eaten its fruits without money,
   or have caused its owners to lose their life,
 
-40 let briers grow instead of wheat,
-  and stinkweed instead of barley.”
+40 let briers grow instead of wheat, and weeds instead of barley.”
 The words of Job are ended.
 
 Job 32
@@ -2434,7 +2426,7 @@ Job 32
 20 I will speak, that I may be refreshed.
   I will open my lips and answer.
 
-21 Please don’t let me respect any man’s person,
+21 Please don’t let me show partiality to any man,
   neither will I give flattering titles to any man.
 
 22 For I don’t know how to give flattering titles,
@@ -2457,7 +2449,7 @@ Job 33
 5 If you can, answer me.
   Set your words in order before me, and stand up.
 
-6 See, I am toward God even as you are.
+6 See, I am just like you before God.
   I am also formed out of the clay.
 
 7 See, my terror will not make you afraid,
@@ -2538,13 +2530,13 @@ Job 33
   that he may be enlightened with the light of the living.
 
 31 Mark well, Job, and listen to me.
-  Hold your peace, and I will speak.
+  Be silent, and I will speak.
 
 32 If you have anything to say, answer me.
   Speak, for I desire to justify you.
 
 33 If not, listen to me.
-  Hold your peace, and I will teach you wisdom.”
+  Be silent, and I will teach you wisdom.”
 
 Job 34
 
@@ -2578,8 +2570,7 @@ Job 34
   far be it from God, that he should do wickedness,
   from the Almighty, that he should commit sin.
 
-11 For the work of a man he will give to him,
-  and cause every man to find according to his ways.
+11 For he repays a person for what he has done, and brings on each person what their ways deserve.
 
 12 Yes surely, God will not do wickedly,
   neither will the Almighty pervert justice.
@@ -2602,8 +2593,7 @@ Job 34
 18 who says to a king, ‘Vile!’
   or to nobles, ‘Wicked!’?
 
-19 He doesn’t respect the persons of princes,
-  nor respect the rich more than the poor,
+19 He shows no partiality to princes, and does not favor the rich over the poor,
   for they all are the work of his hands.
 
 20 In a moment they die, even at midnight.
@@ -2619,7 +2609,7 @@ Job 34
 23 For he doesn’t need to consider a man further,
   that he should go before God in judgment.
 
-24 He breaks mighty men in pieces in ways past finding out,
+24 He breaks mighty men in pieces without inquiry,
   and sets others in their place.
 
 25 Therefore he takes knowledge of their works.
@@ -2647,8 +2637,7 @@ Job 34
 32 Teach me that which I don’t see.
   If I have done sin, I will do it no more’?
 
-33 Should his recompense be as you desire, that you refuse it?
-  For you must choose, and not I.
+33 Should God repay on your terms, when you refuse them? The choice is yours, not mine.
   Therefore speak what you know.
 
 34 Men of understanding will tell me,
@@ -2761,8 +2750,7 @@ Job 36
 15 He delivers the afflicted by their affliction,
   and opens their ear in oppression.
 
-16 Yes, he would have allured you out of distress,
-  into a wide place, where there is no restriction.
+16 Yes, he would draw you out of distress into a wide place, where there is no restriction.
   That which is set on your table would be full of fatness.
 
 17 “But you are full of the judgment of the wicked.
@@ -2813,8 +2801,7 @@ Job 36
 32 He covers his hands with the lightning,
   and commands it to strike the mark.
 
-33 Its noise tells about him,
-  and the livestock also, concerning the storm that comes up.
+33 Its thunder announces it; the cattle too make known the storm’s approach.
 
 Job 37
 
@@ -2934,8 +2921,7 @@ Job 38
 13 that it might take hold of the ends of the earth,
   and shake the wicked out of it?
 
-14 It is changed as clay under the seal,
-  and presented as a garment.
+14 The earth takes shape like clay under a seal, and its features stand out like a garment.
 
 15 From the wicked, their light is withheld.
   The high arm is broken.
@@ -2944,7 +2930,7 @@ Job 38
   Or have you walked in the recesses of the deep?
 
 17 Have the gates of death been revealed to you?
-  Or have you seen the gates of the shadow of death?
+  Or have you seen the gates of deep darkness?
 
 18 Have you comprehended the earth in its width?
   Declare, if you know it all.
@@ -3059,7 +3045,7 @@ Job 39
   and gather the grain of your threshing floor?
 
 13 “The wings of the ostrich wave proudly,
-  but are they the feathers and plumage of love?
+  but can they compare with the pinions and feathers of the stork?
 
 14 For she leaves her eggs on the earth,
   warms them in the dust,
@@ -3117,12 +3103,11 @@ Job 40
 
 1 Moreover Yahweh answered Job,
 
-2 “Will he who argues contend with the Almighty?
-  He who argues with God, let him answer it.”
+2 “Will the one who argues with the Almighty correct him? Let the one who accuses God answer him.”
 
 3 Then Job answered Yahweh,
 
-4 “See, I am of small account. What will I answer you?
+4 “See, I am unworthy. What could I answer you?
   I lay my hand on my mouth.
 
 5 I have spoken once, and I will not answer;
@@ -3139,8 +3124,7 @@ Job 40
 9 Or do you have an arm like God?
   Can you thunder with a voice like him?
 
-10 “Now deck yourself with excellency and dignity.
-  Array yourself with honor and majesty.
+10 “Now dress yourself in splendor and dignity. Clothe yourself with honor and majesty.
 
 11 Pour out the fury of your anger.
   Look at everyone who is proud, and bring him low.
@@ -3167,7 +3151,7 @@ Job 40
   His limbs are like bars of iron.
 
 19 He is the chief of the ways of God.
-  He who made him gives him his sword.
+  Only his Maker can bring a sword near him.
 
 20 Surely the mountains produce food for him,
   where all the animals of the field play.
@@ -3181,8 +3165,7 @@ Job 40
 23 See, if a river overflows, he doesn’t tremble.
   He is confident, though the Jordan swells even to his mouth.
 
-24 Will any take him when he is on the watch,
-  or pierce through his nose with a snare?
+24 Can anyone capture him while he is watching, or pierce his nose with a snare?
 
 Job 41
 
@@ -3210,7 +3193,7 @@ Job 41
 8 Lay your hand on him.
   Remember the battle, and do so no more.
 
-9 See, the hope of him is in vain.
+9 See, any hope of capturing him is false.
   Won’t one be cast down even at the sight of him?
 
 10 None is so fierce that he dare stir him up.
@@ -3220,7 +3203,7 @@ Job 41
   Everything under the heavens is mine.
 
 12 “I will not keep silence concerning his limbs,
-  nor his mighty strength, nor his goodly frame.
+  nor his mighty strength, nor his fine proportions.
 
 13 Who can strip off his outer garment?
   Who will come within his jaws?
@@ -3228,8 +3211,7 @@ Job 41
 14 Who can open the doors of his face?
   Around his teeth is terror.
 
-15 Strong scales are his pride,
-  shut up together with a close seal.
+15 Rows of strong scales are his pride, shut up together with a tight seal.
 
 16 One is so near to another,
   that no air can come between them.
@@ -3250,9 +3232,9 @@ Job 41
   A flame goes out of his mouth.
 
 22 There is strength in his neck.
-  Terror dances before him.
+  Dismay goes before him.
 
-23 The flakes of his flesh are joined together.
+23 The folds of his flesh are joined together.
   They are firm on him.
   They can’t be moved.
 
@@ -3283,8 +3265,7 @@ Job 41
 32 He makes a path shine after him.
   One would think the deep had white hair.
 
-33 On earth there is not his equal,
-  that is made without fear.
+33 On earth there is nothing equal to him, a creature made without fear.
 
 34 He sees everything that is high.
   He is king over all the sons of pride.”
@@ -3315,7 +3296,7 @@ Job 42
 
 9 So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went and did what Yahweh commanded them, and Yahweh accepted Job.
 
-10 Yahweh restored Job’s prosperity when he prayed for his friends. Yahweh gave Job twice as much as he had before.
+10 Yahweh restored Job’s fortunes when he prayed for his friends. Yahweh gave Job twice as much as he had before.
 
 11 Then all his brothers, all his sisters, and all those who had been of his acquaintance before, came to him and ate bread with him in his house. They comforted him, and consoled him concerning all the evil that Yahweh had brought on him. Everyone also gave him a piece of money, and everyone a ring of gold.
 
