@@ -257,7 +257,7 @@ Jeremiah 3
 
 20 “Surely as a wife treacherously departs from her husband, so you have dealt treacherously with me, house of Israel,” says Yahweh.
 
-21 A voice is heard on the bare heights, the weeping and the petitions of the children of Israel; because they have perverted their way, they have forgotten Yahweh their God.
+21 A voice is heard on the bare heights, the weeping and the pleas of the children of Israel; because they have perverted their way, they have forgotten Yahweh their God.
 
 22 Return, you backsliding children, and I will heal your backsliding. “See, we have come to you; for you are Yahweh our God.
 
@@ -430,7 +430,7 @@ for I will stretch out my hand on the inhabitants of the land, says Yahweh.”
 13 “For from their least even to their greatest, everyone is given to covetousness.
   From the prophet even to the priest, everyone deals falsely.
 
-14 They have healed also the hurt of my people superficially,
+14 They have healed also the hurt of my people slightly,
   saying, ‘Peace, peace!’ when there is no peace.
 
 15 Were they ashamed when they had committed a detestable thing?
@@ -450,7 +450,7 @@ Therefore they will fall among those who fall.
 
 21 Therefore Yahweh says, “See, I will lay stumbling blocks before this people. The fathers and the sons together will stumble against them. The neighbor and his friend will perish.”
 
-22 Yahweh says, “See, a people comes from the north country. A great nation will be stirred up from the uttermost parts of the earth.
+22 Yahweh says, “See, a people comes from the north country. A great nation will be stirred up from the farthest parts of the earth.
 
 23 They take hold of bow and spear. They are cruel, and have no mercy. Their voice roars like the sea, and they ride on horses, everyone set in array, as a man to the battle, against you, daughter of Zion.”
 
@@ -504,7 +504,7 @@ Jeremiah 7
 
 17 Don’t you see what they do in the cities of Judah and in the streets of Jerusalem?
 
-18 The children gather wood, and the fathers kindle the fire, and the women knead the dough, to make cakes to the queen of the sky, and to pour out drink offerings to other gods, that they may provoke me to anger.
+18 The children gather wood, and the fathers kindle the fire, and the women knead the dough, to make cakes to the queen of heaven, and to pour out drink offerings to other gods, that they may provoke me to anger.
 
 19 Do they provoke me to anger?” says Yahweh. “Don’t they provoke themselves, to the confusion of their own faces?”
 
@@ -755,7 +755,7 @@ Jeremiah 10
   and don’t be dismayed at the signs of the sky;
   for the nations are dismayed at them.
 
-3 For the customs of the peoples are vanity;
+3 For the statutes of the peoples are vanity;
   for one cuts a tree out of the forest,
   the work of the hands of the workman with the ax.
 
@@ -808,7 +808,7 @@ At his wrath, the earth trembles.
   the waters in the heavens roar,
   and he causes the vapors to ascend from the ends of the earth.
 He makes lightnings for the rain,
-  and brings the wind out of his treasuries.
+  and brings the wind out of his storehouses.
 
 14 Every man has become brutish and without knowledge.
   Every goldsmith is disappointed by his engraved image;
@@ -1302,7 +1302,7 @@ Jeremiah 16
 
 4 “They will die grievous deaths. They will not be lamented, neither will they be buried. They will be as dung on the surface of the ground. They will be consumed by the sword and by famine. Their dead bodies will be food for the birds of the sky and for the animals of the earth.”
 
-5 For Yahweh says, “Don’t enter into the house of mourning. Don’t go to lament. Don’t bemoan them, for I have taken away my peace from this people,” says Yahweh, “even loving kindness and tender mercies.
+5 For Yahweh says, “Don’t enter into the house of mourning. Don’t go to lament. Don’t bemoan them, for I have taken away my peace from this people,” says Yahweh, “even loving kindness and deep compassion.
 
 6 Both great and small will die in this land. They will not be buried. Men won’t lament for them, cut themselves, or make themselves bald for them.
 
@@ -2008,7 +2008,7 @@ He will enter into judgment with all flesh.
 
 32 Yahweh of Armies says,
 “See, evil will go out from nation to nation,
-  and a great storm will be raised up from the uttermost parts of the earth.”
+  and a great storm will be raised up from the farthest parts of the earth.”
 
 33 The slain of Yahweh will be at that day from one end of the earth even to the other end of the earth. They won’t be lamented. They won’t be gathered or buried. They will be dung on the surface of the ground.
 
@@ -2371,13 +2371,13 @@ Publish, praise, and say,
   the remnant of Israel!’
 
 8 See, I will bring them from the north country,
-  and gather them from the uttermost parts of the earth,
+  and gather them from the farthest parts of the earth,
 along with the blind and the lame,
   the woman with child and her who travails with child together.
   They will return as a great company.
 
 9 They will come with weeping.
-  I will lead them with petitions.
+  I will lead them with pleas.
 I will cause them to walk by rivers of waters,
   in a straight way in which they won’t stumble;
 for I am a father to Israel.
@@ -2490,11 +2490,11 @@ for they will all know me,
   and I will remember their sin no more.”
 
 35 Yahweh, who gives the sun for a light by day,
-  and the rules of the moon and of the stars for a light by night,
+  and the statutes of the moon and of the stars for a light by night,
 who stirs up the sea, so that its waves roar—
   Yahweh of Armies is his name, says:
 
-36 “If these rules depart from before me,” says Yahweh,
+36 “If these statutes depart from before me,” says Yahweh,
   “then the offspring of Israel also will cease from being a nation before me forever.”
 
 37 Yahweh says: “If heaven above can be measured,
@@ -2543,7 +2543,7 @@ Jeremiah 32
 
 17 “Ah Lord Yahweh! See, you have made the heavens and the earth by your great power and by your outstretched arm. There is nothing too hard for you.
 
-18 You show loving kindness to thousands, and repay the sin of the fathers into the bosom of their children after them. The great, the mighty God, Yahweh of Armies is your name:
+18 You show loving kindness to thousands, and repay the sin of the fathers into the laps of their children after them. The great, the mighty God, Yahweh of Armies is your name:
 
 19 great in counsel, and mighty in work; whose eyes are open to all the ways of the children of men, to give everyone according to his ways, and according to the fruit of his doings;
 
@@ -2652,7 +2652,7 @@ This is the name by which she will be called:
 
 24 “Don’t consider what this people has spoken, saying, ‘Has Yahweh cast off the two families which he chose?’ Thus they despise my people, that they should be no more a nation before them.”
 
-25 Yahweh says: “If my covenant of day and night fails, if I have not appointed the rules of heaven and earth,
+25 Yahweh says: “If my covenant of day and night fails, if I have not appointed the statutes of heaven and earth,
 
 26 then I will also cast away the offspring of Jacob, and of David my servant, so that I will not take of his offspring to be rulers over the offspring of Abraham, Isaac, and Jacob; for I will cause their captivity to be reversed and will have mercy on them.”
 
@@ -2738,7 +2738,7 @@ Jeremiah 35
 
 17 “Therefore Yahweh, the God of Armies, the God of Israel, says: ‘See, I will bring on Judah and on all the inhabitants of Jerusalem all the evil that I have pronounced against them, because I have spoken to them, but they have not heard; and I have called to them, but they have not answered.’ ”
 
-18 Jeremiah said to the house of the Rechabites, “Yahweh of Armies, the God of Israel, says: ‘Because you have obeyed the commandment of Jonadab your father, and kept all his precepts, and done according to all that he commanded you,’
+18 Jeremiah said to the house of the Rechabites, “Yahweh of Armies, the God of Israel, says: ‘Because you have obeyed the commandment of Jonadab your father, and kept all his commandments, and done according to all that he commanded you,’
 
 19 therefore Yahweh of Armies, the God of Israel, says: ‘Jonadab the son of Rechab will not lack a man to stand before me forever.’ ”
 
@@ -2924,7 +2924,7 @@ Jeremiah 39
 
 6 Then the king of Babylon killed Zedekiah’s sons in Riblah before his eyes. The king of Babylon also killed all the nobles of Judah.
 
-7 Moreover he put out Zedekiah’s eyes and bound him in fetters, to carry him to Babylon.
+7 Moreover he put out Zedekiah’s eyes and bound him in bronze chains, to carry him to Babylon.
 
 8 The Chaldeans burned the king’s house and the people’s houses with fire and broke down the walls of Jerusalem.
 
@@ -3114,7 +3114,7 @@ Jeremiah 44
 
 9 Have you forgotten the wickedness of your fathers, the wickedness of the kings of Judah, the wickedness of their wives, your own wickedness, and the wickedness of your wives which they committed in the land of Judah and in the streets of Jerusalem?
 
-10 They are not humbled even to this day, neither have they feared, nor walked in my law, nor in my rules, that I set before you and before your fathers.’
+10 They are not humbled even to this day, neither have they feared, nor walked in my law, nor in my statutes, that I set before you and before your fathers.’
 
 11 “Therefore Yahweh of Armies, the God of Israel, says: ‘See, I will set my face against you for evil, even to cut off all Judah.
 
@@ -3128,11 +3128,11 @@ Jeremiah 44
 
 16 “As for the word that you have spoken to us in Yahweh’s name, we will not listen to you.
 
-17 But we will certainly perform every word that has gone out of our mouth, to burn incense to the queen of the sky and to pour out drink offerings to her, as we have done, we and our fathers, our kings and our princes, in the cities of Judah and in the streets of Jerusalem; for then we had plenty of food, and were well, and saw no evil.
+17 But we will certainly perform every word that has gone out of our mouth, to burn incense to the queen of heaven and to pour out drink offerings to her, as we have done, we and our fathers, our kings and our princes, in the cities of Judah and in the streets of Jerusalem; for then we had plenty of food, and were well, and saw no evil.
 
-18 But since we stopped burning incense to the queen of the sky, and pouring out drink offerings to her, we have lacked all things, and have been consumed by the sword and by the famine.”
+18 But since we stopped burning incense to the queen of heaven, and pouring out drink offerings to her, we have lacked all things, and have been consumed by the sword and by the famine.”
 
-19 The women said, “When we burned incense to the queen of the sky and poured out drink offerings to her, did we make her cakes to worship her, and pour out drink offerings to her, without our husbands?”
+19 The women said, “When we burned incense to the queen of heaven and poured out drink offerings to her, did we make her cakes to worship her, and pour out drink offerings to her, without our husbands?”
 
 20 Then Jeremiah said to all the people—to the men and to the women, even to all the people who had given him an answer, saying,
 
@@ -3140,11 +3140,11 @@ Jeremiah 44
 
 22 Thus Yahweh could no longer bear it, because of the evil of your doings and because of the detestable things which you have committed. Therefore your land has become a desolation, an astonishment, and a curse, without inhabitant, as it is today.
 
-23 Because you have burned incense and because you have sinned against Yahweh, and have not obeyed Yahweh’s voice, nor walked in his law, nor in his rules, nor in his testimonies; therefore this evil has happened to you, as it is today.”
+23 Because you have burned incense and because you have sinned against Yahweh, and have not obeyed Yahweh’s voice, nor walked in his law, nor in his statutes, nor in his testimonies; therefore this evil has happened to you, as it is today.”
 
 24 Moreover Jeremiah said to all the people, including all the women, “Hear Yahweh’s word, all Judah who are in the land of Egypt!
 
-25 Yahweh of Armies, the God of Israel, says, ‘You and your wives have both spoken with your mouths, and with your hands have fulfilled it, saying, “We will surely perform our vows that we have vowed, to burn incense to the queen of the sky, and to pour out drink offerings to her.” “ ‘Establish then your vows, and perform your vows.’
+25 Yahweh of Armies, the God of Israel, says, ‘You and your wives have both spoken with your mouths, and with your hands have fulfilled it, saying, “We will surely perform our vows that we have vowed, to burn incense to the queen of heaven, and to pour out drink offerings to her.” “ ‘Establish then your vows, and perform your vows.’
 
 26 “Therefore hear Yahweh’s word, all Judah who dwell in the land of Egypt: ‘See, I have sworn by my great name,’ says Yahweh, ‘that my name will no more be named in the mouth of any man of Judah in all the land of Egypt, saying, “As the Lord Yahweh lives.”
 
@@ -3174,7 +3174,7 @@ Jeremiah 46
 
 2 Of Egypt: concerning the army of Pharaoh Necoh king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim the son of Josiah, king of Judah.
 
-3 “Prepare the buckler and shield,
+3 “Prepare the shield and the large shield,
   and draw near to battle!
 
 4 Harness the horses, and get up, you horsemen,
@@ -3941,7 +3941,7 @@ The ostriches will dwell therein.
   neither will any son of man live therein.
 
 41 “See, a people comes from the north.
-  A great nation and many kings will be stirred up from the uttermost parts of the earth.
+  A great nation and many kings will be stirred up from the farthest parts of the earth.
 
 42 They take up bow and spear.
   They are cruel, and have no mercy.
@@ -4054,7 +4054,7 @@ for Yahweh has both purposed and done
   there is a roar of waters in the heavens,
   and he causes the vapors to ascend from the ends of the earth.
 He makes lightning for the rain,
-  and brings the wind out of his treasuries.
+  and brings the wind out of his storehouses.
 
 17 “Every man has become stupid and without knowledge.
   Every goldsmith is disappointed by his image,
@@ -4292,7 +4292,7 @@ Jeremiah 52
 
 10 The king of Babylon killed the sons of Zedekiah before his eyes. He also killed all the princes of Judah in Riblah.
 
-11 He put out the eyes of Zedekiah; and the king of Babylon bound him in fetters, and carried him to Babylon, and put him in prison until the day of his death.
+11 He put out the eyes of Zedekiah; and the king of Babylon bound him in bronze chains, and carried him to Babylon, and put him in prison until the day of his death.
 
 12 Now in the fifth month, in the tenth day of the month, which was the nineteenth year of King Nebuchadnezzar, king of Babylon, Nebuzaradan the captain of the guard, who stood before the king of Babylon, came into Jerusalem.
 
