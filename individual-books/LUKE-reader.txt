@@ -780,7 +780,7 @@ Luke 8
 
 28 When he saw Jesus, he cried out and fell down before him, and with a loud voice said, “What do I have to do with you, Jesus, you Son of the Most High God? I beg you, don’t torment me!”
 
-29 For Jesus was commanding the unclean spirit to come out of the man. For the unclean spirit had often seized the man. He was kept under guard and bound with chains and fetters. Breaking the bonds apart, he was driven by the demon into the desert.
+29 For Jesus was commanding the unclean spirit to come out of the man. For the unclean spirit had often seized the man. He was kept under guard and bound with chains and shackles. Breaking the bonds apart, he was driven by the demon into the desert.
 
 30 Jesus asked him, “What is your name?” He said, “Legion,” for many demons had entered into him.
 
@@ -902,7 +902,7 @@ Luke 9
 
 32 Now Peter and those who were with him were heavy with sleep, but when they were fully awake, they saw his glory, and the two men who stood with him.
 
-33 As they were parting from him, Peter said to Jesus, “Master, it is good for us to be here. Let’s make three tents: one for you, one for Moses, and one for Elijah,” not knowing what he said.
+33 As they were parting from him, Peter said to Jesus, “Master, it is good for us to be here. Let’s make three shelters: one for you, one for Moses, and one for Elijah,” not knowing what he said.
 
 34 While he said these things, a cloud came and overshadowed them, and they were afraid as they entered into the cloud.
 
@@ -1274,7 +1274,7 @@ Luke 12
 
 57 “Why don’t you judge for yourselves what is right?
 
-58 For when you are going with your adversary before the magistrate, try diligently on the way to be released from him, lest perhaps he drag you to the judge, and the judge deliver you to the officer, and the officer throw you into prison.
+58 For when you are going with your adversary before the magistrate, try diligently on the way to be released from him, in case he drags you to the judge, and the judge deliver you to the officer, and the officer throw you into prison.
 
 59 I tell you, you will by no means get out of there until you have paid the very last penny.”
 
@@ -1506,15 +1506,15 @@ Luke 16
 
 8 “His lord commended the dishonest manager because he had done wisely, for the children of this world are, in their own generation, wiser than the children of the light.
 
-9 I tell you, make for yourselves friends by means of unrighteous mammon, so that when you fail, they may receive you into the eternal tents.
+9 I tell you, make for yourselves friends by means of unrighteous money, so that when you fail, they may receive you into the eternal dwellings.
 
 10 He who is faithful in a very little is faithful also in much. He who is dishonest in a very little is also dishonest in much.
 
-11 If therefore you have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?
+11 If therefore you have not been faithful in the unrighteous money, who will commit to your trust the true riches?
 
 12 If you have not been faithful in that which is another’s, who will give you that which is your own?
 
-13 No servant can serve two masters, for either he will hate the one and love the other; or else he will hold to one and despise the other. You aren’t able to serve God and Mammon.”
+13 No servant can serve two masters, for either he will hate the one and love the other; or else he will hold to one and despise the other. You aren’t able to serve God and money.”
 
 14 The Pharisees, who were lovers of money, also heard all these things, and they scoffed at him.
 
@@ -2148,7 +2148,7 @@ Luke 23
 
 7 When he found out that he was in Herod’s jurisdiction, he sent him to Herod, who was also in Jerusalem during those days.
 
-8 Now when Herod saw Jesus, he was exceedingly glad, for he had wanted to see him for a long time, because he had heard many things about him. He hoped to see some miracle done by him.
+8 Now when Herod saw Jesus, he was very glad, for he had wanted to see him for a long time, because he had heard many things about him. He hoped to see some miracle done by him.
 
 9 He questioned him with many words, but he gave no answers.
 
