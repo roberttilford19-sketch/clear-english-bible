@@ -242,7 +242,7 @@ Matthew 5
 
 24 leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift.
 
-25 Agree with your adversary quickly while you are with him on the way; lest perhaps the prosecutor deliver you to the judge, and the judge deliver you to the officer, and you be cast into prison.
+25 Agree with your adversary quickly while you are with him on the way; so the prosecutor does not deliver you to the judge, and the judge deliver you to the officer, and you be cast into prison.
 
 26 Most certainly I tell you, you will by no means get out of there until you have paid the last penny.
 
@@ -338,7 +338,7 @@ Matthew 6
 
 23 But if your eye is evil, your whole body will be full of darkness. If therefore the light that is in you is darkness, how great is the darkness!
 
-24 “No one can serve two masters, for either he will hate the one and love the other, or else he will be devoted to one and despise the other. You can’t serve both God and Mammon.
+24 “No one can serve two masters, for either he will hate the one and love the other, or else he will be devoted to one and despise the other. You can’t serve both God and money.
 
 25 Therefore I tell you, don’t be anxious for your life: what you will eat, or what you will drink; nor yet for your body, what you will wear. Isn’t life more than food, and the body more than clothing?
 
@@ -372,7 +372,7 @@ Matthew 7
 
 5 You hypocrite! First remove the beam out of your own eye, and then you can see clearly to remove the speck out of your brother’s eye.
 
-6 “Don’t give that which is holy to the dogs, neither throw your pearls before the pigs, lest perhaps they trample them under their feet, and turn and tear you to pieces.
+6 “Don’t give that which is holy to the dogs, neither throw your pearls before the pigs, so they do not trample them under their feet, and turn and tear you to pieces.
 
 7 “Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened for you.
 
@@ -472,7 +472,7 @@ Matthew 8
 
 25 The disciples came to him and woke him up, saying, “Save us, Lord! We are dying!”
 
-26 He said to them, “Why are you fearful, O you of little faith?” Then he got up, rebuked the wind and the sea, and there was a great calm.
+26 He said to them, “Why are you fearful, you of little faith?” Then he got up, rebuked the wind and the sea, and there was a great calm.
 
 27 The men marveled, saying, “What kind of man is this, that even the wind and the sea obey him?”
 
@@ -876,7 +876,7 @@ Matthew 13
 
 28 “He said to them, ‘An enemy has done this.’ “The servants asked him, ‘Do you want us to go and gather them up?’
 
-29 “But he said, ‘No, lest perhaps while you gather up the darnel weeds, you root up the wheat with them.
+29 “But he said, ‘No, so that while you gather up the darnel weeds, you do not root up the wheat with them.
 
 30 Let both grow together until the harvest, and in the harvest time I will tell the reapers, “First, gather up the darnel weeds, and bind them in bundles to burn them; but gather the wheat into my barn.” ’ ”
 
@@ -1178,7 +1178,7 @@ Matthew 17
 
 14 When they came to the multitude, a man came to him, kneeling down to him and saying,
 
-15 “Lord, have mercy on my son, for he is epileptic and suffers grievously; for he often falls into the fire, and often into the water.
+15 “Lord, have mercy on my son, for he has seizures and suffers grievously; for he often falls into the fire, and often into the water.
 
 16 So I brought him to your disciples, and they could not cure him.”
 
@@ -1202,7 +1202,7 @@ Matthew 17
 
 26 Peter said to him, “From strangers.” Jesus said to him, “Therefore the children are exempt.
 
-27 But, lest we cause them to stumble, go to the sea, cast a hook, and take up the first fish that comes up. When you have opened its mouth, you will find a stater coin. Take that, and give it to them for me and you.”
+27 But, so that we do not cause them to stumble, go to the sea, cast a hook, and take up the first fish that comes up. When you have opened its mouth, you will find a stater coin. Take that, and give it to them for me and you.”
 
 Matthew 18
 
@@ -1272,7 +1272,7 @@ Matthew 18
 
 33 Shouldn’t you also have had mercy on your fellow servant, even as I had mercy on you?’
 
-34 His lord was angry, and delivered him to the tormentors until he should pay all that was due to him.
+34 His lord was angry, and delivered him to the torturers until he should pay all that was due to him.
 
 35 So my heavenly Father will also do to you, if you don’t each forgive your brother from your hearts for his misdeeds.”
 
@@ -1832,7 +1832,7 @@ Matthew 25
 
 25 I was afraid, and went away and hid your talent in the earth. See, you have what is yours.’
 
-26 “But his lord answered him, ‘You wicked and slothful servant. You knew that I reap where I didn’t sow, and gather where I didn’t scatter.
+26 “But his lord answered him, ‘You wicked and lazy servant. You knew that I reap where I didn’t sow, and gather where I didn’t scatter.
 
 27 You ought therefore to have deposited my money with the bankers, and at my coming I should have received back my own with interest.
 
@@ -1884,7 +1884,7 @@ Matthew 26
 
 4 They took counsel together that they might take Jesus by deceit and kill him.
 
-5 But they said, “Not during the feast, lest a riot occur among the people.”
+5 But they said, “Not during the feast, so that no riot occurs among the people.”
 
 6 Now when Jesus was in Bethany, in the house of Simon the leper,
 
@@ -2154,7 +2154,7 @@ Matthew 27
 
 63 saying, “Sir, we remember what that deceiver said while he was still alive: ‘After three days I will rise again.’
 
-64 Command therefore that the tomb be made secure until the third day, lest perhaps his disciples come at night and steal him away, and tell the people, ‘He is risen from the dead;’ and the last deception will be worse than the first.”
+64 Command therefore that the tomb be made secure until the third day, so that his disciples do not come at night and steal him away, and tell the people, ‘He is risen from the dead;’ and the last deception will be worse than the first.”
 
 65 Pilate said to them, “You have a guard. Go, make it as secure as you can.”
 
