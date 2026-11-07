@@ -2198,7 +2198,9 @@ Luke 23
 
 33 When they came to the place that is called “The Skull”, they crucified him there with the criminals, one on the right and the other on the left.
 
-34 Jesus said, “Father, forgive them, for they don’t know what they are doing.” Dividing his garments among them, they cast lots.
+34 Dividing his garments among them, they cast lots.
+
+34 [Reader’s note: The opening sentence of this verse is omitted by the translator’s ruling of 2026-11-07: absent from the earliest witnesses — the earliest copies of Luke (the papyrus P75, the original hand of Sinaiticus, Vaticanus, and the original hand of Bezae) do not carry it; later copies carry it, and the critical Greek text prints it in brackets — retained, but marked as doubted. The omitted words read: Jesus said, “Father, forgive them, for they don’t know what they are doing.” The omitted wording is preserved in this book’s audit register.]
 
 35 The people stood watching. The rulers with them also scoffed at him, saying, “He saved others. Let him save himself, if this is the Christ of God, his chosen one!”
 
