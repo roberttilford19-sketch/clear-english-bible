@@ -946,9 +946,11 @@ Luke 9
 
 54 When his disciples, James and John, saw this, they said, “Lord, do you want us to command fire to come down from the sky and destroy them, just as Elijah did?”
 
-55 But he turned and rebuked them, “You don’t know of what kind of spirit you are.
+55 But he turned and rebuked them.
 
-56 For the Son of Man didn’t come to destroy men’s lives, but to save them.” They went to another village.
+56 They went to another village.
+
+56 [Reader’s note: The closing words of verse 55 and the opening words of verse 56 are omitted by the translator’s ruling of 2026-11-07: absent from the earliest witnesses — the earliest copies of Luke (the papyrus P75, Sinaiticus, Vaticanus, and codices C and L) do not carry them; later copies carry them, smoothing the rebuke into an explanation in the idiom of Matthew and John. The omitted words read: “You don’t know of what kind of spirit you are. For the Son of Man didn’t come to destroy men’s lives, but to save them.” The omitted wording is preserved in this book’s audit register.]
 
 57 As they went on the way, a certain man said to him, “I want to follow you wherever you go, Lord.”
 
