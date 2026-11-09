@@ -1054,11 +1054,13 @@ Luke 11
 
 1 When he finished praying in a certain place, one of his disciples said to him, “Lord, teach us to pray, just as John also taught his disciples.”
 
-2 He said to them, “When you pray, say, ‘Our Father in heaven, may your name be kept holy. May your Kingdom come. May your will be done on earth, as it is in heaven.
+2 He said to them, “When you pray, say, ‘Father, may your name be kept holy. May your Kingdom come.
 
 3 Give us day by day our daily bread.
 
-4 Forgive us our sins, for we ourselves also forgive everyone who is indebted to us. Bring us not into temptation, but deliver us from the evil one.’ ”
+4 Forgive us our sins, for we ourselves also forgive everyone who is indebted to us. Bring us not into temptation.’ ”
+
+4 [Reader’s note: Three clauses of this prayer are omitted by the translator’s ruling of 2026-11-09: absent from the earliest witnesses — the earliest copies of Luke (the papyrus P75, Sinaiticus, and Vaticanus) do not carry them, and the critical Greek text prints the prayer in the shorter form carried here; later copies carry them, and in the majority of copies the prayer stands in the longer form, its added clauses matching the prayer in Matthew 6 clause for clause — brought in, so the critics read them, from Matthew’s Gospel. The omitted words, as they stood in the longer form of verses 2 and 4, read: “Our Father in heaven” (in the address of verse 2); “May your will be done on earth, as it is in heaven.” (closing verse 2); and “but deliver us from the evil one” (closing verse 4). The omitted wording is preserved in this book’s audit register.]
 
 5 He said to them, “Which of you, if you go to a friend at midnight and tell him, ‘Friend, lend me three loaves of bread,
 
