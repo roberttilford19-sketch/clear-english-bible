@@ -15,8 +15,9 @@ below. It is an **encoding, not a translation**: no wording was translated,
 modernized, or altered in any way by this lane — the source file's bytes were
 converted, exactly as they stand, and decoding returns them exactly.
 **Nothing has been synthesized. No physical DNA exists.** Physical synthesis
-is a separate, future, funded laboratory project and is not part of this
-deposit. No claim of priority or firstness is made anywhere in this deposit:
+is a separate future step that would require funding and a laboratory; no
+funding is in place and no physical DNA has been made, and synthesis is not
+part of this deposit. No claim of priority or firstness is made anywhere in this deposit:
 what is claimed is only what the verification figures below prove.
 
 ## The codec (exactly the house codec)
@@ -24,7 +25,7 @@ what is claimed is only what the verification figures below prove.
 Text as UTF-8 bytes → binary bits, most significant bit first → every two
 bits become one base: **00 = A, 01 = C, 10 = G, 11 = T**. One byte becomes
 four bases. The mapping is lossless and reversible: decoding the base stream
-returns the byte stream exactly, which the independent decoder's report in
+returns the byte stream exactly, which the separate decoder's report in
 this deposit proves by hash.
 
 ## Source of record
@@ -137,10 +138,18 @@ with base ranges; the table below gives each book's range in the stream.
 - `MANIFEST-DNA-FULL-BIBLE.md` — this manifest.
 - `encode_bible_dna.py` — the encoder (structure parse + encoding).
 - `validate_bible_dna.py` — the hygiene validator (report-only).
-- `decode_bible_dna.py` — the independent decoder, written separately.
-- `INDEPENDENT-DECODER-REPORT.md` — the decoder's verdict, preserved unedited.
+- `decode_bible_dna.py` — the separate decoder, written and run by a
+  separate agent.
+- `INDEPENDENT-DECODER-REPORT.md` — the separate decoder's verdict (file
+  name as originally deposited; wording corrections applied 2026-11-14 are
+  listed in `CORRECTIONS-2026-11-14.md`).
+- `CORRECTIONS-2026-11-14.md` — the dated corrections note for this deposit.
 - `BIBLE-DNA-FULL-PRINT.pdf` — the paper book typeset from the verified
-  sequence file.
+  sequence file: **3,719 pages**, **10,398,830 bytes**, SHA-256
+  `726df666b7a31b9a200e4595e589c9a1c6a45b0e79d278caf24d59ae74d3a13f`
+  (rebuilt 2026-11-14 with corrected metadata and front-matter wording —
+  see `CORRECTIONS-2026-11-14.md`; its printed base stream was re-verified
+  equal to `bible-dna-full.txt` in full: 19,268,252 bases).
 
 ## Codec hygiene (validator — report only)
 
@@ -161,9 +170,9 @@ source were both left exactly as they stand, and the round-trip proof below
 is unaffected. A synthesis-grade layer would add screening, addressing, and
 error correction on top of this codec.
 
-## Independent verification
+## Separate verification
 
-A separate agent wrote an independent decoder from the specification alone —
+A separate agent wrote a separate decoder from the specification alone —
 no encoder or validator code read or shared — and ran it end to end.
 **VERDICT: PASS.** Its decoded bytes are byte-for-byte equal to the source
 file and hash to `dd1cc76282229befcdf8ef6ad352f42c91f5dc9d7442bbea75aa9579529fdef3`,
@@ -172,4 +181,6 @@ the source figure printed above; the base stream hashes to
 Its spot proofs re-encoded the first, middle, and last 1,000 source bytes
 with its own logic and matched the sequence exactly at each place
 (19,268,252 bases in total; 4,817,063 bytes decoded). Its report,
-`INDEPENDENT-DECODER-REPORT.md`, is preserved unedited in this deposit.
+`INDEPENDENT-DECODER-REPORT.md`, is included in this deposit; wording
+corrections applied to it on 2026-11-14 are listed in
+`CORRECTIONS-2026-11-14.md`.

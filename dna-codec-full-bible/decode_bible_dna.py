@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Independent decoder for the Bible DNA lane.
+"""Separate decoder for the Bible DNA lane.
 
 Written from the written specification alone:
   Each base is two bits -- A=00, C=01, G=10, T=11.
@@ -7,6 +7,12 @@ Written from the written specification alone:
   The byte stream is exactly the source file's bytes (UTF-8 text).
 
 This script does not import or reuse any encoder/validator code.
+
+Usage: decode_bible_dna.py [SOURCE_FILE]
+  SOURCE_FILE is the source edition file to verify against. If omitted,
+  it defaults to the source edition file in the Bible repository, at
+  ../editions/catholic/clear-english-bible-catholic-edition.txt relative
+  to this deposit folder (dna-codec-full-bible/).
 """
 import hashlib
 import re
@@ -16,7 +22,11 @@ from pathlib import Path
 WORK = Path(__file__).resolve().parent
 SEQ_PATH = WORK / "bible-dna-full.txt"
 MANIFEST_PATH = WORK / "MANIFEST-DNA-FULL-BIBLE.md"
-SOURCE_PATH = Path("/home/hatch/workspace/ceb-push/editions/catholic/clear-english-bible-catholic-edition.txt")
+if len(sys.argv) > 1:
+    SOURCE_PATH = Path(sys.argv[1])
+else:
+    SOURCE_PATH = (WORK.parent / "editions" / "catholic"
+                   / "clear-english-bible-catholic-edition.txt")
 
 EXPECTED_BASES = 19268252
 
@@ -38,7 +48,7 @@ def decode_sequence(seq: str) -> bytes:
 
 
 def encode_bytes(data: bytes) -> str:
-    """Re-encode bytes to bases with independent logic (for spot proof)."""
+    """Re-encode bytes to bases with separate logic (for spot proof)."""
     parts = []
     for b in data:
         parts.append(BITS_TO_BASE[(b >> 6) & 0b11])
@@ -86,6 +96,10 @@ def main() -> int:
     print(f"Decoded bytes are valid UTF-8: {checks['utf8_ok']}")
 
     # 3. Source comparison + hashes.
+    if not SOURCE_PATH.is_file():
+        print(f"ERROR: source file not found: {SOURCE_PATH}")
+        print("Pass the source edition file's path as the first argument.")
+        return 1
     source = SOURCE_PATH.read_bytes()
     print(f"Source bytes: {len(source)}")
     checks["byte_for_byte_equal"] = (decoded == source)

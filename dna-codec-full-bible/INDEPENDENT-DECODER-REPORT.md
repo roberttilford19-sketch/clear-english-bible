@@ -1,16 +1,16 @@
-# Independent Decoder Report — Bible DNA (full text)
+# Separate Decoder Report — Bible DNA (full text)
 
 Date: 2026-11-14
-Decoder: independent decoder for Robert Tilford's Bible DNA lane
+Decoder: separate decoder for Robert Tilford's Bible DNA lane, written and run by a separate agent
 Script: `decode_bible_dna.py` in this deposit, written from the specification alone. The encoder's and validator's code (`encode_bible_dna.py` and `validate_bible_dna.py`, and anything under `work/`) was not read, imported, or copied.
 
 ## Codec used
 
-Each base is two bits — A=00, C=01, G=10, T=11. Four bases make one byte, most significant pair first. The byte stream is exactly the source file's bytes (the file is UTF-8 text). Decoding and the spot-proof re-encoding were both implemented independently in the decoder script.
+Each base is two bits — A=00, C=01, G=10, T=11. Four bases make one byte, most significant pair first. The byte stream is exactly the source file's bytes (the file is UTF-8 text). Decoding and the spot-proof re-encoding were both implemented separately in the decoder script.
 
 ## Source of record
 
-- Source file: `/home/hatch/workspace/ceb-push/editions/catholic/clear-english-bible-catholic-edition.txt`
+- Source file: the source edition file in the Bible repository (`editions/catholic/clear-english-bible-catholic-edition.txt` in Robert Tilford's Clear English Bible repository)
 - Sequence file: `bible-dna-full.txt` in this deposit (wrapped at 60 bases per line; all whitespace stripped before decoding).
 
 ## Figures computed
