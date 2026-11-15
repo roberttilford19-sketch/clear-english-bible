@@ -79,7 +79,7 @@ Not one letter of the sequence was altered.
 5. **Manifest updated** with the new PDF figures and the corrected
    wording above.
 
-## Open
+## Closed
 
 - LICENSE file: CLOSED 2026-11-14. The author ruled on 2026-11-14
   (Choice A, the desk's recommendation), and the LICENSE file was
