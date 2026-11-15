@@ -81,6 +81,7 @@ Not one letter of the sequence was altered.
 
 ## Open
 
-- LICENSE file: pending the author's ruling. No license file is added
-  by this corrections pass; the gift wording in the source and in the
-  printed book stands as it is until Robert rules.
+- LICENSE file: CLOSED 2026-11-14. The author ruled on 2026-11-14
+  (Choice A, the desk's recommendation), and the LICENSE file was
+  added to this folder in the same commit as this closure. It reads:
+  "© Robert Tilford — given free, never sold; attribution requested."
