@@ -1,0 +1,12 @@
+# MANIFEST — Jamaican Creole deuterocanonical seven (Bible lane)
+# Built 2026-11-16 under Robert Tilford's ruling A on Decision 2.
+# Master: Clear English Bible, Catholic edition — the seven deuterocanonical books,
+# per-book reader files verified against ceb-push MANIFEST.md sha256 at build time (all seven MATCH).
+# Counts: 4,106 of 4,106 verses, 137 chapters (Tobit 244, Judith 339, Wisdom 436,
+# Sirach 1,395, Baruch 213, 1 Maccabees 924, 2 Maccabees 555).
+# Gates: count complete · canonical verify PASS · independent checker PASS WITH FLAGS, 0 MATERIAL
+# (38 MATCH / 6 MINOR / 0 MATERIAL, 44-verse sample) · Purple sweep reconciled, 0 unresolved.
+# Status inside the book: DRAFT — NOT REVIEWED.
+
+2c1cb5633877ab1977a050ed53b2a04312b72aa412c74767b1a66041aa2188c3  bible-jamaican-seven.md
+2cec104a61250e9c832a3f9c024daa67de3f4a8902e0e6376461fc32cd3bbedf  bible-jamaican-seven-aligned.json
