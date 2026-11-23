@@ -4,7 +4,7 @@ This repository holds the complete Clear English Bible in clear, simple English:
 
 ## What this is, stated plainly
 
-This is **not** a fresh translation made directly from the Hebrew, Aramaic, and Greek. It is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). Every book was drafted from that base and then internally checked against the WEB base — verse by verse, chapter by chapter — so that nothing was added, dropped, or drifted in the modernizing. The campaign's rulings were applied to the corpus and verified after application. It should be read with that limit in view: the internal checking certifies fidelity to the stated base, and nothing more.
+This is **not** a fresh translation made directly from the Hebrew, Aramaic, and Greek — with one exception. The exception is the Torah (Genesis, Exodus, Leviticus, Numbers, and Deuteronomy), which **is** a fresh translation made directly from the Hebrew: the Masoretic text of the Westminster Leningrad Codex, verified letter by letter against the Mechon Mamre edition, inserted on 23 November 2026 under the editor's ruling that the Torah of this Bible rests on the Hebrew. Every other book is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). Every book was drafted from its stated base and then internally checked against it — verse by verse, chapter by chapter — so that nothing was added, dropped, or drifted in the preparing. The campaign's rulings were applied to the corpus and verified after application. It should be read with that limit in view: the internal checking certifies fidelity to the stated base, and nothing more.
 
 ## Disclosure
 
