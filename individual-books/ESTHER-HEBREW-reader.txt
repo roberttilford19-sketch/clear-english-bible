@@ -1,0 +1,359 @@
+Clear English Bible — Esther — the Hebrew Form (Chapters 1–10): A Clear English Translation
+
+This is the Masoretic book of Esther in this edition: a fresh translation made directly from the Masoretic Hebrew, seated beside Esther in its Greek form, which stands in this edition in its own block immediately following. The Additions that the Greek form interleaves stand in that block, not here: this block is the ten-chapter Hebrew book only. The Masoretic Esther names God nowhere — neither the divine name nor the designation stands in the Hebrew — and this translation names him nowhere. The book as printed here stands as DRAFT — NOT PUBLISHED.
+
+Seating record — 24 November 2026. The Masoretic book of Esther (10 chapters, 167 verses; scheme [22, 23, 15, 17, 14, 14, 10, 17, 32, 3] — the Masoretic and English numberings identical in this book) was seated beside the Greek-form Esther in both editions and in its own reader file, individual-books/ESTHER-HEBREW-reader.txt, under Robert Tilford's seating ruling of 24 November 2026 on the Fresh Tanakh commission (commission ruling of 23 November 2026). The Greek-form block is byte-identical before and after (sha256 prefix d1215e2a2e0ec89d); nothing in it was deleted, moved, or overwritten. The translation was built from the pointed text of the Westminster Leningrad Codex, cross-checked against Sefaria's Miqra according to the Masorah — the two witnesses consonant-exact in 140 of 167 verses, the 27 divergences classified in the build record (9 Bolls extraction drops, the draft following Sefaria in every case; 2 ketiv/qere presentations, the qere printed; 3 Miqra marginal notes, recorded and not printed; 13 spelling only) — with JPS 1917 as the open control of record, and read by two independent checker passes, both PASS with zero errors. יהוה stands 0 times in the book and אלהים 0 times, verified from both witnesses before the build, and the translation names God nowhere: at 4:14 "relief and deliverance will arise for the Jews from another place" stands exactly as the Hebrew gives it, with no name supplied. Chapter 9 stands at full force as the Hebrew gives it — the fighting, the second day in Shushan, the hanging of Haman's ten sons, and the 75,000 of the provinces, the Masoretic figure. The difference ledger records 165 of the book's 167 verses; 32 open seats stand recorded. Build record: PACKET-ESTHER.md, LEDGER-ESTHER.md, CHECK-REPORT-ESTHER.md, and OPEN-SEATS-ESTHER.md in the desk's working folder (.tools/fresh-esther/); the reader draft stands at ~/workspace/your_files/ESTHER-FRESH-FROM-HEBREW-DRAFT-2026-11-24.md. The book stands as DRAFT — NOT PUBLISHED.
+
+Esther 1
+
+1 It happened in the days of Ahasuerus — this is the Ahasuerus who reigned from India to Ethiopia over one hundred and twenty-seven provinces —
+
+2 that in those days, when King Ahasuerus sat on the throne of his kingdom, which was in Shushan the citadel,
+
+3 in the third year of his reign, he made a feast for all his princes and his servants; the army of Persia and Media, the nobles and the princes of the provinces, were before him;
+
+4 when he showed the riches of his glorious kingdom and the honor of the splendor of his greatness, for many days, one hundred and eighty days.
+
+5 And when these days were fulfilled, the king made a feast for all the people who were present in Shushan the citadel, both great and small, seven days, in the court of the garden of the king's palace;
+
+6 there were hangings of white linen, cotton and blue, hung with cords of fine linen and purple on silver rods and pillars of marble; the couches were of gold and silver, on a pavement of porphyry, marble, mother-of-pearl and onyx.
+
+7 And they gave them drink in vessels of gold — the vessels differing one from another — and royal wine in abundance, according to the bounty of the king.
+
+8 And the drinking was according to the law; no one was compelled, for so the king had appointed to all the officers of his house, that they should do according to every man's pleasure.
+
+9 Also Vashti the queen made a feast for the women in the royal house which belonged to King Ahasuerus.
+
+10 On the seventh day, when the king's heart was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha and Abagtha, Zethar and Carcas, the seven eunuchs who served in the presence of King Ahasuerus,
+
+11 to bring Queen Vashti before the king with the royal crown, to show the peoples and the princes her beauty, for she was beautiful to look on.
+
+12 But Queen Vashti refused to come at the king's command by the eunuchs, and the king was very angry, and his wrath burned in him.
+
+13 Then the king said to the wise men who knew the times — for so was the king's manner with all who knew law and judgment;
+
+14 and those near him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena and Memucan, the seven princes of Persia and Media, who saw the king's face and sat first in the kingdom:
+
+15 According to law, what is to be done to Queen Vashti, because she has not performed the command of King Ahasuerus given through the eunuchs?
+
+16 And Memucan said before the king and the princes: Queen Vashti has not wronged the king alone, but also all the princes and all the peoples who are in all the provinces of King Ahasuerus.
+
+17 For the queen's deed will go out to all women, to make their husbands despised in their eyes, when they say: King Ahasuerus commanded Queen Vashti to be brought before him, and she did not come.
+
+18 And this day the princesses of Persia and Media who have heard the queen's deed will say the same to all the king's princes, and there will be contempt and wrath enough.
+
+19 If it pleases the king, let a royal decree go out from him, and let it be written among the laws of Persia and Media and not be altered, that Vashti come no more before King Ahasuerus, and let the king give her royal estate to another who is better than she.
+
+20 And when the king's decree that he will make is proclaimed throughout all his kingdom, for it is great, all the wives will give honor to their husbands, both great and small.
+
+21 And the word pleased the king and the princes; and the king did according to the word of Memucan;
+
+22 for he sent letters to all the king's provinces, to each province according to its writing and to each people according to its language, that every man should be master in his own house, and speak according to the language of his people.
+
+Esther 2
+
+1 After these things, when the wrath of King Ahasuerus had subsided, he remembered Vashti, and what she had done, and what had been decreed against her.
+
+2 Then the king's servants who attended him said: Let young virgins, beautiful in appearance, be sought for the king;
+
+3 and let the king appoint officers in all the provinces of his kingdom, and let them gather every young virgin who is beautiful in appearance to Shushan the citadel, to the house of the women, into the hand of Hegai, the king's eunuch, keeper of the women, and let their cosmetics be given to them;
+
+4 and let the young woman who pleases the king be queen instead of Vashti. And this pleased the king, and he did so.
+
+5 There was a Jewish man in Shushan the citadel, whose name was Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjaminite,
+
+6 who had been carried away from Jerusalem with the captives that had been carried away with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away.
+
+7 And he brought up Hadassah, that is, Esther, his uncle's daughter, for she had neither father nor mother, and the young woman was beautiful in form and beautiful in appearance; and when her father and mother died, Mordecai took her to himself as a daughter.
+
+8 And it happened, when the king's command and his decree were heard, and when many young women were gathered to Shushan the citadel, into the hand of Hegai, that Esther was taken to the king's house, into the hand of Hegai, keeper of the women.
+
+9 And the young woman pleased him, and she won favor in his sight, and he hurried to give her her cosmetics and her portions, and the seven young women who were fit to be given her from the king's house, and he advanced her and her young women to the best place in the house of the women.
+
+10 Esther had not made known her people nor her kindred; for Mordecai had charged her that she should not tell it.
+
+11 And Mordecai walked every day before the court of the house of the women, to learn how Esther was and what would become of her.
+
+12 Now when the turn of every young woman came to go in to King Ahasuerus, at the end of her twelve months under the rule for the women — for so the days of their beauty treatments were fulfilled, six months with oil of myrrh, and six months with spices and the cosmetics of the women —,
+
+13 the young woman then came to the king, and whatever she asked for was given her, to go with her from the house of the women to the king's house.
+
+14 In the evening she went in, and in the morning she returned to the second house of the women, into the hand of Shaashgaz, the king's eunuch, keeper of the concubines; she did not come to the king again, unless the king delighted in her and she was called by name.
+
+15 Now when the turn of Esther, the daughter of Abihail, the uncle of Mordecai, who had taken her as his daughter, came to go in to the king, she asked for nothing but what Hegai, the king's eunuch, keeper of the women, advised; and Esther won favor in the eyes of all who saw her.
+
+16 So Esther was taken to King Ahasuerus, into his royal house, in the tenth month, which is the month Tebeth, in the seventh year of his reign.
+
+17 And the king loved Esther more than all the women, and she won grace and favor in his sight more than all the virgins, and he set the royal crown on her head and made her queen instead of Vashti.
+
+18 Then the king made a great feast for all his princes and his servants, Esther's feast, and he granted a remission to the provinces and gave gifts, according to the bounty of the king.
+
+19 And when the virgins were gathered together a second time, and Mordecai sat in the king's gate,
+
+20 Esther had not made known her kindred or her people, as Mordecai had commanded her, and Esther carried out Mordecai's word, just as when she was in his care,
+
+21 in those days, while Mordecai sat in the king's gate, Bigthan and Teresh, two of the king's eunuchs, of the keepers of the threshold, became angry and sought to lay hands on King Ahasuerus.
+
+22 And the matter became known to Mordecai, and he told it to Esther the queen, and Esther told the king in Mordecai's name.
+
+23 And the matter was investigated and found to be true, and both of them were hanged on a tree, and it was written in the book of the chronicles before the king.
+
+Esther 3
+
+1 After these things, King Ahasuerus promoted Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes who were with him.
+
+2 And all the king's servants who were in the king's gate bowed down and prostrated themselves before Haman, for the king had so commanded concerning him, but Mordecai did not bow down or prostrate himself.
+
+3 Then the king's servants who were in the king's gate said to Mordecai: Why do you transgress the king's command?
+
+4 And it happened, when they said to him day after day and he did not listen to them, that they told Haman, to see whether Mordecai's words would stand, for he had told them that he was a Jew.
+
+5 And when Haman saw that Mordecai did not bow down or prostrate himself before him, Haman was filled with wrath.
+
+6 And it was contemptible in his eyes to lay hands on Mordecai alone, for they had told him Mordecai's people, so Haman sought to destroy all the Jews who were throughout the whole kingdom of Ahasuerus, Mordecai's people.
+
+7 In the first month, which is the month Nisan, in the twelfth year of King Ahasuerus, they cast pur, that is, the lot, before Haman from day to day, and from month to month, to the twelfth month, which is the month Adar.
+
+8 And Haman said to King Ahasuerus: There is one people scattered and dispersed among the peoples in all the provinces of your kingdom; their laws are different from those of every people, and they do not keep the king's laws, so there is no profit for the king in letting them remain.
+
+9 If it pleases the king, let it be written that they be destroyed, and I will pay ten thousand talents of silver into the hands of those who do the king's business, to bring it into the king's treasuries.
+
+10 And the king took his ring from his hand and gave it to Haman the son of Hammedatha the Agagite, the enemy of the Jews.
+
+11 And the king said to Haman: The silver is given to you, and the people also, to do with them as seems good in your eyes.
+
+12 Then the king's scribes were called in the first month, on the thirteenth day of it, and it was written according to all that Haman commanded, to the king's satraps and to the governors who were over every province and to the princes of every people, to every province according to its writing and to every people according to its language; in the name of King Ahasuerus it was written, and it was sealed with the king's ring.
+
+13 And letters were sent by couriers into all the king's provinces, to destroy, to kill and to annihilate all the Jews, both young and old, little children and women, in one day, on the thirteenth day of the twelfth month, which is the month Adar, and to take their spoil for plunder.
+
+14 The copy of the writing, to be given out as a decree in every province, was published to all the peoples, that they should be ready for that day.
+
+15 The couriers went out in haste by the king's command, and the decree was given in Shushan the citadel, and the king and Haman sat down to drink, but the city of Shushan was perplexed.
+
+Esther 4
+
+1 When Mordecai learned all that had been done, Mordecai tore his clothes and put on sackcloth and ashes, and he went out into the middle of the city and cried out with a loud and bitter cry,
+
+2 and he came as far as before the king's gate, for no one may enter the king's gate clothed in sackcloth.
+
+3 And in every province, in every place where the king's word and his decree reached, there was great mourning for the Jews, with fasting and weeping and wailing; sackcloth and ashes were laid out for many.
+
+4 Then Esther's young women and her eunuchs came and told her, and the queen was deeply distressed, and she sent clothes to clothe Mordecai and to take his sackcloth off him, but he did not accept them.
+
+5 Then Esther called for Hathach, one of the king's eunuchs whom he had appointed to attend her, and charged him concerning Mordecai, to know what this was and why it was.
+
+6 So Hathach went out to Mordecai, to the city square that was before the king's gate.
+
+7 And Mordecai told him all that had happened to him, and the exact sum of the silver that Haman had promised to weigh out to the king's treasuries against the Jews, to destroy them.
+
+8 He also gave him the copy of the written decree that had been given out in Shushan to destroy them, to show it to Esther and to tell her, and to charge her to go in to the king, to plead with him and to make request before him for her people.
+
+9 And Hathach came and told Esther the words of Mordecai.
+
+10 Then Esther spoke to Hathach and gave him a charge for Mordecai:
+
+11 All the king's servants and the people of the king's provinces know that any man or woman who comes to the king into the inner court, who is not called, has one law: to be put to death, except the one to whom the king holds out the golden scepter, and he lives; but I have not been called to come to the king these thirty days.
+
+12 And they told Mordecai Esther's words.
+
+13 Then Mordecai had this answer returned to Esther: Do not think to yourself that you will escape in the king's house more than all the Jews.
+
+14 For if you keep silent at this time, relief and deliverance will arise for the Jews from another place, but you and your father's house will perish; and who knows whether you have not come to the kingdom for such a time as this?
+
+15 Then Esther had this answer returned to Mordecai:
+
+16 Go, gather together all the Jews who are present in Shushan, and fast for me, and do not eat and do not drink for three days, night and day. I also, and my young women, will fast in the same way; and then I will go in to the king, though it is not according to the law, and if I perish, I perish.
+
+17 So Mordecai went his way, and did according to all that Esther had commanded him.
+
+Esther 5
+
+1 Now on the third day, Esther put on her royal apparel and stood in the inner court of the king's house, opposite the king's house, and the king was sitting on his royal throne in the royal house, opposite the entrance of the house.
+
+2 And when the king saw Esther the queen standing in the court, she found favor in his eyes, and the king held out to Esther the golden scepter that was in his hand. So Esther drew near and touched the top of the scepter.
+
+3 And the king said to her: What is it, Queen Esther? And what is your request? Up to half the kingdom, it shall be given to you.
+
+4 And Esther said: If it pleases the king, let the king and Haman come today to the banquet that I have prepared for him.
+
+5 Then the king said: Bring Haman quickly, that Esther's word may be done. So the king and Haman came to the banquet that Esther had prepared.
+
+6 And the king said to Esther at the banquet of wine: What is your petition? It shall be granted to you. And what is your request? Up to half the kingdom, it shall be done.
+
+7 Then Esther answered and said: My petition and my request is—
+
+8 if I have found favor in the eyes of the king, and if it pleases the king to grant my petition and to do my request, let the king and Haman come to the banquet that I will prepare for them, and tomorrow I will do according to the king's word.
+
+9 Then Haman went out that day joyful and glad of heart, but when Haman saw Mordecai in the king's gate, that he did not rise and did not tremble before him, Haman was filled with wrath against Mordecai.
+
+10 But Haman restrained himself and went home, and he sent and fetched his friends and Zeresh his wife.
+
+11 And Haman recounted to them the glory of his riches, and the multitude of his sons, and all about how the king had made him great, and how he had raised him above the princes and the servants of the king.
+
+12 And Haman said: Moreover, Queen Esther brought no one with the king to the banquet that she had prepared except me, and tomorrow also I am invited by her, together with the king.
+
+13 Yet all this is worth nothing to me, as long as I see Mordecai the Jew sitting at the king's gate.
+
+14 Then Zeresh his wife and all his friends said to him: Let a gallows be made, fifty cubits high, and in the morning tell the king, and let Mordecai be hanged on it; then go in with the king to the banquet, rejoicing. And the thing pleased Haman, and he made the gallows.
+
+Esther 6
+
+1 On that night the king's sleep fled, and he commanded that the book of records, the chronicles, be brought, and they were read before the king.
+
+2 And it was found written that Mordecai had told of Bigthana and Teresh, two of the king's eunuchs, from among those who kept the door, who had sought to lay a hand on King Ahasuerus.
+
+3 And the king said: What honor and greatness have been done for Mordecai for this? Then the king's servants who attended him said: Nothing has been done for him.
+
+4 And the king said: Who is in the court? Now Haman had come into the outer court of the king's house, to speak to the king about hanging Mordecai on the gallows that he had prepared for him.
+
+5 And the king's servants said to him: Haman is standing in the court. And the king said: Let him come in.
+
+6 So Haman came in, and the king said to him: What is to be done for the man whom the king delights to honor? And Haman said in his heart: To whom would the king delight to do honor more than to me?
+
+7 And Haman said to the king: For the man whom the king delights to honor,
+
+8 let royal apparel be brought that the king has worn, and a horse that the king has ridden, and on whose head a royal crown has been set;
+
+9 and let the apparel and the horse be given into the hand of one of the king's princes, the nobles, and let them clothe the man whom the king delights to honor, and make him ride on the horse in the city square, and proclaim before him: Thus shall it be done to the man whom the king delights to honor.
+
+10 Then the king said to Haman: Hurry, take the apparel and the horse, as you have spoken, and do so for Mordecai the Jew who sits at the king's gate; do not drop a single word from all that you have said.
+
+11 So Haman took the apparel and the horse and clothed Mordecai, and made him ride through the city square, and proclaimed before him: Thus shall it be done to the man whom the king delights to honor.
+
+12 And Mordecai returned to the king's gate, but Haman hurried to his house, mourning and with his head covered.
+
+13 And Haman recounted to Zeresh his wife and to all his friends all that had happened to him. Then his wise men and Zeresh his wife said to him: If Mordecai, before whom you have begun to fall, is of the seed of the Jews, you shall not prevail against him, but you shall surely fall before him.
+
+14 While they were still speaking with him, the king's eunuchs arrived and hurried Haman to the banquet that Esther had prepared.
+
+Esther 7
+
+1 So the king and Haman came to drink with Esther the queen.
+
+2 And the king said to Esther again on the second day, at the banquet of wine: What is your petition, Queen Esther? It will be granted to you. And what is your request? Even to half of the kingdom, it will be done.
+
+3 Then Esther the queen answered and said: If I have found favor in your eyes, O king, and if it is good in the king's eyes, let my life be given me at my petition, and my people at my request,
+
+4 for we have been sold, I and my people, to be destroyed, to be killed, and to perish. But if we had been sold as male slaves and female slaves, I would have kept silent, for the adversary is not worth the loss to the king.
+
+5 Then King Ahasuerus spoke and said to Esther the queen: Who is he, and where is he, whose heart has filled him to do such a thing?
+
+6 And Esther said: An adversary and an enemy, this wicked Haman. Then Haman was terrified before the king and the queen.
+
+7 And the king rose in his anger from the banquet of wine and went into the palace garden; but Haman stayed to plead for his life with Esther the queen, for he saw that the harm was fully determined against him by the king.
+
+8 Then the king returned from the palace garden to the house of the banquet of wine, and Haman had fallen on the couch on which Esther was. And the king said: Will he even force the queen while I am in the house? As the word went out of the king's mouth, they covered Haman's face.
+
+9 Then Harbonah, one of the eunuchs who were before the king, said: Look, the gallows that Haman made for Mordecai, who spoke good for the king, also stands in Haman's house, fifty cubits high. And the king said: Hang him on it.
+
+10 So they hanged Haman on the gallows that he had prepared for Mordecai. Then the king's anger subsided.
+
+Esther 8
+
+1 On that day King Ahasuerus gave the house of Haman, the oppressor of the Jews, to Esther the queen. And Mordecai came before the king, for Esther had told what he was to her.
+
+2 And the king took off his signet ring, which he had taken from Haman, and gave it to Mordecai. And Esther set Mordecai over the house of Haman.
+
+3 And Esther spoke again before the king, and fell at his feet, and wept and pleaded with him to remove the harm of Haman the Agagite and his plan that he had planned against the Jews.
+
+4 And the king held out the golden scepter to Esther. So Esther rose and stood before the king.
+
+5 And she said: If it is good to the king, and if I have found favor before him, and the thing is right before the king, and I am pleasing in his eyes, let it be written to reverse the letters, the plan of Haman the son of Hammedatha the Agagite, which he wrote to destroy the Jews who are in all the king's provinces,
+
+6 for how can I bear to see the harm that will come on my people? And how can I bear to see the destruction of my kindred?
+
+7 Then King Ahasuerus said to Esther the queen and to Mordecai the Jew: Look, I have given the house of Haman to Esther, and they have hanged him on the gallows, because he laid his hand against the Jews.
+
+8 Now you write concerning the Jews as seems good in your eyes, in the king's name, and seal it with the king's signet ring; for a writing that is written in the king's name and sealed with the king's signet ring cannot be reversed.
+
+9 Then the king's scribes were called at that time, in the third month, which is the month Sivan, on the twenty-third day of it; and it was written according to all that Mordecai commanded to the Jews, and to the satraps, and the governors, and the princes of the provinces that are from India to Cush, one hundred and twenty-seven provinces, to every province in its own writing and to every people in its own language, and to the Jews in their own writing and their own language.
+
+10 And he wrote in the name of King Ahasuerus, and sealed it with the king's signet ring, and sent letters by the couriers on horseback, riding on the swift horses used in the king's service, the offspring of the royal mares,
+
+11 that the king had granted the Jews who were in every city to gather together and to stand for their lives, to destroy, and to kill, and to cause to perish all the forces of the people and province that assaulted them, their little ones and women, and to take their spoil as plunder,
+
+12 on one day in all the provinces of King Ahasuerus, on the thirteenth day of the twelfth month, which is the month Adar.
+
+13 A copy of the writing, to be given as a decree in every province, was published to all the peoples, and the Jews were to be ready for this day to avenge themselves on their enemies.
+
+14 The couriers, riding on the swift horses used in the king's service, went out, hurried and pressed on by the king's word; and the decree was given in Shushan the citadel.
+
+15 And Mordecai went out from before the king in royal clothing of blue and white, and with a great crown of gold, and with a mantle of fine linen and purple; and the city of Shushan shouted for joy and was glad.
+
+16 The Jews had light and gladness, and joy and honor.
+
+17 And in every province and in every city, wherever the king's word and his decree reached, there was gladness and joy for the Jews, a feast and a good day. And many of the peoples of the land became Jews, for the fear of the Jews had fallen on them.
+
+Esther 9
+
+1 Now in the twelfth month, which is the month Adar, on the thirteenth day of it, when the king's word and his decree were near to be carried out, on the day that the enemies of the Jews had hoped to rule over them, it was turned the other way, and the Jews themselves ruled over those who hated them,
+
+2 the Jews gathered together in their cities throughout all the provinces of King Ahasuerus, to lay a hand on those who sought their harm; and no man could stand before them, for the fear of them had fallen on all the peoples.
+
+3 And all the princes of the provinces, and the satraps, and the governors, and those who did the king's work, supported the Jews, because the fear of Mordecai had fallen on them.
+
+4 For Mordecai was great in the king's house, and his fame went out through all the provinces; for the man Mordecai grew greater and greater.
+
+5 And the Jews struck all their enemies with the stroke of the sword, and with killing and destruction, and did to those who hated them as they wished.
+
+6 And in Shushan the citadel the Jews killed and destroyed five hundred men.
+
+7 And Parshandatha, and Dalphon, and Aspatha,
+
+8 and Poratha, and Adalia, and Aridatha,
+
+9 and Parmashta, and Arisai, and Aridai, and Vaizatha,
+
+10 the ten sons of Haman the son of Hammedatha, the enemy of the Jews, they killed; but on the spoil they did not lay their hand.
+
+11 On that day the number of those who were killed in Shushan the citadel came before the king.
+
+12 And the king said to Esther the queen: In Shushan the citadel the Jews have killed and destroyed five hundred men, and the ten sons of Haman; what have they done in the rest of the king's provinces? Now what is your petition? It will be granted to you. And what is your further request? It will be done.
+
+13 Then Esther said: If it is good to the king, let it also be granted to the Jews who are in Shushan to do tomorrow according to this day's decree, and let Haman's ten sons be hanged on the gallows.
+
+14 And the king said that it should be done so; and a decree was given in Shushan; and they hanged Haman's ten sons.
+
+15 And the Jews who were in Shushan gathered together again on the fourteenth day of the month Adar, and killed three hundred men in Shushan; but on the spoil they did not lay their hand.
+
+16 And the rest of the Jews who were in the king's provinces gathered together, and stood for their lives, and had rest from their enemies, and killed seventy-five thousand of those who hated them; but on the spoil they did not lay their hand,
+
+17 on the thirteenth day of the month Adar; and on the fourteenth day of it they rested, and made it a day of feasting and gladness.
+
+18 But the Jews who were in Shushan gathered together on the thirteenth day of it and on the fourteenth day of it; and on the fifteenth day of it they rested, and made it a day of feasting and gladness.
+
+19 Therefore the country Jews, who live in the unwalled towns, make the fourteenth day of the month Adar a day of gladness and feasting, and a good day, and of sending portions to one another.
+
+20 And Mordecai wrote these things, and sent letters to all the Jews who were in all the provinces of King Ahasuerus, both near and far,
+
+21 to establish for them that they should keep the fourteenth day of the month Adar, and the fifteenth day of it, in every year,
+
+22 as the days on which the Jews had rest from their enemies, and the month that was turned for them from sorrow to gladness, and from mourning into a good day; that they should make them days of feasting and gladness, and of sending portions to one another, and gifts to the poor.
+
+23 And the Jews accepted what they had begun to do, and what Mordecai had written to them,
+
+24 because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had planned against the Jews to destroy them, and had cast pur, that is, the lot, to crush them and to destroy them,
+
+25 but when she came before the king, he ordered by letter that his evil plan, which he had planned against the Jews, should return on his own head; and they hanged him and his sons on the gallows.
+
+26 Therefore they called these days Purim, after the name of pur. Therefore, because of all the words of this letter, and of what they had seen in this matter, and of what had come on them,
+
+27 the Jews established and accepted it for themselves, and for their descendants, and for all who joined themselves to them, that it should not pass away, that they would keep these two days according to their writing and according to their appointed time, in every year,
+
+28 and that these days should be remembered and kept throughout every generation, every family, every province, and every city; and that these days of Purim should not pass away from among the Jews, and that their memory should not perish from their descendants.
+
+29 Then Esther the queen, the daughter of Abihail, and Mordecai the Jew wrote with full authority, to confirm this second letter of Purim.
+
+30 And he sent letters to all the Jews, to the one hundred and twenty-seven provinces of the kingdom of Ahasuerus, with words of peace and truth,
+
+31 to confirm these days of Purim at their appointed times, as Mordecai the Jew and Esther the queen had established for them, and as they had established for themselves and for their descendants, the matters of the fasts and their crying out.
+
+32 And the command of Esther confirmed these matters of Purim; and it was written in the book.
+
+Esther 10
+
+1 And King Ahasuerus laid a tax on the land, and on the islands of the sea.
+
+2 And all the acts of his power and of his might, and the full account of the greatness of Mordecai, how the king had advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?
+
+3 For Mordecai the Jew was second to King Ahasuerus, and great among the Jews, and accepted by the multitude of his brothers; seeking the good of his people, and speaking peace to all his descendants.
