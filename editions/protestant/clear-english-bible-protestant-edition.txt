@@ -2,7 +2,7 @@ Clear English Bible — Protestant Edition
 
 This volume gathers the 66 protocanonical books of the Clear English Bible corpus into one file, in their canonical order: 1,191 chapters in all, counting the books in the fuller forms described below. It is given freely to any reader who wants it.
 
-What this is, stated plainly. With eleven exceptions, this is not a fresh translation made directly from the Hebrew, Aramaic, and Greek: it is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). The exceptions are the Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and the books of Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, and Micah, which are fresh translations made directly from the Hebrew, the Masoretic text of the Westminster Leningrad Codex (the Torah verified letter by letter against the Mechon Mamre edition; Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, and Micah verified consonant by consonant against the Miqra according to the Masorah), inserted on 23 November 2026 under the editor's rulings that the Old Testament of this Bible rests on the Hebrew. The rest of the Old Testament still stands on the WEB Classic base, pending the further books of the fresh translation, which will replace it book by book as they are completed; the New Testament stands on its Greek. The record of that translation — every difference from the text it replaced, with the Hebrew ground for each, and every place where the Hebrew bears two readings — is kept in the translation's build records, which are named in this repository's CORRECTIONS.md, for any reader who seeks them. Every remaining book was prepared from the WEB Classic base and then internally checked against it, verse by verse and chapter by chapter, so that nothing was added, dropped, or drifted in the modernizing. The campaign's rulings were applied to the corpus and verified after application. The internal checking certifies fidelity to the stated base, and nothing more.
+What this is, stated plainly. With twelve exceptions, this is not a fresh translation made directly from the Hebrew, Aramaic, and Greek: it is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). The exceptions are the Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and the books of Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, Micah, and Nahum, which are fresh translations made directly from the Hebrew, the Masoretic text of the Westminster Leningrad Codex (the Torah verified letter by letter against the Mechon Mamre edition; Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, Micah, and Nahum verified consonant by consonant against the Miqra according to the Masorah), inserted on 23 November 2026 under the editor's rulings that the Old Testament of this Bible rests on the Hebrew. The rest of the Old Testament still stands on the WEB Classic base, pending the further books of the fresh translation, which will replace it book by book as they are completed; the New Testament stands on its Greek. The record of that translation — every difference from the text it replaced, with the Hebrew ground for each, and every place where the Hebrew bears two readings — is kept in the translation's build records, which are named in this repository's CORRECTIONS.md, for any reader who seeks them. Every remaining book was prepared from the WEB Classic base and then internally checked against it, verse by verse and chapter by chapter, so that nothing was added, dropped, or drifted in the modernizing. The campaign's rulings were applied to the corpus and verified after application. The internal checking certifies fidelity to the stated base, and nothing more.
 
 Disclosure. This work was prepared with AI assistance. The editor is Robert Tilford of Hays, Kansas: he set the rules, directed the work, and ruled the questions reserved for him. The assisting instrument is Awen (Muse AI, by Meta), working under his direction. No endorsement by Meta is claimed.
 
@@ -12,7 +12,7 @@ How this edition was drawn. It is extracted from the same checked corpus as the 
 
 How this volume was assembled. The books below are the packaged reader files of the corpus, set one after another in their canonical order; no book's wording has been altered in the assembling. Each book keeps its own header exactly as it was packaged, under the working name "Clear English Bible" that the books were prepared under; the name "Clear Translation Bible" belongs to this shelf, and the books' own pages were not re-lettered to match it.
 
-COMPLETE — This edition of the Clear English Bible is complete. Except for the Torah, Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, and Micah, this is a clear-English modernization made from the World English Bible Classic (public domain) as its base text, and is not a fresh translation made directly from the Hebrew, Aramaic, and Greek. The Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, and Micah are fresh translations made directly from the Masoretic Hebrew, inserted on 23 November 2026 under the editor's rulings. This text was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This edition of the Clear English Bible is complete. Except for the Torah, Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, Micah, and Nahum, this is a clear-English modernization made from the World English Bible Classic (public domain) as its base text, and is not a fresh translation made directly from the Hebrew, Aramaic, and Greek. The Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, Micah, and Nahum are fresh translations made directly from the Masoretic Hebrew, inserted on 23 November 2026 under the editor's rulings. This text was prepared with AI assistance. Robert Tilford is the editor.
 
 Draft history — 25 October 2026. This edition formerly stated that the work was drafted and internally checked; not finished, and not published. It said that the editor's read-through was still to come and that his rulings on the reserved questions would be applied in a later pass, by dated record, before any edition was offered as final, and it asked readers to read the drafts as careful work, honestly labeled, still in the editor's hands. The rulings were applied and verified at Gate B, and this completion label was substituted in the final handling under Ruling 20; the former wording remains in the repository history.
 
@@ -49851,109 +49851,67 @@ Micah 7
 
 Clear English Bible — Nahum (Chapters 1–3): A Clear English Translation
 
-COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+This completes the Masoretic book of Nahum in this edition. The remaining books of the Old Testament stand in this edition as a clear-English modernization of the World English Bible (WEB) Classic text named in the front matter, except the books the front matter names as fresh translations made directly from the Hebrew; the New Testament stands on the Greek text named there. The book as printed here stands as DRAFT — NOT PUBLISHED.
+
+Insertion record — 23 November 2026. The Masoretic chapters of Nahum (3 chapters, 47 verses in Masoretic numbering) were inserted as a fresh translation made directly from the Masoretic Hebrew under Robert Tilford's Fresh Tanakh commission ruling of 23 November 2026 and its authorization-forward amendment, confirmed the same day, replacing the earlier WEB-based text of those chapters. The block is reseated in the Masoretic scheme: the verse that stood as English 1:15 now stands as 2:1, opening chapter 2, and the verses that stood as English 2:1–13 now stand as 2:2–14; chapter 3 keeps its bounds, and the block header is unchanged, the chapter count being the same in both schemes. The translation was built in two reviser passes (Masoretic chapter 1; chapters 2–3) from the Masoretic text as it stands in the Westminster Leningrad Codex and Sefaria's Miqra according to the Masorah — the two witnesses consonant-exact in 37 of the book's 47 verses, the ten divergences classified in the build record (six defects of the Bolls extraction, three spelling only, one form variant) — with JPS 1917 as the open control of record. Two independent checker passes that did not build the text read the draft against the Hebrew line and both controls and returned PASS with zero errors, so no correction was needed before insertion. The divine name יהוה stands 13 times in the book — no banked benchmark existed, so the count was established from both witnesses before the build; the two witnesses agree at every verse — and prints "Yahweh" at every seat; no standalone יהּ seat stands in Nahum. The difference ledger records 46 of the book's 47 verses as differing materially from the seated text or the open control, and 23 open seats stand recorded. The directed seats stand as the commission named them: 1:2–8 (the opening theophany, the partial acrostic as it stands); 1:3 ("slow to anger and great in power"); 1:7 ("Yahweh is good, a stronghold in the day of trouble"); Masoretic 2:1 (the messenger's feet, printed as Nahum's Hebrew stands); Masoretic 2:14 and 3:5 ("Behold, I am against you — the declaration of Yahweh of hosts"); and 3:19 (the closing clapping of hands, at full force). Build record: PACKET-NAHUM.md, LEDGER-NAHUM.md, CHECK-REPORT-NAHUM.md, and OPEN-SEATS-NAHUM.md in the desk's working folder (.tools/fresh-nahum/). The book stands as DRAFT — NOT PUBLISHED.
 
 Draft history — 25 October 2026. Nahum chapters 1–3 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Nahum 1
 
-1 A revelation about Nineveh. The book of the vision of Nahum the Elkoshite.
-
-2 Yahweh is a jealous God and avenges. Yahweh avenges and is full of wrath. Yahweh takes vengeance on his adversaries, and he maintains wrath against his enemies.
-
-3 Yahweh is slow to anger, and great in power, and will by no means leave the guilty unpunished. Yahweh has his way in the whirlwind and in the storm, and the clouds are the dust of his feet.
-
-4 He rebukes the sea and makes it dry, and dries up all the rivers. Bashan and Carmel languish. The flower of Lebanon languishes.
-
-5 The mountains quake before him, and the hills melt away. The earth trembles at his presence, yes, the world, and all who dwell in it.
-
+1 The burden of Nineveh. The book of the vision of Nahum the Elkoshite.
+2 Yahweh is a jealous and avenging God. Yahweh avenges and is full of wrath. Yahweh takes vengeance on his adversaries, and he keeps wrath for his enemies.
+3 Yahweh is slow to anger and great in power, and he will by no means leave the guilty unpunished. Yahweh has his way in the whirlwind and in the storm, and the clouds are the dust of his feet.
+4 He rebukes the sea and makes it dry, and dries up all the rivers. Bashan and Carmel languish, and the flower of Lebanon languishes.
+5 The mountains quake before him, and the hills melt away. The earth heaves at his presence, the world, and all who dwell in it.
 6 Who can stand before his indignation? Who can endure the fierceness of his anger? His wrath is poured out like fire, and the rocks are broken apart by him.
-
 7 Yahweh is good, a stronghold in the day of trouble; and he knows those who take refuge in him.
-
-8 But with an overflowing flood, he will make a full end of her place, and will pursue his enemies into darkness.
-
-9 What do you plot against Yahweh? He will make a full end. Affliction won’t rise up the second time.
-
-10 For entangled like thorns, and drunken as with their drink, they are consumed utterly like dry stubble.
-
-11 One has gone out of you who devises evil against Yahweh, who counsels wickedness.
-
-12 Yahweh says: “Though they are in full strength and likewise many, even so they will be cut down and pass away. Though I have afflicted you, I will afflict you no more.
-
-13 Now I will break his yoke from off you, and will burst your bonds apart.”
-
-14 Yahweh has commanded concerning you: “No more descendants will bear your name. Out of the house of your gods, I will cut off the engraved image and the molten image. I will make your grave, for you are vile.”
-
-15 See, on the mountains the feet of him who brings good news, who publishes peace! Keep your feasts, Judah! Perform your vows, for the wicked one will no more pass through you. He is utterly cut off.
+8 But with an overflowing flood he will make a complete end of her place, and he will pursue his enemies into darkness.
+9 What do you devise against Yahweh? He will make a complete end. Affliction will not rise up a second time.
+10 For, entangled like thorns and drunken with their drink, they are consumed like fully dry stubble.
+11 Out of you has come one who devises evil against Yahweh, who counsels wickedness.
+12 Thus says Yahweh: Though they are in full strength and likewise many, even so they will be cut down and pass away. Though I have afflicted you, I will afflict you no more.
+13 Now I will break his yoke from off you, and I will tear your bonds apart.
+14 Yahweh has commanded concerning you: Your name will no longer be sown. From the house of your gods I will cut off the carved image and the molten image. I will make your grave, for you are worthless.
 
 Nahum 2
 
-1 He who dashes in pieces has come up against you. Keep the fortress! Watch the way! Strengthen your waist! Fortify your power mightily!
-
-2 For Yahweh restores the excellency of Jacob as the excellency of Israel, for the destroyers have destroyed them and ruined their vine branches.
-
-3 The shield of his mighty men is made red. The valiant men are in scarlet. The chariots flash with steel in the day of his preparation, and the pine spears are brandished.
-
-4 The chariots rage in the streets. They rush back and forth in the wide ways. Their appearance is like torches. They run like the lightnings.
-
-5 He summons his picked troops. They stumble on their way. They dash to its wall, and the protective shield is put in place.
-
-6 The gates of the rivers are opened, and the palace is dissolved.
-
-7 It is decreed: she is uncovered, she is carried away; and her servants moan as with the voice of doves, beating on their breasts.
-
-8 But Nineveh has been from of old like a pool of water, yet they flee away. “Stop! Stop!” they cry, but no one looks back.
-
-9 Take the plunder of silver. Take the plunder of gold, for there is no end of treasure, an abundance of every precious thing.
-
-10 She is empty, void, and waste. The heart melts, the knees knock together, their bodies and faces have grown pale.
-
-11 Where is the den of the lions, and the feeding place of the young lions, where the lion and the lioness walked with the lion’s cubs, and no one made them afraid?
-
-12 The lion tore in pieces enough for his cubs, and strangled prey for his lionesses, and filled his caves with the kill and his dens with prey.
-
-13 “See, I am against you,” says Yahweh of Armies, “and I will burn her chariots in the smoke, and the sword will devour your young lions; and I will cut off your prey from the earth, and the voice of your messengers will no longer be heard.”
+1 Behold, on the mountains, the feet of a messenger who proclaims peace! Celebrate your feasts, Judah; fulfill your vows, for the worthless one will never again pass through you. He is utterly cut off.
+2 A scatterer has come up against your face. Guard the stronghold! Watch the road! Strengthen your loins! Muster your strength with all your might!
+3 For Yahweh is restoring the splendor of Jacob, like the splendor of Israel, for plunderers have plundered them and ruined their vine branches.
+4 The shield of his warriors is reddened; the valiant men are dressed in scarlet. The chariots flash with fire of steel on the day of his preparation, and the cypress spears are brandished.
+5 The chariots rage madly in the streets; they jostle one another in the squares. Their appearance is like torches; they dart like flashes of lightning.
+6 He summons his mighty ones; they stumble in their march. They hurry to her wall, and the protective shelter is set in place.
+7 The gates of the rivers are opened, and the palace dissolves.
+8 It is decreed: she is stripped and carried away, and her maidservants moan like the voice of doves, beating on their breasts.
+9 Nineveh has been like a pool of water from her earliest days, yet they are fleeing: Stand! Stand! But no one turns back.
+10 Plunder the silver! Plunder the gold! For there is no end to the store, an abundance of every precious thing.
+11 Empty, void, and waste! The heart melts, the knees knock together, anguish is in all loins, and the faces of them all have turned pale.
+12 Where is the den of the lions, the feeding place of the young lions, where the lion and the lioness walked, and the lion's cub, and no one made them afraid?
+13 The lion tore enough for his cubs and strangled prey for his lionesses; he filled his caves with prey and his dens with torn flesh.
+14 Behold, I am against you — the declaration of Yahweh of hosts. I will burn her chariots in smoke, and the sword will devour your young lions. I will cut off your prey from the earth, and the voice of your messengers will no longer be heard.
 
 Nahum 3
 
-1 Woe to the bloody city! It is all full of lies and robbery—no end to the prey.
-
-2 The noise of the whip, the noise of the rattling of wheels, prancing horses, and bounding chariots,
-
-3 the horseman charging, and the flashing sword, the glittering spear, and a multitude of slain, and a great heap of corpses, and there is no end of the bodies. They stumble on their bodies
-
-4 because of the multitude of the prostitution of the alluring prostitute, the mistress of witchcraft, who sells nations through her prostitution, and families through her witchcraft.
-
-5 “See, I am against you,” says Yahweh of Armies, “and I will lift your skirts over your face. I will show the nations your nakedness, and the kingdoms your shame.
-
-6 I will throw detestable filth on you and make you vile, and will make you a spectacle.
-
-7 It will happen that all those who look at you will flee from you, and say, ‘Nineveh is laid waste! Who will mourn for her?’ Where will I seek comforters for you?”
-
-8 Are you better than No-Amon, who was situated among the rivers, who had the waters around her, whose rampart was the sea, and her wall was of the sea?
-
-9 Cush and Egypt were her boundless strength. Put and Libya were her helpers.
-
-10 Yet was she carried away. She went into captivity. Her young children also were dashed in pieces at the head of all the streets, and they cast lots for her honorable men, and all her great men were bound in chains.
-
-11 You also will be drunken. You will be hidden. You also will seek a stronghold because of the enemy.
-
-12 All your fortresses will be like fig trees with the first-ripe figs. If they are shaken, they fall into the mouth of the eater.
-
-13 See, your troops among you are women. The gates of your land are set wide open to your enemies. The fire has devoured your bars.
-
-14 Draw water for the siege. Strengthen your fortresses. Go into the clay, and tread the mortar. Make the brick kiln strong.
-
-15 There the fire will devour you. The sword will cut you off. It will devour you like the grasshopper. Multiply like grasshoppers. Multiply like the locust.
-
-16 You have increased your merchants more than the stars of the skies. The grasshopper strips and flees away.
-
-17 Your guards are like the locusts, and your officials like the swarms of locusts, which settle on the walls on a cold day, but when the sun appears, they flee away, and their place is not known where they are.
-
-18 Your shepherds slumber, king of Assyria. Your nobles lie down. Your people are scattered on the mountains, and there is no one to gather them.
-
-19 There is no healing your wound, for your injury is fatal. All who hear the report of you clap their hands over you, for who hasn’t felt your endless cruelty?
+1 Woe to the bloody city! She is wholly full of lies and plunder; the prey never departs.
+2 The sound of the whip, the sound of the rattling of the wheels, galloping horses, and bounding chariots!
+3 Charging horsemen, the flashing sword and the glittering spear, a multitude of slain and a mass of corpses, and there is no end to the bodies; they stumble over their bodies.
+4 Because of the countless harlotries of the prostitute, lovely in grace, a mistress of sorceries, who sells nations through her harlotries and families through her sorceries.
+5 Behold, I am against you — the declaration of Yahweh of hosts. I will lift your skirts over your face, and I will show the nations your nakedness and the kingdoms your shame.
+6 I will throw detestable filth on you and make you vile, and I will set you up as a spectacle.
+7 All who see you will flee from you and say: Nineveh is laid waste. Who will grieve for her? Where shall I seek comforters for you?
+8 Are you better than No-Amon, who was situated among the rivers, who had the waters around her, whose rampart was the sea, and her wall was from the sea?
+9 Cush and Egypt were her strength, without limit. Put and Libya were her helpers.
+10 Yet she too went into exile; she went into captivity. Her young children also were dashed in pieces at the head of every street, and they cast lots for her honored men, and all her great men were bound in chains.
+11 You also will be drunk; you will be hidden. You also will seek a stronghold because of the enemy.
+12 All your fortresses are like fig trees with the first-ripe figs: if they are shaken, they fall into the mouth of the eater.
+13 Behold, your people within you are women. The gates of your land are set wide open to your enemies; fire has devoured your bars.
+14 Draw water for the siege! Strengthen your fortresses! Go into the clay and tread the mortar; take hold of the brick mold!
+15 There the fire will devour you; the sword will cut you off; it will devour you like the locust. Make yourself many like the locust; make yourself many like the locust swarm.
+16 You have multiplied your merchants more than the stars of the sky. The locust strips off and flies away.
+17 Your crowned ones are like the locusts, and your officials are like swarms of locusts, which settle on the walls on a cold day; but when the sun rises they flee away, and their place is not known, where they are.
+18 Your shepherds slumber, king of Assyria; your nobles lie down to rest. Your people are scattered on the mountains, and there is no one to gather them.
+19 There is no relief for your fracture; your wound is grievous. All who hear the report of you clap their hands over you, for on whom has your evil not passed, continually?
 
 Clear English Bible — Habakkuk (Chapters 1–3): A Clear English Translation
 
