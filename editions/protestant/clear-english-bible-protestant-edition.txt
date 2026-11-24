@@ -2,7 +2,7 @@ Clear English Bible — Protestant Edition
 
 This volume gathers the 66 protocanonical books of the Clear English Bible corpus into one file, in their canonical order: 1,191 chapters in all, counting the books in the fuller forms described below. It is given freely to any reader who wants it.
 
-What this is, stated plainly. With seven exceptions, this is not a fresh translation made directly from the Hebrew, Aramaic, and Greek: it is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). The exceptions are the Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and the books of Isaiah, Jeremiah, Psalms, Zechariah, Amos, and Malachi, which are fresh translations made directly from the Hebrew, the Masoretic text of the Westminster Leningrad Codex (the Torah verified letter by letter against the Mechon Mamre edition; Isaiah, Jeremiah, Psalms, Zechariah, Amos, and Malachi verified consonant by consonant against the Miqra according to the Masorah), inserted on 23 November 2026 under the editor's rulings that the Old Testament of this Bible rests on the Hebrew. The rest of the Old Testament still stands on the WEB Classic base, pending the further books of the fresh translation, which will replace it book by book as they are completed; the New Testament stands on its Greek. The record of that translation — every difference from the text it replaced, with the Hebrew ground for each, and every place where the Hebrew bears two readings — is kept in the translation's build records, which are named in this repository's CORRECTIONS.md, for any reader who seeks them. Every remaining book was prepared from the WEB Classic base and then internally checked against it, verse by verse and chapter by chapter, so that nothing was added, dropped, or drifted in the modernizing. The campaign's rulings were applied to the corpus and verified after application. The internal checking certifies fidelity to the stated base, and nothing more.
+What this is, stated plainly. With eight exceptions, this is not a fresh translation made directly from the Hebrew, Aramaic, and Greek: it is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). The exceptions are the Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and the books of Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, and Hosea, which are fresh translations made directly from the Hebrew, the Masoretic text of the Westminster Leningrad Codex (the Torah verified letter by letter against the Mechon Mamre edition; Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, and Hosea verified consonant by consonant against the Miqra according to the Masorah), inserted on 23 November 2026 under the editor's rulings that the Old Testament of this Bible rests on the Hebrew. The rest of the Old Testament still stands on the WEB Classic base, pending the further books of the fresh translation, which will replace it book by book as they are completed; the New Testament stands on its Greek. The record of that translation — every difference from the text it replaced, with the Hebrew ground for each, and every place where the Hebrew bears two readings — is kept in the translation's build records, which are named in this repository's CORRECTIONS.md, for any reader who seeks them. Every remaining book was prepared from the WEB Classic base and then internally checked against it, verse by verse and chapter by chapter, so that nothing was added, dropped, or drifted in the modernizing. The campaign's rulings were applied to the corpus and verified after application. The internal checking certifies fidelity to the stated base, and nothing more.
 
 Disclosure. This work was prepared with AI assistance. The editor is Robert Tilford of Hays, Kansas: he set the rules, directed the work, and ruled the questions reserved for him. The assisting instrument is Awen (Muse AI, by Meta), working under his direction. No endorsement by Meta is claimed.
 
@@ -12,7 +12,7 @@ How this edition was drawn. It is extracted from the same checked corpus as the 
 
 How this volume was assembled. The books below are the packaged reader files of the corpus, set one after another in their canonical order; no book's wording has been altered in the assembling. Each book keeps its own header exactly as it was packaged, under the working name "Clear English Bible" that the books were prepared under; the name "Clear Translation Bible" belongs to this shelf, and the books' own pages were not re-lettered to match it.
 
-COMPLETE — This edition of the Clear English Bible is complete. Except for the Torah, Isaiah, Jeremiah, Psalms, Zechariah, Amos, and Malachi, this is a clear-English modernization made from the World English Bible Classic (public domain) as its base text, and is not a fresh translation made directly from the Hebrew, Aramaic, and Greek. The Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and Isaiah, Jeremiah, Psalms, Zechariah, Amos, and Malachi are fresh translations made directly from the Masoretic Hebrew, inserted on 23 November 2026 under the editor's rulings. This text was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This edition of the Clear English Bible is complete. Except for the Torah, Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, and Hosea, this is a clear-English modernization made from the World English Bible Classic (public domain) as its base text, and is not a fresh translation made directly from the Hebrew, Aramaic, and Greek. The Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, and Hosea are fresh translations made directly from the Masoretic Hebrew, inserted on 23 November 2026 under the editor's rulings. This text was prepared with AI assistance. Robert Tilford is the editor.
 
 Draft history — 25 October 2026. This edition formerly stated that the work was drafted and internally checked; not finished, and not published. It said that the editor's read-through was still to come and that his rulings on the reserved questions would be applied in a later pass, by dated record, before any edition was offered as final, and it asked readers to read the drafts as careful work, honestly labeled, still in the editor's hands. The rulings were applied and verified at Gate B, and this completion label was substituted in the final handling under Ruling 20; the former wording remains in the repository history.
 
@@ -48629,846 +48629,433 @@ Bel and the Dragon
 
 Clear English Bible — Hosea (Chapters 1–14): A Clear English Translation
 
-COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a fresh translation made directly from the Hebrew: the Masoretic text of the Westminster Leningrad Codex, verified consonant by consonant against the Miqra according to the Masorah (the Sefaria edition). It was inserted into this edition on 23 November 2026, under the editor's Fresh Tanakh commission ruling of the same date and its authorization-forward rule, replacing the clear-English modernization of the World English Bible Classic that stood here before. This text was prepared with AI assistance. Robert Tilford is the editor.
 
 Draft history — 25 October 2026. Hosea chapters 1–14 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
+Insertion record — 23 November 2026. The text of Hosea in this file was replaced by the fresh translation from the Hebrew described above (14 chapters, 197 verses in the Masoretic numbering), inserted under the editor's Fresh Tanakh commission ruling of 23 November 2026 and its authorization-forward rule, by which finished book drafts in this lane advance into the editions without a separate word for each book. The verses are reseated from the English division to the Masoretic division: the verses that stood as 1:10–11 now stand as 2:1–2 at the head of chapter 2, the verse that stood as 11:12 now stands as 12:1, and the verse that stood as 13:16 now stands as 14:1. The translation was built in two passes (chapters 1–7 and 8–14), each independently checked against the Hebrew: both passes passed clean, with no errors found. The divine name stands as "Yahweh" at all 46 of its seats in this book — the count established from both Masoretic witnesses, whose per-verse tallies agree at every verse. The text it replaced stands in the repository history. The differences between the two texts, each with its Hebrew ground stated, and the 41 places where the Hebrew bears two readings and the seat stands open, are recorded in the translation's build records (PACKET-HOSEA.md, LEDGER-HOSEA.md, OPEN-SEATS-HOSEA.md, CHECK-REPORT-HOSEA.md, kept with the desk's fresh-hosea working papers).
+
 Hosea 1
 
-The Book of Hosea
+1 The word of Yahweh that came to Hosea son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam son of Joash, king of Israel.
 
-1 Yahweh’s word that came to Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
+2 When Yahweh first spoke through Hosea, Yahweh said to Hosea: Go, take for yourself a wife of prostitution and children of prostitution, for the land commits great prostitution, turning away from Yahweh.
 
-2 When Yahweh spoke at first by Hosea, Yahweh said to Hosea, “Go, take for yourself a wife of prostitution and children of unfaithfulness; for the land commits great adultery, forsaking Yahweh.”
+3 So he went and took Gomer daughter of Diblaim, and she conceived and bore him a son.
 
-3 So he went and took Gomer the daughter of Diblaim; and she conceived, and bore him a son.
+4 Yahweh said to him: Call his name Jezreel, for in a little while I will punish the house of Jehu for the blood of Jezreel, and I will bring the kingdom of the house of Israel to an end.
 
-4 Yahweh said to him, “Call his name Jezreel, for yet a little while, and I will avenge the blood of Jezreel on the house of Jehu, and will cause the kingdom of the house of Israel to cease.
+5 On that day I will break the bow of Israel in the valley of Jezreel.
 
-5 It will happen in that day that I will break the bow of Israel in the valley of Jezreel.”
+6 She conceived again and bore a daughter. He said to him: Call her name Lo-Ruhamah, for I will no longer have compassion on the house of Israel, that I should pardon them at all.
 
-6 She conceived again, and bore a daughter. Then he said to him, “Call her name Lo-Ruhamah, for I will no longer have mercy on the house of Israel, that I should in any way pardon them.
+7 But I will have compassion on the house of Judah, and I will save them by Yahweh their God; I will not save them by bow, or by sword, or by battle, or by horses, or by horsemen.
 
-7 But I will have mercy on the house of Judah, and will save them by Yahweh their God, and will not save them by bow, sword, battle, horses, or horsemen.”
+8 When she had weaned Lo-Ruhamah, she conceived and bore a son.
 
-8 Now when she had weaned Lo-Ruhamah, she conceived, and bore a son.
-
-9 He said, “Call his name Lo-Ammi, for you are not my people, and I will not be yours.
-
-10 Yet the number of the children of Israel will be as the sand of the sea, which can’t be measured or counted; and it will come to pass that, in the place where it was said to them, ‘You are not my people,’ they will be called ‘sons of the living God.’
-
-11 The children of Judah and the children of Israel will be gathered together, and they will appoint themselves one head, and will go up from the land; for great will be the day of Jezreel.
+9 He said: Call his name Lo-Ammi, for you are not my people, and I will not be yours.
 
 Hosea 2
 
-1 “Say to your brothers, ‘My people!’
-  and to your sisters, ‘My loved one!’
+1 The number of the children of Israel will be like the sand of the sea, which cannot be measured or counted; and in the place where it was said to them: You are not my people, it will be said to them: Children of the living God.
 
-2 Contend with your mother!
-  Contend, for she is not my wife,
-  neither am I her husband;
-and let her put away her prostitution from her face,
-  and her adulteries from between her breasts;
+2 The children of Judah and the children of Israel will be gathered together, and they will appoint one head for themselves, and they will go up from the land, for great is the day of Jezreel.
 
-3 lest I strip her naked,
-  and make her bare as in the day that she was born,
-and make her like a wilderness,
-  and set her like a dry land,
-  and kill her with thirst.
+3 Say to your brothers: Ammi, and to your sisters: Ruhamah.
 
-4 Indeed, on her children I will have no mercy,
-  for they are children of unfaithfulness.
+4 Plead with your mother, plead, for she is not my wife and I am not her husband. Let her put away her prostitution from her face and her adultery from between her breasts,
 
-5 For their mother has played the prostitute.
-  She who conceived them has done shamefully;
-for she said, ‘I will go after my lovers,
-  who give me my bread and my water,
-  my wool and my flax,
-  my oil and my drink.’
+5 lest I strip her naked and set her out as on the day she was born, and make her like a wilderness, and set her like a dry land, and kill her with thirst.
 
-6 Therefore see, I will hedge up your way with thorns,
-  and I will build a wall against her,
-  that she can’t find her way.
+6 I will have no compassion on her children, for they are children of prostitution.
 
-7 She will follow after her lovers,
-  but she won’t overtake them;
-and she will seek them,
-  but won’t find them.
-Then she will say, ‘I will go and return to my first husband,
-  for then it was better with me than now.’
+7 For their mother has played the prostitute; she who conceived them has acted shamefully, for she said: I will go after my lovers, who give me my bread and my water, my wool and my flax, my oil and my drink.
 
-8 For she didn’t know that I gave her the grain, the new wine, and the oil,
-  and multiplied to her silver and gold, which they used for Baal.
+8 Therefore I will hedge up her way with thorns, and I will wall her in, so that she cannot find her paths.
 
-9 Therefore I will take back my grain in its time,
-  and my new wine in its season,
-  and will pluck away my wool and my flax which should have covered her nakedness.
+9 She will pursue her lovers but not overtake them; she will seek them but not find them. Then she will say: I will go and return to my first husband, for it was better for me then than now.
 
-10 Now I will uncover her lewdness in the sight of her lovers,
-  and no one will deliver her out of my hand.
+10 She did not know that it was I who gave her the grain, the new wine, and the oil, and multiplied silver for her, and gold, which they used for Baal.
 
-11 I will also cause all her celebrations to cease:
-  her feasts, her new moons, her Sabbaths, and all her solemn assemblies.
+11 Therefore I will take back my grain in its time and my new wine in its season, and I will snatch away my wool and my flax, which were to cover her nakedness.
 
-12 I will lay waste her vines and her fig trees,
-  about which she has said, ‘These are my wages that my lovers have given me,’
-  and I will make them a forest,
-  and the animals of the field will eat them.
+12 Now I will uncover her shame in the sight of her lovers, and no one will rescue her from my hand.
 
-13 I will visit on her the days of the Baals,
-  to which she burned incense
-when she decked herself with her earrings and her jewels,
-  and went after her lovers
-  and forgot me,” says Yahweh.
+13 I will bring all her joy to an end: her feasts, her new moons, her Sabbaths, and all her appointed festivals.
 
-14 “Therefore see, I will allure her,
-  and bring her into the wilderness,
-  and speak tenderly to her.
+14 I will lay waste her vines and her fig trees, of which she said: These are my hire, which my lovers have given me. I will make them a forest, and the animals of the field will eat them.
 
-15 I will give her vineyards from there,
-  and the valley of Achor for a door of hope;
-and she will respond there
-  as in the days of her youth,
-  and as in the day when she came up out of the land of Egypt.
+15 I will punish her for the days of the Baals, when she burned incense to them and adorned herself with her earrings and her jewels and went after her lovers and forgot me, declares Yahweh.
 
-16 It will be in that day,” says Yahweh,
-  “that you will call me ‘my husband,’
-  and no longer call me ‘my master.’
+16 Therefore I will allure her, and bring her into the wilderness, and speak to her heart.
 
-17 For I will take away the names of the Baals out of her mouth,
-  and they will no longer be mentioned by name.
+17 I will give her her vineyards from there, and the Valley of Achor as a door of hope. She will respond there as in the days of her youth, as on the day when she came up out of the land of Egypt.
 
-18 In that day I will make a covenant for them with the animals of the field,
-  and with the birds of the sky,
-  and with the creeping things of the ground.
-I will break the bow, the sword, and the battle out of the land,
-  and will make them lie down safely.
+18 On that day, declares Yahweh, you will call me my husband, and you will no longer call me my Baal.
 
-19 I will betroth you to me forever.
-  Yes, I will betroth you to me in righteousness, in justice, in loving kindness, and in compassion.
+19 I will remove the names of the Baals from her mouth, and they will no longer be remembered by their name.
 
-20 I will even betroth you to me in faithfulness;
-  and you will know Yahweh.
+20 On that day I will make a covenant for them with the animals of the field, with the birds of the sky, and with the creeping things of the ground; and I will break bow and sword and war from the land, and I will make them lie down in safety.
 
-21 It will happen in that day, that I will respond,” says Yahweh.
-  “I will respond to the heavens,
-  and they will respond to the earth;
+21 I will betroth you to me forever; I will betroth you to me in righteousness and in justice, in loyal love and in compassion.
 
-  22 and the earth will respond to the grain, and the new wine, and the oil;
-  and they will respond to Jezreel.
+22 I will betroth you to me in faithfulness, and you will know Yahweh.
 
-23 I will sow her to me in the earth;
-  and I will have mercy on her who had not obtained mercy;
-  and I will tell those who were not my people, ‘You are my people;’
-  and they will say, ‘You are My God!’ ”
+23 On that day I will respond, declares Yahweh; I will respond to the heavens, and they will respond to the earth,
+
+24 and the earth will respond to the grain, the new wine, and the oil, and they will respond to Jezreel.
+
+25 I will sow her for myself in the land, and I will have compassion on Lo-Ruhamah, and I will say to Lo-Ammi: You are my people, and he will say: My God.
 
 Hosea 3
 
-1 Yahweh said to me, “Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods, and love cakes of raisins.”
+1 Yahweh said to me: Go again, love a woman who is loved by a companion and is an adulteress, just as Yahweh loves the children of Israel, though they turn to other gods and love raisin cakes.
 
-2 So I bought her for myself for fifteen pieces of silver and a homer and a half of barley.
+2 So I bought her for myself for fifteen pieces of silver, and a homer of barley and a lethech of barley.
 
-3 I said to her, “You must stay with me many days. You must not play the prostitute, and you must not be with any other man. I will also be so toward you.”
+3 I said to her: You will stay with me many days; you will not play the prostitute, and you will not belong to a man, and I also will be the same toward you.
 
-4 For the children of Israel will live many days without king, without prince, without sacrifice, without sacred stone, and without ephod or idols.
+4 For the children of Israel will stay many days without king and without prince, without sacrifice and without sacred pillar, without ephod and household gods.
 
-5 Afterward the children of Israel will return and seek Yahweh their God, and David their king, and will come with trembling to Yahweh and to his blessings in the last days.
+5 Afterward the children of Israel will return and seek Yahweh their God and David their king, and they will come trembling to Yahweh and to his goodness in the last days.
 
 Hosea 4
 
-1 Hear Yahweh’s word, you children of Israel,
-  for Yahweh has a charge against the inhabitants of the land:
-“Indeed there is no truth, nor goodness,
-  nor knowledge of God in the land.
+1 Hear the word of Yahweh, children of Israel, for Yahweh has a case against the inhabitants of the land, because there is no truth and no loyal love and no knowledge of God in the land.
 
-2 There is cursing, lying, murder, stealing, and committing adultery;
-  they break boundaries, and bloodshed causes bloodshed.
+2 Swearing and lying, murder and stealing and adultery: they break out, and bloodshed follows bloodshed.
 
-3 Therefore the land will mourn,
-  and everyone who dwells in it will waste away,
-with all living things in her,
-  even the animals of the field and the birds of the sky;
-  yes, the fish of the sea also die.
+3 Therefore the land mourns, and everyone who lives in it languishes, together with the animals of the field and the birds of the sky; even the fish of the sea are taken away.
 
-4 “Yet let no man bring a charge, neither let any man accuse;
-  for your people are like those who bring charges against a priest.
+4 Yet let no one bring a charge, and let no one accuse, for your people are like those who bring a charge against a priest.
 
-5 You will stumble in the day,
-  and the prophet will also stumble with you in the night;
-  and I will destroy your mother.
+5 You will stumble by day, and the prophet will also stumble with you by night, and I will destroy your mother.
 
-6 My people are destroyed for lack of knowledge.
-  Because you have rejected knowledge, I will also reject you,
-  that you may be no priest to me.
-Because you have forgotten your God’s law,
-  I will also forget your children.
+6 My people are destroyed for lack of knowledge. Because you have rejected knowledge, I will reject you from being a priest to me; and because you have forgotten the teaching of your God, I also will forget your children.
 
-7 As they were multiplied, so they sinned against me.
-  I will change their glory into shame.
+7 The more they increased, the more they sinned against me; I will change their glory into shame.
 
-8 They feed on the sin of my people,
-  and set their heart on their sin.
+8 They feed on the sin of my people, and they set their heart on their iniquity.
 
-9 It will be like people, like priest;
-  and I will punish them for their ways,
-  and will repay them for their deeds.
+9 It will be like people, like priest; I will punish him for his ways and repay him for his deeds.
 
-10 They will eat, and not have enough.
-  They will play the prostitute, and will not increase;
-  because they have abandoned listening to Yahweh.
+10 They will eat and not be satisfied; they will play the prostitute and not increase, because they have stopped taking heed of Yahweh.
 
-11 Prostitution, wine, and new wine take away understanding.
+11 Prostitution, wine, and new wine take away the heart.
 
-  12 My people consult with their wooden idol,
-  and answer to a stick of wood.
-Indeed the spirit of prostitution has led them astray,
-  and they have been unfaithful to their God.
+12 My people consult their wood, and their staff declares to them, for a spirit of prostitution has led them astray, and they play the prostitute away from their God.
 
-13 They sacrifice on the tops of the mountains,
-  and burn incense on the hills, under oaks, poplars, and terebinths,
-  because its shade is good.
-Therefore your daughters play the prostitute,
-  and your brides commit adultery.
+13 They sacrifice on the tops of the mountains and burn incense on the hills, under oak, poplar, and terebinth, because their shade is good. Therefore your daughters play the prostitute and your daughters-in-law commit adultery.
 
-14 I will not punish your daughters when they play the prostitute,
-  nor your brides when they commit adultery;
-because the men consort with prostitutes,
-  and they sacrifice with the shrine prostitutes;
-  so the people without understanding will come to ruin.
+14 I will not punish your daughters when they play the prostitute, or your daughters-in-law when they commit adultery, for the men themselves go aside with prostitutes and sacrifice with the sacred prostitutes, and a people without understanding comes to ruin.
 
-15 “Though you, Israel, play the prostitute,
-  yet don’t let Judah offend;
-  and don’t come to Gilgal,
-  neither go up to Beth Aven,
-  nor swear, ‘As Yahweh lives.’
+15 Though you, Israel, play the prostitute, do not let Judah become guilty. Do not come to Gilgal, do not go up to Beth Aven, and do not swear: As Yahweh lives.
 
-16 For Israel has behaved extremely stubbornly, like a stubborn heifer.
-  Then how will Yahweh feed them like a lamb in a meadow?
+16 For Israel is stubborn like a stubborn heifer; now will Yahweh feed them like a lamb in a wide pasture?
 
-17 Ephraim is joined to idols.
-  Leave him alone!
+17 Ephraim is joined to idols; leave him alone.
 
-18 Their drink has become sour.
-  They play the prostitute continually.
-  Her rulers dearly love their shameful way.
+18 Their drink is sour; they continually play the prostitute; her rulers deeply love shame.
 
-19 The wind has wrapped her up in its wings;
-  and they will be disappointed because of their sacrifices.
+19 The wind has wrapped her in its wings, and they will be ashamed because of their sacrifices.
 
 Hosea 5
 
-1 “Listen to this, you priests!
-  Listen, house of Israel,
-  and give ear, house of the king!
-For the judgment is against you;
-  for you have been a snare at Mizpah,
-  and a net spread on Tabor.
+1 Hear this, priests, and listen, house of Israel, and give ear, house of the king, for the judgment is for you, because you have been a snare at Mizpah and a net spread on Tabor.
 
-2 The rebels are deep in slaughter,
-  but I discipline all of them.
+2 The rebels have dug deep in slaughter, but I will discipline all of them.
 
-3 I know Ephraim,
-  and Israel is not hidden from me;
-for now, Ephraim, you have played the prostitute.
-  Israel is defiled.
+3 I know Ephraim, and Israel is not hidden from me, for now you, Ephraim, have played the prostitute; Israel is defiled.
 
-4 Their deeds won’t allow them to turn to their God,
-  for the spirit of prostitution is within them,
-  and they don’t know Yahweh.
+4 Their deeds do not allow them to return to their God, for a spirit of prostitution is within them, and they do not know Yahweh.
 
-5 The pride of Israel testifies to his face.
-  Therefore Israel and Ephraim will stumble in their sin.
-  Judah also will stumble with them.
+5 The pride of Israel testifies to his face; Israel and Ephraim will stumble in their iniquity; Judah also will stumble with them.
 
-6 They will go with their flocks and with their herds to seek Yahweh,
-  but they won’t find him.
-  He has withdrawn himself from them.
+6 With their flocks and their herds they will go to seek Yahweh, but they will not find him; he has withdrawn from them.
 
-7 They are unfaithful to Yahweh;
-  for they have borne illegitimate children.
-  Now the new moon will devour them with their fields.
+7 They have dealt treacherously against Yahweh, for they have borne foreign children. Now the new moon will devour them together with their portions.
 
-8 “Blow the horn in Gibeah,
-  and the trumpet in Ramah!
-  Sound a battle cry at Beth Aven, behind you, Benjamin!
+8 Blow the horn in Gibeah, the trumpet in Ramah; sound the alarm at Beth Aven: Behind you, Benjamin!
 
-9 Ephraim will become a desolation in the day of rebuke.
-  Among the tribes of Israel, I have made known that which will surely be.
+9 Ephraim will become a desolation on the day of rebuke; among the tribes of Israel I have made known what is sure.
 
-10 The princes of Judah are like those who remove a landmark.
-  I will pour out my wrath on them like water.
+10 The princes of Judah have become like those who move a boundary; I will pour out my wrath on them like water.
 
-11 Ephraim is oppressed,
-  he is crushed in judgment,
-  because he is intent in his pursuit of idols.
+11 Ephraim is oppressed, crushed in judgment, because he was determined to go after filth.
 
-12 Therefore I am to Ephraim like a moth,
-  and to the house of Judah like rottenness.
+12 I am like a moth to Ephraim and like rottenness to the house of Judah.
 
-13 “When Ephraim saw his sickness,
-  and Judah his wound,
-  then Ephraim went to Assyria,
-  and sent to King Jareb:
-but he is not able to heal you,
-  neither will he cure you of your wound.
+13 When Ephraim saw his sickness and Judah his wound, Ephraim went to Assyria and sent to King Jareb, but he cannot heal you, and he will not cure you of your wound.
 
-14 For I will be to Ephraim like a lion,
-  and like a young lion to the house of Judah.
-I myself will tear in pieces and go away.
-  I will carry off, and there will be no one to deliver.
+14 For I am like a lion to Ephraim and like a young lion to the house of Judah. I, I myself, will tear and go away; I will carry off, and there will be no one to rescue.
 
-15 I will go and return to my place,
-  until they acknowledge their offense,
-  and seek my face.
-  In their affliction they will seek me earnestly.”
+15 I will go and return to my place until they acknowledge their guilt and seek my face; in their distress they will seek me eagerly.
 
 Hosea 6
 
-1 “Come! Let’s return to Yahweh;
-  for he has torn us to pieces,
-  and he will heal us;
-he has injured us,
-  and he will bind up our wounds.
+1 Come, let us return to Yahweh, for he has torn and he will heal us; he has struck and he will bind us up.
 
-2 After two days he will revive us.
-  On the third day he will raise us up,
-  and we will live before him.
+2 After two days he will revive us; on the third day he will raise us up, and we will live before him.
 
-3 Let’s acknowledge Yahweh.
-  Let’s press on to know Yahweh.
-As surely as the sun rises,
-  Yahweh will appear.
-He will come to us like the rain,
-  like the spring rain that waters the earth.”
+3 Let us know, let us press on to know Yahweh. His going forth is as sure as the dawn; he will come to us like the rain, like the spring rain that waters the earth.
 
-4 “Ephraim, what shall I do to you?
-  Judah, what shall I do to you?
-  For your love is like a morning cloud,
-  and like the dew that disappears early.
+4 What shall I do with you, Ephraim? What shall I do with you, Judah? Your loyal love is like a morning cloud and like the dew that goes away early.
 
-5 Therefore I have cut them to pieces with the prophets;
-  I killed them with the words of my mouth.
-  Your judgments are like a flash of lightning.
+5 Therefore I have hewn them by the prophets; I have killed them by the words of my mouth, and your judgments go forth like the light.
 
-6 For I desire mercy, and not sacrifice;
-  and the knowledge of God more than burnt offerings.
+6 For I desire loyal love and not sacrifice, and the knowledge of God rather than burnt offerings.
 
-7 But they, like Adam, have broken the covenant.
-  They were unfaithful to me there.
+7 But they, like Adam, have transgressed the covenant; there they dealt treacherously against me.
 
-8 Gilead is a city of those who work sin;
-  it is stained with blood.
+8 Gilead is a city of evildoers, tracked with blood.
 
-9 As gangs of robbers wait to ambush a man,
-  so the company of priests murder on the path toward Shechem,
-  committing shameful crimes.
+9 As robbers lie in wait for a man, so the company of priests murder on the way to Shechem; indeed, they commit a shameful crime.
 
-10 In the house of Israel I have seen a horrible thing.
-  There is prostitution in Ephraim.
-  Israel is defiled.
+10 In the house of Israel I have seen a horrible thing; there prostitution is in Ephraim; Israel is defiled.
 
-11 “Also, Judah, there is a harvest appointed for you,
-  when I restore the fortunes of my people.
+11 Also for you, Judah, a harvest is appointed, when I restore the fortunes of my people.
 
 Hosea 7
 
-1 When I would heal Israel,
-  then the sin of Ephraim is uncovered,
-  also the wickedness of Samaria;
-  for they commit falsehood,
-  and the thief enters in,
-  and the gang of robbers ravages outside.
+1 When I would heal Israel, the iniquity of Ephraim is uncovered and the evils of Samaria, for they practice falsehood; the thief enters, and a band of robbers raids outside.
 
-2 They don’t consider in their hearts that I remember all their wickedness.
-  Now their own deeds have engulfed them.
-  They are before my face.
+2 They do not say to their heart that I remember all their evil. Now their deeds surround them; they are before my face.
 
-3 They make the king glad with their wickedness,
-  and the princes with their lies.
+3 With their evil they make the king glad, and with their lies the princes.
 
-4 They are all adulterers.
-  They are burning like an oven that the baker stops stirring,
-  from the kneading of the dough, until it is leavened.
+4 They are all adulterers, like an oven heated by the baker, who stops stirring from the kneading of the dough until it is leavened.
 
-5 On the day of our king, the princes made themselves sick with the heat of wine.
-  He joined his hand with mockers.
+5 On the day of our king, the princes became sick with the heat of wine; he stretched out his hand with mockers.
 
-6 For they have prepared their heart like an oven,
-  while they lie in wait.
-  Their anger smolders all night.
-  In the morning it burns as a flaming fire.
+6 For they draw their heart near like an oven in their plotting; all night their baker sleeps; in the morning it burns like a flaming fire.
 
-7 They are all hot as an oven,
-  and devour their judges.
-All their kings have fallen.
-  There is no one among them who calls to me.
+7 All of them are hot like an oven, and they devour their judges; all their kings have fallen; there is none among them who calls to me.
 
-8 Ephraim mixes himself among the nations.
-  Ephraim is a pancake not turned over.
+8 Ephraim mixes himself among the peoples; Ephraim is a cake not turned.
 
-9 Strangers have devoured his strength,
-  and he doesn’t realize it.
-Indeed, gray hairs are here and there on him,
-  and he doesn’t realize it.
+9 Strangers have devoured his strength, and he does not know it; gray hairs are sprinkled on him, and he does not know it.
 
-10 The pride of Israel testifies to his face;
-  yet they haven’t returned to Yahweh their God,
-  nor sought him, for all this.
+10 The pride of Israel testifies to his face, but they have not returned to Yahweh their God, nor sought him, for all this.
 
-11 “Ephraim is like an easily deceived dove, without understanding.
-  They call to Egypt.
-  They go to Assyria.
+11 Ephraim has become like a dove, easily deceived, without heart; they call to Egypt, they go to Assyria.
 
-12 When they go, I will spread my net on them.
-  I will bring them down like the birds of the sky.
-  I will chastise them, as their congregation has heard.
+12 As they go, I will spread my net over them; I will bring them down like the birds of the sky; I will discipline them, as their congregation has heard.
 
-13 Woe to them!
-  For they have wandered from me.
-Destruction to them!
-  For they have trespassed against me.
-Though I would redeem them,
-  yet they have spoken lies against me.
+13 Woe to them, for they have strayed from me; destruction to them, for they have rebelled against me. I would redeem them, but they have spoken lies against me.
 
-14 They haven’t cried to me with their heart,
-  but they howl on their beds.
-They assemble themselves for grain and new wine.
-  They turn away from me.
+14 They have not cried to me with their heart, though they wail on their beds; for grain and new wine they assemble; they turn away from me.
 
-15 Though I have taught and strengthened their arms,
-  yet they plot evil against me.
+15 I disciplined them and strengthened their arms, but they devise evil against me.
 
-16 They return, but not to the Most High.
-  They are like a faulty bow.
-  Their princes will fall by the sword for the rage of their tongue.
-  This will be their derision in the land of Egypt.
+16 They return, but not upward; they have become like a treacherous bow. Their princes will fall by the sword because of the rage of their tongue; this is their derision in the land of Egypt.
 
 Hosea 8
 
-1 “Put the trumpet to your lips!
-  Something like an eagle is over Yahweh’s house,
-  because they have broken my covenant
-  and rebelled against my law.
+1 Put a trumpet to your lips. Like an eagle over the house of Yahweh, because they have broken my covenant and rebelled against my law.
 
-2 They cry to me, ‘My God, we, Israel, acknowledge you!’
+2 They cry to me: My God, we know you, Israel.
 
-  3 Israel has cast off that which is good.
-  The enemy will pursue him.
+3 Israel has rejected what is good; the enemy will pursue him.
 
-4 They have set up kings, but not by me.
-  They have made princes, and I didn’t approve.
-  Of their silver and their gold they have made themselves idols,
-  that they may be cut off.
+4 They set up kings, but not by me; they made princes without my knowledge. From their silver and their gold they made idols for themselves, so that they would be cut off.
 
-5 Let Samaria throw out his calf idol!
-  My anger burns against them!
-  How long will it be until they are capable of purity?
+5 Your calf, Samaria, is cast off; my anger burns against them. How long will they be unable to attain purity?
 
-6 For this is even from Israel!
-  The workman made it, and it is no God;
-  indeed, the calf of Samaria will be broken in pieces.
+6 For it is from Israel; a craftsman made it, and it is not God. The calf of Samaria will be broken to pieces.
 
-7 For they sow the wind,
-  and they will reap the whirlwind.
-He has no standing grain.
-  The stalk will yield no head.
-  If it does yield, strangers will swallow it up.
+7 For they sow wind and will reap the whirlwind. There is no standing grain; the sprout will yield no flour. If it yields any, strangers will swallow it up.
 
-8 Israel is swallowed up.
-  Now they are among the nations like a worthless thing.
+8 Israel is swallowed up; now they are among the nations like a vessel no one values.
 
-9 For they have gone up to Assyria,
-  like a wild donkey wandering alone.
-  Ephraim has hired lovers for himself.
+9 For they have gone up to Assyria, like a wild donkey wandering alone. Ephraim has hired lovers.
 
-10 But although they sold themselves among the nations,
-  I will now gather them;
-  and they begin to waste away because of the oppression of the king of mighty ones.
+10 Though they hire among the nations, now I will gather them, and they will begin to waste away under the burden of king and princes.
 
-11 Because Ephraim has multiplied altars for sinning,
-  they became for him altars for sinning.
+11 Ephraim has multiplied altars to sin; they have become altars to sin for him.
 
-12 I wrote for him the many things of my law,
-  but they were regarded as a strange thing.
+12 I wrote for him the many things of my law, but they were regarded as a strange thing.
 
-13 As for the sacrifices of my offerings,
-  they sacrifice meat and eat it,
-  but Yahweh doesn’t accept them.
-Now he will remember their sin,
-  and punish their sins.
-  They will return to Egypt.
+13 They sacrifice flesh as my gift-offerings and eat it, but Yahweh does not accept them. Now he will remember their iniquity and punish their sins; they will return to Egypt.
 
-14 For Israel has forgotten his Maker and built palaces;
-  and Judah has multiplied fortified cities;
-  but I will send a fire on his cities,
-  and it will devour its fortresses.”
+14 Israel has forgotten his Maker and built palaces, and Judah has multiplied fortified cities; but I will send fire on his cities, and it will devour its palaces.
 
 Hosea 9
 
-1 Don’t rejoice, Israel, to jubilation like the nations;
-  for you were unfaithful to your God.
-  You love the wages of a prostitute at every grain threshing floor.
+1 Do not rejoice, Israel, with exultation like the peoples, for you have prostituted yourself, forsaking your God; you have loved a prostitute's wages on every threshing floor of grain.
 
-2 The threshing floor and the wine press won’t feed them,
-  and the new wine will fail her.
+2 The threshing floor and the winepress will not feed them, and the new wine will fail her.
 
-3 They won’t dwell in Yahweh’s land;
-  but Ephraim will return to Egypt,
-  and they will eat unclean food in Assyria.
+3 They will not dwell in the land of Yahweh; Ephraim will return to Egypt, and in Assyria they will eat unclean food.
 
-4 They won’t pour out wine offerings to Yahweh,
-  neither will they be pleasing to him.
-  Their sacrifices will be to them like the bread of mourners;
-  all who eat of it will be polluted;
-  for their bread will be for their appetite.
-  It will not come into Yahweh’s house.
+4 They will not pour out wine to Yahweh, and their sacrifices will not please him. Their sacrifices will be like the bread of mourners to them; all who eat of it will be defiled, for their bread is only for their appetite; it will not come into the house of Yahweh.
 
-5 What will you do in the day of solemn assembly,
-  and in the day of the feast of Yahweh?
+5 What will you do on the day of the appointed feast, and on the day of the feast of Yahweh?
 
-6 For, see, when they flee destruction,
-  Egypt will gather them up.
-  Memphis will bury them.
-  Nettles will possess their pleasant things of silver.
-  Thorns will be in their tents.
+6 For see, they have fled from destruction; Egypt will gather them, Memphis will bury them. Nettles will possess their treasured things of silver; thorns will be in their tents.
 
-7 The days of visitation have come.
-  The days of reckoning have come.
-Israel will consider the prophet to be a fool,
-  and the man who is inspired to be insane,
-  because of the abundance of your sins,
-  and because your hostility is great.
+7 The days of punishment have come; the days of recompense have come; Israel will know it. The prophet is a fool; the man of the spirit is mad, because of your great iniquity and great hostility.
 
-8 A prophet watches over Ephraim with my God.
-  A fowler’s snare is on all of his paths,
-  and hostility in the house of his God.
+8 Ephraim is a watchman with my God; as for the prophet, a fowler's snare is on all his ways, and hostility in the house of his God.
 
-9 They have deeply corrupted themselves,
-  as in the days of Gibeah.
-  He will remember their sin.
-  He will punish them for their sins.
+9 They have deeply corrupted themselves, as in the days of Gibeah. He will remember their iniquity; he will punish their sins.
 
-10 I found Israel like grapes in the wilderness.
-  I saw your fathers as the first ripe in the fig tree at its first season;
-  but they came to Baal Peor, and consecrated themselves to the shameful thing,
-  and became detestable like that which they loved.
+10 I found Israel like grapes in the wilderness; I saw your fathers as the first fruit on the fig tree in its first season. But they came to Baal Peor and consecrated themselves to the shameful thing, and became detestable like the thing they loved.
 
-11 As for Ephraim, their glory will fly away like a bird.
-  There will be no birth, no one with child, and no conception.
+11 Ephraim's glory will fly away like a bird: no birth, no one with child, no conception.
 
-12 Though they bring up their children,
-  yet I will bereave them, so that not a man will be left.
-  Indeed, woe also to them when I depart from them!
+12 Even if they raise their children, I will bereave them until no one is left. Indeed, woe to them when I depart from them.
 
-13 I have seen Ephraim, like Tyre, planted in a pleasant place;
-  but Ephraim will bring out his children to the murderer.
+13 Ephraim, as I have seen, is like Tyre planted in a meadow; but Ephraim will bring his children out to the slayer.
 
-14 Give them—Yahweh what will you give?
-  Give them a miscarrying womb and dry breasts.
+14 Give them, Yahweh — what will you give? Give them a womb that miscarries and dry breasts.
 
-15 “All their wickedness is in Gilgal;
-  for there I hated them.
-  Because of the wickedness of their deeds, I will drive them out of my house!
-  I will love them no more.
-  All their princes are rebels.
+15 All their wickedness is in Gilgal, for there I came to hate them. Because of the wickedness of their deeds I will drive them out of my house; I will love them no more. All their princes are rebels.
 
-16 Ephraim is struck.
-  Their root has dried up.
-  They will bear no fruit.
-  Even though they give birth, yet I will kill the beloved ones of their womb.”
+16 Ephraim is struck; their root has dried up; they will bear no fruit. Even if they bear children, I will kill the beloved offspring of their womb.
 
-17 My God will cast them away, because they didn’t listen to him;
-  and they will be wanderers among the nations.
+17 My God will reject them, because they did not listen to him, and they will be wanderers among the nations.
 
 Hosea 10
 
-1 Israel is a luxuriant vine that produces his fruit.
-  According to the abundance of his fruit he has multiplied his altars.
-  As their land has prospered, they have adorned their sacred stones.
+1 Israel is a luxuriant vine that yields its fruit. The more his fruit increased, the more altars he built; the better his land, the better they made their pillars.
 
-2 Their heart is divided.
-  Now they will be found guilty.
-  He will demolish their altars.
-  He will destroy their sacred stones.
+2 Their heart is divided; now they will bear their guilt. He will break down their altars; he will destroy their pillars.
 
-3 Surely now they will say, “We have no king; for we don’t fear Yahweh;
-  and the king, what can he do for us?”
+3 For now they will say: We have no king, for we did not fear Yahweh; and the king, what can he do for us?
 
-4 They make promises, swearing falsely in making covenants.
-  Therefore judgment springs up like poisonous weeds in the furrows of the field.
+4 They speak mere words, swearing falsely and making a covenant; so judgment springs up like a poisonous plant in the furrows of the field.
 
-5 The inhabitants of Samaria will be in terror for the calves of Beth Aven,
-  for its people will mourn over it,
-  along with its priests who rejoiced over it,
-  for its glory, because it has departed from it.
+5 The inhabitants of Samaria fear for the calves of Beth Aven; its people mourn over it, and its priests tremble over it, over its glory, because it has gone into exile from them.
 
-6 It also will be carried to Assyria for a present to a great king.
-  Ephraim will receive shame,
-  and Israel will be ashamed of his own counsel.
+6 It too will be carried to Assyria as a present to King Jareb. Ephraim will receive shame, and Israel will be ashamed of his counsel.
 
-7 Samaria and her king float away
-  like a twig on the water.
+7 Samaria's king is cut off, like foam on the surface of the water.
 
-8 The high places also of Aven, the sin of Israel, will be destroyed.
-  The thorn and the thistle will come up on their altars.
-  They will tell the mountains, “Cover us!” and the hills, “Fall on us!”
+8 The high places of Aven, the sin of Israel, will be destroyed. Thorn and thistle will come up on their altars, and they will say to the mountains: Cover us, and to the hills: Fall on us.
 
-9 “Israel, you have sinned from the days of Gibeah.
-  There they remained.
-  The battle against the children of sin doesn’t overtake them in Gibeah.
+9 From the days of Gibeah you have sinned, Israel. There they stood; battle in Gibeah against the sons of iniquity will not overtake them.
 
-10 When it is my desire, I will chastise them;
-  and the nations will be gathered against them
-  when they are bound to their two transgressions.
+10 When I desire, I will discipline them, and peoples will be gathered against them when they are bound for their two iniquities.
 
-11 Ephraim is a trained heifer that loves to thresh,
-  so I will put a yoke on her beautiful neck.
-  I will set a rider on Ephraim.
-  Judah will plow.
-  Jacob will break his clods.
+11 Ephraim is a trained heifer that loves to thresh, but I spared her fair neck. I will set a rider on Ephraim; Judah will plow; Jacob will break the clods for himself.
 
-12 Sow to yourselves in righteousness,
-  reap according to kindness.
-Break up your fallow ground,
-  for it is time to seek Yahweh,
-  until he comes and rains righteousness on you.
+12 Sow for yourselves in righteousness; reap according to loyal love. Break up your fallow ground, for it is time to seek Yahweh, until he comes and rains righteousness on you.
 
-13 You have plowed wickedness.
-  You have reaped sin.
-  You have eaten the fruit of lies,
-  for you trusted in your way, in the multitude of your mighty men.
+13 You have plowed wickedness, reaped injustice, and eaten the fruit of lies, because you trusted in your way, in the multitude of your warriors.
 
-14 Therefore a battle roar will arise among your people,
-  and all your fortresses will be destroyed,
-  as Shalman destroyed Beth Arbel in the day of battle.
-  The mother was dashed in pieces with her children.
+14 A tumult will arise among your people, and all your fortresses will be destroyed, as Shalman destroyed Beth Arbel on the day of battle, when a mother was dashed in pieces together with her children.
 
-15 So Bethel will do to you because of your great wickedness.
-  At daybreak the king of Israel will be destroyed.
+15 So Bethel has done to you because of your great wickedness. At dawn the king of Israel will be utterly cut off.
 
 Hosea 11
 
-1 “When Israel was a child, then I loved him,
-  and called my son out of Egypt.
+1 When Israel was a child, I loved him, and out of Egypt I called my son.
 
-2 They called to them, so they went from them.
-  They sacrificed to the Baals,
-  and burned incense to engraved images.
+2 They called them, and so they went away from them; they sacrificed to the Baals and made offerings to carved images.
 
-3 Yet I taught Ephraim to walk.
-  I took them by their arms,
-  but they didn’t know that I healed them.
+3 Yet I taught Ephraim to walk, taking them by their arms, but they did not know that I healed them.
 
-4 I drew them with cords of a man, with ties of love;
-  and I was to them like those who lift up the yoke on their necks;
-  and I bent down to him and I fed him.
+4 I drew them with cords of a man, with bands of love, and I was to them like those who lift the yoke from their jaws, and I bent down to him and fed him.
 
-5 “They won’t return into the land of Egypt;
-  but the Assyrian will be their king,
-  because they refused to repent.
+5 He will not return to the land of Egypt, but Assyria will be his king, because they refused to return.
 
-6 The sword will fall on their cities,
-  and will destroy the bars of their gates,
-  and will put an end to their plans.
+6 The sword will fall on his cities, destroy his bars, and devour them, because of their own counsels.
 
-7 My people are determined to turn from me.
-  Though they call to the Most High,
-  he certainly won’t exalt them.
+7 My people are determined to turn from me. Though they call to the Most High, he will not exalt them at all.
 
-8 “How can I give you up, Ephraim?
-  How can I hand you over, Israel?
-  How can I make you like Admah?
-  How can I make you like Zeboiim?
-My heart is turned within me,
-  my compassion is aroused.
+8 How can I give you up, Ephraim? How can I hand you over, Israel? How can I make you like Admah? How can I treat you like Zeboiim? My heart is turned over within me; my compassions are kindled together.
 
-9 I will not execute the fierceness of my anger.
-  I will not return to destroy Ephraim,
-  for I am God, and not man—the Holy One among you.
-  I will not come in wrath.
+9 I will not act on the fierceness of my anger; I will not return to destroy Ephraim, for I am God and not a man, the Holy One in your midst, and I will not come in wrath.
 
-10 They will walk after Yahweh,
-  who will roar like a lion;
-  for he will roar, and the children will come trembling from the west.
+10 They will walk after Yahweh; he will roar like a lion, for when he roars, children will come trembling from the west.
 
-11 They will come trembling like a bird out of Egypt,
-  and like a dove out of the land of Assyria;
-and I will settle them in their houses,” says Yahweh.
-
-12 Ephraim surrounds me with falsehood,
-  and the house of Israel with deceit.
-  Judah still strays from God,
-  and is unfaithful to the Holy One.
+11 They will come trembling like a bird from Egypt and like a dove from the land of Assyria, and I will settle them in their homes, declares Yahweh.
 
 Hosea 12
 
-1 Ephraim feeds on wind,
-  and chases the east wind.
-  He continually multiplies lies and desolation.
-  They make a covenant with Assyria,
-  and oil is carried into Egypt.
+1 Ephraim has surrounded me with lies, and the house of Israel with deceit; and Judah is still wayward toward God, and toward the Holy One, who is faithful.
 
-2 Yahweh also has a controversy with Judah,
-  and will punish Jacob according to his ways;
-  according to his deeds he will repay him.
+2 Ephraim feeds on wind and pursues the east wind; all day he multiplies lies and violence. They make a covenant with Assyria, and oil is carried to Egypt.
 
-3 In the womb he took his brother by the heel,
-  and in his manhood he contended with God.
+3 Yahweh has a dispute with Judah, and he will punish Jacob according to his ways; he will repay him according to his deeds.
 
-4 Indeed, he struggled with the angel, and prevailed;
-  he wept, and pleaded with him.
-  He found him at Bethel, and there he spoke with us—
+4 In the womb he grasped his brother's heel, and in his strength he strove with God.
 
-  5 even Yahweh, the God of Armies.
-  Yahweh is his name of renown!
+5 He strove with the angel and prevailed; he wept and sought his favor. He will find him at Bethel, and there he will speak with us.
 
-6 Therefore turn to your God.
-  Keep kindness and justice,
-  and wait continually for your God.
+6 Yahweh is the God of hosts; Yahweh is his memorial.
 
-7 A merchant has dishonest scales in his hand.
-  He loves to defraud.
+7 And you, return to your God; keep loyal love and justice, and wait for your God continually.
 
-8 Ephraim said, “Surely I have become rich.
-  I have found myself wealth.
-  In all my wealth they won’t find in me any iniquity that is sin.”
+8 The trader has scales of deceit in his hand; he loves to oppress.
 
-9 “But I am Yahweh your God from the land of Egypt.
-  I will yet again make you dwell in tents,
-  as in the days of the solemn feast.
+9 Ephraim said: Surely I have become rich; I have found wealth for myself. In all my labors they will find in me no iniquity that is sin.
 
-10 I have also spoken to the prophets,
-  and I have multiplied visions;
-  and by the ministry of the prophets I have used parables.
+10 But I am Yahweh your God from the land of Egypt; I will again make you dwell in tents, as in the days of the appointed feast.
 
-11 If Gilead is wicked,
-  surely they are worthless.
-In Gilgal they sacrifice bulls.
-  Indeed, their altars are like heaps in the furrows of the field.
+11 I spoke to the prophets, and I multiplied visions, and through the prophets I gave parables.
 
-12 Jacob fled into the country of Aram.
-  Israel served to get a wife.
-  For a wife he tended flocks and herds.
+12 If Gilead is iniquity, they have become sheer emptiness; in Gilgal they sacrifice bulls; indeed their altars are like stone heaps on the furrows of the field.
 
-13 By a prophet Yahweh brought Israel up out of Egypt,
-  and by a prophet he was preserved.
+13 Jacob fled to the field of Aram, and Israel served for a wife, and for a wife he kept sheep.
 
-14 Ephraim has bitterly provoked anger.
-  Therefore his blood will be left on him,
-  and his Lord will repay his contempt.
+14 By a prophet Yahweh brought Israel up from Egypt, and by a prophet he was kept.
+
+15 Ephraim has provoked bitter anger; his bloodshed will be left on him, and his Lord will repay him his reproach.
 
 Hosea 13
 
-1 When Ephraim spoke, there was trembling.
-  He exalted himself in Israel,
-  but when he became guilty through Baal, he died.
+1 When Ephraim spoke, there was trembling; he was exalted in Israel, but he became guilty through Baal and died.
 
-2 Now they sin more and more,
-  and have made themselves molten images of their silver,
-  even idols according to their own understanding,
-  all of them the work of the craftsmen.
-  They say of them, ‘They offer human sacrifice and kiss the calves.’
+2 Now they continue to sin and make for themselves a molten image from their silver, idols according to their own understanding, all of it the work of craftsmen. Of them they say: Those who sacrifice human beings kiss calves.
 
-3 Therefore they will be like the morning mist,
-  like the dew that passes away early,
-  like the chaff that is driven with the whirlwind out of the threshing floor,
-  and like the smoke out of the chimney.
+3 Therefore they will be like the morning cloud and like the dew that goes away early, like chaff driven by a whirlwind from the threshing floor, and like smoke from a window.
 
-4 “Yet I am Yahweh your God from the land of Egypt;
-  and you must acknowledge no god but me,
-  and besides me there is no savior.
+4 But I am Yahweh your God from the land of Egypt; you shall know no god besides me, and there is no savior apart from me.
 
-5 I knew you in the wilderness,
-  in the land of great drought.
+5 I knew you in the wilderness, in a land of burning drought.
 
-6 According to their pasture, so were they filled;
-  they were filled, and their heart was exalted.
-  Therefore they have forgotten me.
+6 When they were pastured, they were satisfied; they were satisfied, and their heart was lifted up; therefore they forgot me.
 
-7 Therefore I am like a lion to them.
-  Like a leopard, I will lurk by the path.
+7 So I have become to them like a lion; like a leopard I will watch beside the way.
 
-8 I will meet them like a bear that is bereaved of her cubs,
-  and will tear the covering of their heart.
-  There I will devour them like a lioness.
-  The wild animal will tear them.
+8 I will meet them like a bear bereaved of her cubs and tear open the enclosure of their heart; there I will devour them like a lion; the wild beast of the field will tear them to pieces.
 
-9 You are destroyed, Israel, because you are against me,
-  against your helper.
+9 You are destroyed, Israel, because you are against me, against your helper.
 
-10 Where is your king now, that he may save you in all your cities?
-  And your judges, of whom you said, ‘Give me a king and princes’?
+10 Where is your king now, that he may save you in all your cities, and your judges, of whom you said: Give me a king and princes?
 
-11 I have given you a king in my anger,
-  and have taken him away in my wrath.
+11 I gave you a king in my anger, and I took him away in my wrath.
 
-12 The guilt of Ephraim is stored up.
-  His sin is stored up.
+12 Ephraim's iniquity is bound up; his sin is stored away.
 
-13 The sorrows of a travailing woman will come on him.
-  He is an unwise son,
-  for when it is time, he doesn’t come to the opening of the womb.
+13 The pains of a woman in labor will come upon him. He is an unwise son, for when the time comes, he does not stand at the place where children break forth.
 
-14 I will ransom them from the power of Sheol.
-  I will redeem them from death!
-  Death, where are your plagues?
-  Sheol, where is your destruction?
-“Compassion will be hidden from my eyes.
+14 I will ransom them from the power of Sheol; I will redeem them from death. Death, where are your plagues? Sheol, where is your destruction? Compassion will be hidden from my eyes.
 
-  15 Though he is fruitful among his brothers, an east wind will come,
-  the breath of Yahweh coming up from the wilderness;
-  and his spring will become dry,
-  and his fountain will be dried up.
-  He will plunder the storehouse of treasure.
-
-16 Samaria will bear her guilt,
-  for she has rebelled against her God.
-  They will fall by the sword.
-  Their infants will be dashed in pieces,
-  and their pregnant women will be ripped open.”
+15 Though he is fruitful among brothers, an east wind will come, the wind of Yahweh rising from the wilderness, and his spring will dry up and his fountain will be parched. He will plunder the treasury of every precious vessel.
 
 Hosea 14
 
-1 Israel, return to Yahweh your God;
-  for you have fallen because of your sin.
+1 Samaria will bear her guilt, for she has rebelled against her God. They will fall by the sword; their infants will be dashed in pieces, and their pregnant women will be ripped open.
 
-2 Take words with you, and return to Yahweh.
-  Tell him, “Forgive all our sins,
-  and accept that which is good;
-  so we offer bulls as we vowed of our lips.
+2 Return, Israel, to Yahweh your God, for you have stumbled in your iniquity.
 
-3 Assyria can’t save us.
-  We won’t ride on horses;
-  neither will we say any more to the work of our hands, ‘Our gods!’
-  for in you the fatherless finds mercy.”
+3 Take words with you and return to Yahweh. Say to him: Forgive all iniquity and receive what is good; then we will render as bulls the offering of our lips.
 
-4 “I will heal their waywardness.
-  I will love them freely;
-  for my anger is turned away from them.
+4 Assyria will not save us; we will not ride on horses, and we will no longer say to the work of our hands: Our gods, for in you the fatherless finds compassion.
 
-5 I will be like the dew to Israel.
-  He will blossom like the lily,
-  and send down his roots like Lebanon.
+5 I will heal their turning away; I will love them freely, for my anger has turned away from him.
 
-6 His branches will spread,
-  and his beauty will be like the olive tree,
-  and his fragrance like Lebanon.
+6 I will be like the dew to Israel; he will blossom like the lily and strike his roots like Lebanon.
 
-7 Men will dwell in his shade.
-  They will revive like the grain,
-  and blossom like the vine.
-  Their fragrance will be like the wine of Lebanon.
+7 His shoots will spread out, and his splendor will be like the olive tree, and his fragrance like Lebanon.
 
-8 Ephraim, what have I to do any more with idols?
-  I answer, and will take care of him.
-  I am like a green cypress tree;
-  from me your fruit is found.”
+8 They who dwell in his shadow will return and revive grain and blossom like the vine; his renown will be like the wine of Lebanon.
 
-9 Who is wise, that he may understand these things?
-  Who is prudent, that he may know them?
-  For the ways of Yahweh are right,
-  and the righteous walk in them,
-  but the rebellious stumble in them.
+9 Ephraim, what have I to do with idols any more? I have answered him and I watch over him. I am like a luxuriant cypress; from me your fruit is found.
+
+10 Who is wise, let him understand these things; who is discerning, let him know them. For the ways of Yahweh are right, and the righteous walk in them, but transgressors stumble in them.
 
 Clear English Bible — Joel (Chapters 1–3): A Clear English Translation
 
