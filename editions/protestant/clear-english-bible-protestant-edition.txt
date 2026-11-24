@@ -2,7 +2,7 @@ Clear English Bible — Protestant Edition
 
 This volume gathers the 66 protocanonical books of the Clear English Bible corpus into one file, in their canonical order: 1,191 chapters in all, counting the books in the fuller forms described below. It is given freely to any reader who wants it.
 
-What this is, stated plainly. With twelve exceptions, this is not a fresh translation made directly from the Hebrew, Aramaic, and Greek: it is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). The exceptions are the Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and the books of Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, Micah, and Nahum, which are fresh translations made directly from the Hebrew, the Masoretic text of the Westminster Leningrad Codex (the Torah verified letter by letter against the Mechon Mamre edition; Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, Micah, and Nahum verified consonant by consonant against the Miqra according to the Masorah), inserted on 23 November 2026 under the editor's rulings that the Old Testament of this Bible rests on the Hebrew. The rest of the Old Testament still stands on the WEB Classic base, pending the further books of the fresh translation, which will replace it book by book as they are completed; the New Testament stands on its Greek. The record of that translation — every difference from the text it replaced, with the Hebrew ground for each, and every place where the Hebrew bears two readings — is kept in the translation's build records, which are named in this repository's CORRECTIONS.md, for any reader who seeks them. Every remaining book was prepared from the WEB Classic base and then internally checked against it, verse by verse and chapter by chapter, so that nothing was added, dropped, or drifted in the modernizing. The campaign's rulings were applied to the corpus and verified after application. The internal checking certifies fidelity to the stated base, and nothing more.
+What this is, stated plainly. With thirteen exceptions, this is not a fresh translation made directly from the Hebrew, Aramaic, and Greek: it is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). The exceptions are the Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and the books of Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, Micah, Nahum, and Habakkuk, which are fresh translations made directly from the Hebrew, the Masoretic text of the Westminster Leningrad Codex (the Torah verified letter by letter against the Mechon Mamre edition; Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, Micah, Nahum, and Habakkuk verified consonant by consonant against the Miqra according to the Masorah), inserted on 23 November 2026 under the editor's rulings that the Old Testament of this Bible rests on the Hebrew. The rest of the Old Testament still stands on the WEB Classic base, pending the further books of the fresh translation, which will replace it book by book as they are completed; the New Testament stands on its Greek. The record of that translation — every difference from the text it replaced, with the Hebrew ground for each, and every place where the Hebrew bears two readings — is kept in the translation's build records, which are named in this repository's CORRECTIONS.md, for any reader who seeks them. Every remaining book was prepared from the WEB Classic base and then internally checked against it, verse by verse and chapter by chapter, so that nothing was added, dropped, or drifted in the modernizing. The campaign's rulings were applied to the corpus and verified after application. The internal checking certifies fidelity to the stated base, and nothing more.
 
 Disclosure. This work was prepared with AI assistance. The editor is Robert Tilford of Hays, Kansas: he set the rules, directed the work, and ruled the questions reserved for him. The assisting instrument is Awen (Muse AI, by Meta), working under his direction. No endorsement by Meta is claimed.
 
@@ -12,7 +12,7 @@ How this edition was drawn. It is extracted from the same checked corpus as the 
 
 How this volume was assembled. The books below are the packaged reader files of the corpus, set one after another in their canonical order; no book's wording has been altered in the assembling. Each book keeps its own header exactly as it was packaged, under the working name "Clear English Bible" that the books were prepared under; the name "Clear Translation Bible" belongs to this shelf, and the books' own pages were not re-lettered to match it.
 
-COMPLETE — This edition of the Clear English Bible is complete. Except for the Torah, Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, Micah, and Nahum, this is a clear-English modernization made from the World English Bible Classic (public domain) as its base text, and is not a fresh translation made directly from the Hebrew, Aramaic, and Greek. The Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, Micah, and Nahum are fresh translations made directly from the Masoretic Hebrew, inserted on 23 November 2026 under the editor's rulings. This text was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This edition of the Clear English Bible is complete. Except for the Torah, Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, Micah, Nahum, and Habakkuk, this is a clear-English modernization made from the World English Bible Classic (public domain) as its base text, and is not a fresh translation made directly from the Hebrew, Aramaic, and Greek. The Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, Micah, Nahum, and Habakkuk are fresh translations made directly from the Masoretic Hebrew, inserted on 23 November 2026 under the editor's rulings. This text was prepared with AI assistance. Robert Tilford is the editor.
 
 Draft history — 25 October 2026. This edition formerly stated that the work was drafted and internally checked; not finished, and not published. It said that the editor's read-through was still to come and that his rulings on the reserved questions would be applied in a later pass, by dated record, before any edition was offered as final, and it asked readers to read the drafts as careful work, honestly labeled, still in the editor's hands. The rulings were applied and verified at Gate B, and this completion label was substituted in the final handling under Ruling 20; the former wording remains in the repository history.
 
@@ -49915,177 +49915,76 @@ Nahum 3
 
 Clear English Bible — Habakkuk (Chapters 1–3): A Clear English Translation
 
-COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+This completes the Masoretic book of Habakkuk in this edition. The remaining books of the Old Testament stand in this edition as a clear-English modernization of the World English Bible (WEB) Classic text named in the front matter, except the books the front matter names as fresh translations made directly from the Hebrew; the New Testament stands on the Greek text named there. The book as printed here stands as DRAFT — NOT PUBLISHED.
+
+Insertion record — 23 November 2026. The Masoretic chapters of Habakkuk (3 chapters, 56 verses) were inserted as a fresh translation made directly from the Masoretic Hebrew under Robert Tilford's Fresh Tanakh commission ruling of 23 November 2026 and its authorization-forward amendment, confirmed the same day, replacing the earlier WEB-based text of those chapters. The Masoretic and English numberings are identical for this book, so the block keeps its bounds exactly — no reseat was needed, and the block header is unchanged. The translation was built in two reviser passes (Masoretic chapters 1–2; chapter 3) from the Masoretic text as it stands in the Westminster Leningrad Codex and Sefaria's Miqra according to the Masorah — the two witnesses consonant-exact in 53 of the book's 56 verses, the three divergences classified in the build record (two ketiv/qere presentation, at 2:2 and 3:14; one spelling only, at 2:5) — with JPS 1917 as the open control of record. Two independent checker passes that did not build the text read the draft against the Hebrew line and both controls: chapter 3 passed with zero errors; chapters 1–2 yielded one error, at 2:7, where the draft had reassigned the awakening from the shakers to the shaken man against the Hebrew — corrected with the checker's exact replacement text and re-verified by count before insertion. The divine name יהוה stands 13 times in the book — no banked benchmark existed, so the count was established from both witnesses before the build; the two witnesses agree at every verse — and prints "Yahweh" at every seat; no standalone יהּ seat stands in Habakkuk. The difference ledger records 51 of the book's 56 verses as differing materially from the seated text or the open control, and 27 open seats stand recorded. The directed seats stand as the commission named them: 1:12 (the received Masoretic לא נמות, "we shall not die", printed as it stands, the tiqqun-sopherim tradition of "you shall not die" recorded in the open seats and not printed); 1:13 (the theodicy question at full force); 2:4 ("the righteous shall live by his faithfulness"); 2:14 ("the earth will be filled with the knowledge of the glory of Yahweh, as the waters cover the sea"); 2:20 ("Yahweh is in his holy temple; let all the earth keep silence before him"); 3:2 ("in wrath remember mercy"); and 3:19 (אדני יהוה printed as it stands, "The Lord Yahweh is my strength", the name the scaffold had lost restored). Build record: PACKET-HABAKKUK.md, LEDGER-HABAKKUK.md, CHECK-REPORT-HABAKKUK.md, and OPEN-SEATS-HABAKKUK.md in the desk's working folder (.tools/fresh-habakkuk/). The book stands as DRAFT — NOT PUBLISHED.
 
 Draft history — 25 October 2026. Habakkuk chapters 1–3 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Habakkuk 1
 
-1 The revelation which Habakkuk the prophet saw.
-
-2 Yahweh, how long will I cry, and you will not hear? I cry out to you “Violence!” and will you not save?
-
-3 Why do you show me sin, and look at perversity? For destruction and violence are before me. There is strife, and contention rises up.
-
-4 Therefore the law is paralyzed, and justice never prevails; for the wicked surround the righteous; therefore justice comes out perverted.
-
-5 “Look among the nations, watch, and wonder marvelously; for I am working a work in your days which you will not believe though it is told you.
-
-6 For, see, I am raising up the Chaldeans, that bitter and hasty nation who march through the width of the earth, to possess dwelling places that are not theirs.
-
-7 They are feared and dreaded. Their judgment and their dignity proceed from themselves.
-
-8 Their horses also are swifter than leopards, and are more fierce than the evening wolves. Their horsemen press proudly on. Yes, their horsemen come from afar. They fly as an eagle that hurries to devour.
-
-9 All of them come for violence. Their hordes face forward. They gather prisoners like sand.
-
-10 Yes, they scoff at kings, and princes are a derision to them. They laugh at every stronghold, for they build up an earthen ramp and take it.
-
-11 Then they sweep by like the wind and go on. They are indeed guilty, whose strength is their god.”
-
-12 Aren’t you from everlasting, Yahweh my God, my Holy One? We will not die. Yahweh, you have appointed them for judgment. You, Rock, have established him to punish.
-
-13 You who have purer eyes than to see evil, and who cannot look on perversity, why do you tolerate those who deal treacherously and keep silent when the wicked swallows up the man who is more righteous than he,
-
-14 and make men like the fish of the sea, like the creeping things that have no ruler over them?
-
-15 He takes up all of them with the hook. He catches them in his net and gathers them in his dragnet. Therefore he rejoices and is glad.
-
-16 Therefore he sacrifices to his net and burns incense to his dragnet, because by them his life is luxurious and his food is good.
-
-17 Will he therefore continually empty his net, and kill the nations without mercy?
+1 The burden which Habakkuk the prophet saw.
+2 How long, Yahweh, will I cry out, and you will not hear? I cry out to you: Violence! and you will not save.
+3 Why do you show me iniquity and look on trouble? Destruction and violence are before me; strife is there, and contention rises up.
+4 Therefore the law is paralyzed, and justice never goes forth; for the wicked surround the righteous; therefore justice goes forth perverted.
+5 Look among the nations and watch, and be utterly amazed; for I am working a work in your days that you will not believe, though it is told.
+6 For see, I am raising up the Chaldeans, that bitter and hasty nation, who march through the breadth of the earth to possess dwelling places that are not theirs.
+7 They are dreadful and fearsome; their judgment and their dignity proceed from themselves.
+8 Their horses are swifter than leopards and fiercer than the evening wolves. Their horsemen gallop onward; their horsemen come from far away; they fly like an eagle hastening to devour.
+9 All of them come for violence; their faces are set forward; they gather captives like sand.
+10 They scoff at kings, and rulers are a laughingstock to them. They laugh at every stronghold; they heap up earth and take it.
+11 Then they sweep by like the wind and go on, and are guilty; their strength is their god.
+12 Are you not from everlasting, Yahweh my God, my Holy One? We shall not die. Yahweh, you have appointed him for judgment; you, Rock, have established him for correction.
+13 Your eyes are too pure to look on evil, and you cannot look on trouble. Why do you look on the treacherous and keep silent when the wicked swallows up the one who is more righteous than he?
+14 You make people like the fish of the sea, like the creeping things that have no ruler over them.
+15 He takes up all of them with a hook; he drags them in his net and gathers them in his dragnet; therefore he rejoices and is glad.
+16 Therefore he sacrifices to his net and burns incense to his dragnet, because by them his portion is rich and his food is plentiful.
+17 Will he keep on emptying his net, and continually slaughter nations without mercy?
 
 Habakkuk 2
 
-1 I will stand at my watch and set myself on the ramparts, and will look out to see what he will say to me, and what I will answer concerning my complaint.
-
-2 Yahweh answered me, “Write the vision, and make it plain on tablets, that he who runs may read it.
-
-3 For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it, because it will surely come. It won’t delay.
-
-4 See, his soul is puffed up. It is not upright in him, but the righteous will live by his faith.
-
-5 Yes, moreover, wine is treacherous: an arrogant man who doesn’t stay at home, who enlarges his desire as Sheol; he is like death and can’t be satisfied, but gathers to himself all nations and heaps to himself all peoples.
-
-6 Won’t all these take up a parable against him, and a taunting proverb against him, and say, ‘Woe to him who increases that which is not his, and who enriches himself by extortion! How long?’
-
-7 Won’t your debtors rise up suddenly, and wake up those who make you tremble, and you will be their victim?
-
-8 Because you have plundered many nations, all the remnant of the peoples will plunder you because of men’s blood, and for the violence done to the land, to the city and to all who dwell in it.
-
-9 Woe to him who gets an evil gain for his house, that he may set his nest on high, that he may be delivered from the hand of evil!
-
-10 You have devised shame to your house by cutting off many peoples, and have sinned against your soul.
-
-11 For the stone will cry out of the wall, and the beam out of the woodwork will answer it.
-
-12 Woe to him who builds a town with blood, and establishes a city by sin!
-
-13 See, isn’t it from Yahweh of Armies that the peoples labor for the fire, and the nations weary themselves for vanity?
-
-14 For the earth will be filled with the knowledge of Yahweh’s glory, as the waters cover the sea.
-
-15 “Woe to him who gives his neighbor drink, pouring your inflaming wine until they are drunk, so that you may gaze at their naked bodies!
-
-16 You are filled with shame, and not glory. You will also drink and be exposed! The cup of Yahweh’s right hand will come around to you, and disgrace will cover your glory.
-
-17 For the violence done to Lebanon will overwhelm you, and the destruction of the animals will terrify you, because of men’s blood and for the violence done to the land, to every city and to those who dwell in them.
-
-18 “What value does the engraved image have, that its maker has engraved it; the molten image, even the teacher of lies, that he who fashions its form trusts in it, to make mute idols?
-
-19 Woe to him who says to the wood, ‘Awake!’ or to the mute stone, ‘Arise!’ Will this teach? See, it is overlaid with gold and silver, and there is no breath at all within it.
-
-20 But Yahweh is in his holy temple. Let all the earth be silent before him!”
+1 I will stand at my watchpost and station myself on the rampart; I will look out to see what he will say to me, and what I shall answer concerning my complaint.
+2 Yahweh answered me and said: Write the vision and make it plain on tablets, so that the one who reads it may run.
+3 For the vision is still for the appointed time; it hastens toward the end and will not lie. If it delays, wait for it, for it will surely come; it will not be late.
+4 Behold, his soul is puffed up; it is not upright in him. But the righteous shall live by his faithfulness.
+5 Moreover, wine is treacherous; the arrogant man does not rest. He has enlarged his appetite like Sheol, and like death he is never satisfied; he gathers to himself all the nations and collects to himself all the peoples.
+6 Will not all of these take up a taunt against him and a mocking riddle against him, and say: Woe to him who increases what is not his — how long? — and loads himself down with pledges!
+7 Will not your creditors rise up suddenly, and those who shake you awaken, and you will become plunder for them?
+8 Because you have plundered many nations, all the remnant of the peoples will plunder you, because of human blood and the violence done to the land, to the city and to all who dwell in it.
+9 Woe to him who gains evil gain for his house, to set his nest on high, to be delivered from the hand of evil.
+10 You have devised shame for your house, cutting off many peoples, and you have sinned against your own life.
+11 For the stone will cry out from the wall, and the beam from the woodwork will answer it.
+12 Woe to him who builds a city with blood and establishes a town by injustice.
+13 Behold, is it not from Yahweh of Armies that the peoples labor for the fire, and the nations weary themselves for nothing?
+14 For the earth will be filled with the knowledge of the glory of Yahweh, as the waters cover the sea.
+15 Woe to him who gives his neighbor drink, adding your poison and making him drunk, so that you may gaze on their nakedness.
+16 You are filled with shame instead of glory. Drink, you also, and be exposed; the cup of Yahweh's right hand will turn upon you, and utter disgrace will be upon your glory.
+17 For the violence done to Lebanon will cover you, and the destruction of the animals will terrify you, because of human blood and the violence done to the land, to the city and to all who dwell in it.
+18 What profit is a carved image, that its maker has carved it, or a cast image, a teacher of lies, that the maker of its form trusts in it, to make mute idols?
+19 Woe to him who says to the wood: Awake! and to the silent stone: Arise! Can it teach? Behold, it is overlaid with gold and silver, and there is no breath at all in it.
+20 But Yahweh is in his holy temple; let all the earth keep silence before him.
 
 Habakkuk 3
 
-1 A prayer of Habakkuk, the prophet, set to victorious music.
-
-2 Yahweh, I have heard of your fame.
-  I stand in awe of your deeds, Yahweh.
-Renew your work in the middle of the years.
-  In the middle of the years make it known.
-  In wrath, you remember mercy.
-
-3 God came from Teman,
-  the Holy One from Mount Paran.
-Selah.
-His glory covered the heavens,
-  and his praise filled the earth.
-
-A note on the word "Selah": Selah is a Hebrew word in the psalms whose meaning is no longer certain; it likely marks a pause in the singing.
-
-4 His splendor is like the sunrise.
-  Rays shine from his hand, where his power is hidden.
-
-5 Plague went before him,
-  and pestilence followed his feet.
-
-6 He stood, and shook the earth.
-  He looked, and made the nations tremble.
-  The ancient mountains were crumbled.
-  The age-old hills collapsed.
-  His ways are eternal.
-
-7 I saw the tents of Cushan in affliction.
-  The dwellings of the land of Midian trembled.
-
-8 Was Yahweh displeased with the rivers?
-  Was your anger against the rivers,
-  or your wrath against the sea,
-  that you rode on your horses,
-  on your chariots of salvation?
-
-9 You uncovered your bow.
-  You called for your sworn arrows.
-Selah.
-You split the earth with rivers.
-
-10 The mountains saw you, and were afraid.
-  The storm of waters passed by.
-  The deep roared and lifted up its hands on high.
-
-11 The sun and moon stood still in the sky
-  at the light of your arrows as they went,
-  at the shining of your glittering spear.
-
-12 You marched through the land in wrath.
-  You threshed the nations in anger.
-
-13 You went out for the salvation of your people,
-  for the salvation of your anointed.
-You crushed the head of the land of wickedness.
-  You stripped them head to foot.
-Selah.
-
-14 You pierced the heads of his warriors with their own spears.
-  They came as a whirlwind to scatter me,
-  gloating as if to devour the wretched in secret.
-
-15 You trampled the sea with your horses,
-  churning mighty waters.
-
-16 I heard, and my body trembled.
-  My lips quivered at the voice.
-Rottenness enters into my bones, and I tremble in my place
-  because I must wait quietly for the day of trouble,
-  for the coming up of the people who invade us.
-
-17 For even though the fig tree doesn’t flourish,
-  nor fruit be in the vines,
-  the labor of the olive fails,
-  the fields yield no food,
-  the flocks are cut off from the fold,
-  and there is no herd in the stalls,
-
-18 yet I will rejoice in Yahweh.
-  I will be joyful in the God of my salvation!
-
-19 Yahweh, the Lord, is my strength.
-  He makes my feet like deer’s feet,
-  and enables me to go in high places.
-
-For the music director, on my stringed instruments.
+1 A prayer of Habakkuk the prophet, set to Shigionoth.
+2 Yahweh, I have heard the report of you, and I am afraid. Yahweh, revive your work in the midst of the years; in the midst of the years make it known; in wrath remember mercy.
+3 God comes from Teman, and the Holy One from Mount Paran. Selah. His glory covered the heavens, and the earth is full of his praise.
+4 His splendor is like the light; rays shine from his hand, where his power is hidden.
+5 Before him goes plague, and fiery bolts go out at his feet.
+6 He stood, and shook the earth; he looked, and made the nations tremble. The everlasting mountains were dashed in pieces, the ancient hills bowed down; his goings are everlasting.
+7 I saw the tents of Cushan in affliction; the curtains of the land of Midian tremble.
+8 Was Yahweh angry with the rivers? Was your anger against the rivers, or your wrath against the sea, that you ride on your horses, on your chariots of salvation?
+9 Your bow is laid bare; the rods of the word are sworn. Selah. You split the earth with rivers.
+10 The mountains saw you, and trembled; a storm of waters passed over; the deep gave its voice, and lifted its hands on high.
+11 The sun and moon stood still in their dwelling; at the light of your arrows as they go, at the gleam of your glittering spear.
+12 In indignation you march through the earth; in anger you thresh the nations.
+13 You went out for the salvation of your people, for the salvation of your anointed. You crushed the head from the house of the wicked, laying bare the foundation to the neck. Selah.
+14 You pierced the head of his warriors with his own rods; they storm to scatter me, their rejoicing like one devouring the poor in secret.
+15 You trod the sea with your horses, the foaming of mighty waters.
+16 I heard, and my belly trembled; my lips quivered at the sound; rottenness enters into my bones, and I tremble where I stand, as I wait quietly for the day of trouble, when the people come up who invade us.
+17 For though the fig tree does not blossom, and there is no fruit on the vines, the produce of the olive fails, and the fields yield no food, the flock is cut off from the fold, and there is no herd in the stalls;
+18 Yet I will rejoice in Yahweh; I will exult in the God of my salvation.
+19 The Lord Yahweh is my strength, and he makes my feet like the feet of a deer, and makes me walk on my high places. For the music director, on my stringed instruments.
 
 Clear English Bible — Zephaniah (Chapters 1–3): A Clear English Translation
 
