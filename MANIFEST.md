@@ -1,6 +1,7 @@
 # MANIFEST — ceb-push tree (sha256)
 
-e6a824255298e0625f25b5c6ebf636191295cbacdf4d3b61973df4ed67c71ce9  .gitignore
+07c06fa58a22b0a29f558054d9ede7872c0b2198f1f5aa9499549e3cb7fe8800  .gitignore
+# .gitignore — EXPANDED 2026-11-24 under Robert Tilford's seating-and-cleanup ruling of 2026-11-24: the pre-existing audio/ rule retained and the desk working-path rules (/fix-pass/, /sealed-pre-landing/, /index/, *.bak-*, *.bak, __pycache__/, *.pyc, and the three swept root working papers) added in the shelf-cleanup commit 11bfaf6, which removed the 720 Wave 31 swept files from the public shelf while retaining them on disk. Superseded SHA-256: e6a824255298e0625f25b5c6ebf636191295cbacdf4d3b61973df4ed67c71ce9.
 e42e9e0408f46ed43043ecf341365492b12604fbf79d998468aab675e6aa85ce  CORRECTIONS.md
 # CORRECTIONS.md — APPENDED 2026-11-24: the Fresh Esther seating entry (Option A — seated beside the Greek form; this file's final section), under Robert Tilford's Fresh Tanakh commission ruling of 2026-11-23 and his seating ruling of 2026-11-24. Superseded SHA-256: cb4179ea08f8af032e30b09e948dfacb9ca19f46886cae19950d122048f4d231.
 # CORRECTIONS.md — APPENDED 2026-11-24: the Fresh Daniel seating entry (Option A — seated beside the Greek form; this file's final section), under Robert Tilford's Fresh Tanakh commission ruling of 2026-11-23 and his seating ruling of 2026-11-24. Superseded SHA-256: 6de254f119abc8957e8750330208a373838df7a0df8e918fb108c37114a7a7d7.
