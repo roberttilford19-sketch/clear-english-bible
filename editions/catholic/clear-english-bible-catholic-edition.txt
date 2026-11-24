@@ -2,7 +2,7 @@ Clear English Bible — Catholic Edition
 
 This volume gathers the whole Clear English Bible corpus into one file: all 73 books of the Catholic canon, including the deuterocanonical books — Tobit, Judith, Wisdom, Sirach, Baruch, and 1 and 2 Maccabees — 1,328 chapters in all, in the Catholic canonical order. It is given freely to any reader who wants it.
 
-What this is, stated plainly. With six exceptions, this is not a fresh translation made directly from the Hebrew, Aramaic, and Greek: it is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). The exceptions are the Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and the books of Isaiah, Jeremiah, Psalms, Zechariah, and Amos, which are fresh translations made directly from the Hebrew, the Masoretic text of the Westminster Leningrad Codex (the Torah verified letter by letter against the Mechon Mamre edition; Isaiah, Jeremiah, Psalms, Zechariah, and Amos verified consonant by consonant against the Miqra according to the Masorah), inserted on 23 November 2026 under the editor's rulings that the Old Testament of this Bible rests on the Hebrew. The rest of the Old Testament still stands on the WEB Classic base, pending the further books of the fresh translation, which will replace it book by book as they are completed; the New Testament stands on its Greek. The record of that translation — every difference from the text it replaced, with the Hebrew ground for each, and every place where the Hebrew bears two readings — is kept in the translation's build records, which are named in this repository's CORRECTIONS.md, for any reader who seeks them. Every remaining book was prepared from the WEB Classic base and then internally checked against it, verse by verse and chapter by chapter, so that nothing was added, dropped, or drifted in the modernizing. The campaign's rulings were applied to the corpus and verified after application. The internal checking certifies fidelity to the stated base, and nothing more.
+What this is, stated plainly. With seven exceptions, this is not a fresh translation made directly from the Hebrew, Aramaic, and Greek: it is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). The exceptions are the Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and the books of Isaiah, Jeremiah, Psalms, Zechariah, Amos, and Malachi, which are fresh translations made directly from the Hebrew, the Masoretic text of the Westminster Leningrad Codex (the Torah verified letter by letter against the Mechon Mamre edition; Isaiah, Jeremiah, Psalms, Zechariah, Amos, and Malachi verified consonant by consonant against the Miqra according to the Masorah), inserted on 23 November 2026 under the editor's rulings that the Old Testament of this Bible rests on the Hebrew. The rest of the Old Testament still stands on the WEB Classic base, pending the further books of the fresh translation, which will replace it book by book as they are completed; the New Testament stands on its Greek. The record of that translation — every difference from the text it replaced, with the Hebrew ground for each, and every place where the Hebrew bears two readings — is kept in the translation's build records, which are named in this repository's CORRECTIONS.md, for any reader who seeks them. Every remaining book was prepared from the WEB Classic base and then internally checked against it, verse by verse and chapter by chapter, so that nothing was added, dropped, or drifted in the modernizing. The campaign's rulings were applied to the corpus and verified after application. The internal checking certifies fidelity to the stated base, and nothing more.
 
 Disclosure. This work was prepared with AI assistance. The editor is Robert Tilford of Hays, Kansas: he set the rules, directed the work, and ruled the questions reserved for him. The assisting instrument is Awen (Muse AI, by Meta), working under his direction. No endorsement by Meta is claimed.
 
@@ -10,7 +10,7 @@ The method, in brief. The aim is the simplest, clearest English possible — wor
 
 How this volume was assembled. The books below are the packaged reader files of the corpus, set one after another in their canonical order; no book's wording has been altered in the assembling. Each book keeps its own header exactly as it was packaged, under the working name "Clear English Bible" that the books were prepared under; the name "Clear Translation Bible" belongs to this shelf, and the books' own pages were not re-lettered to match it.
 
-COMPLETE — This edition of the Clear English Bible is complete. Except for the Torah, Isaiah, Jeremiah, Psalms, Zechariah, and Amos, this is a clear-English modernization made from the World English Bible Classic (public domain) as its base text, and is not a fresh translation made directly from the Hebrew, Aramaic, and Greek. The Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and Isaiah, Jeremiah, Psalms, Zechariah, and Amos are fresh translations made directly from the Masoretic Hebrew, inserted on 23 November 2026 under the editor's rulings. This text was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This edition of the Clear English Bible is complete. Except for the Torah, Isaiah, Jeremiah, Psalms, Zechariah, Amos, and Malachi, this is a clear-English modernization made from the World English Bible Classic (public domain) as its base text, and is not a fresh translation made directly from the Hebrew, Aramaic, and Greek. The Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and Isaiah, Jeremiah, Psalms, Zechariah, Amos, and Malachi are fresh translations made directly from the Masoretic Hebrew, inserted on 23 November 2026 under the editor's rulings. This text was prepared with AI assistance. Robert Tilford is the editor.
 
 Draft history — 25 October 2026. This edition formerly stated that the work was drafted and internally checked; not finished, and not published. It said that the editor's read-through was still to come and that his rulings on the reserved questions would be applied in a later pass, by dated record, before any edition was offered as final, and it asked readers to read the drafts as careful work, honestly labeled, still in the editor's hands. The rulings were applied and verified at Gate B, and this completion label was substituted in the final handling under Ruling 20; the former wording remains in the repository history.
 
@@ -57245,131 +57245,129 @@ Zechariah 14
 
 21 Yes, every pot in Jerusalem and in Judah shall be holy to Yahweh of hosts; and all those who sacrifice shall come and take of them, and cook in them; and in that day there shall be no more a Canaanite in the house of Yahweh of hosts.
 
-Clear English Bible — Malachi (Chapters 1–4): A Clear English Translation
+Clear English Bible — Malachi (Chapters 1–3): A Clear English Translation
 
-COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This book of the Clear English Bible is complete. This is a fresh translation made directly from the Hebrew: the Masoretic text of the Westminster Leningrad Codex, verified consonant by consonant against the Miqra according to the Masorah (the Sefaria edition). It was inserted into this edition on 23 November 2026, under the editor's Fresh Tanakh commission ruling of the same date and its authorization-forward rule, replacing the clear-English modernization of the World English Bible Classic that stood here before. This text was prepared with AI assistance. Robert Tilford is the editor.
 
 Draft history — 25 October 2026. Malachi chapters 1–4 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
+Insertion record — 23 November 2026. The text of Malachi in this file was replaced by the fresh translation from the Hebrew described above (3 chapters, 55 verses in the Masoretic numbering), inserted under the editor's Fresh Tanakh commission ruling of 23 November 2026 and its authorization-forward rule, by which finished book drafts in this lane advance into the editions without a separate word for each book. The block is reseated in the Masoretic three-chapter form: the header above reads "Chapters 1–3" where it read "Chapters 1–4", the chapter headings run Malachi 1–3, and the verses that stood as the English chapter 4 (Masoretic 3:19–24) now stand as the close of chapter 3. The translation was built in two passes (chapters 1–2 and 3), each independently checked against the Hebrew: both passes passed clean, with no errors found. The divine name stands as "Yahweh" at all 46 of its seats in this book. The text it replaced stands in the repository history. The differences between the two texts, each with its Hebrew ground stated, and the 21 places where the Hebrew bears two readings and the seat stands open, are recorded in the translation's build records (PACKET-MALACHI.md, LEDGER-MALACHI.md, OPEN-SEATS-MALACHI.md, CHECK-REPORT-MALACHI.md, kept with the desk's fresh-malachi working papers).
+
 Malachi 1
 
-1 A revelation, Yahweh’s word to Israel by Malachi.
+1 An oracle: the word of Yahweh to Israel by the hand of Malachi.
 
-2 “I have loved you,” says Yahweh. Yet you say, “How have you loved us?” “Wasn’t Esau Jacob’s brother?” says Yahweh, “Yet I loved Jacob;
+2 I have loved you, says Yahweh. But you say: How have you loved us? Was Esau not the brother of Jacob, declares Yahweh, yet I loved Jacob,
 
-3 but Esau I hated, and made his mountains a desolation, and gave his heritage to the jackals of the wilderness.”
+3 But Esau I hated, and I made his mountains a desolation and gave his heritage to the jackals of the wilderness.
 
-4 Whereas Edom says, “We are beaten down, but we will return and build the waste places,” Yahweh of Armies says, “They will build, but I will throw down; and men will call them ‘The Wicked Land,’ even the people against whom Yahweh shows wrath forever.”
+4 If Edom says: We have been beaten down, but we will return and build the ruins, thus says Yahweh of hosts: They will build, but I will tear down, and they will be called a border of wickedness, and the people with whom Yahweh is angry forever.
 
-5 Your eyes will see, and you will say, “Yahweh is great—even beyond the border of Israel!”
+5 Your eyes will see, and you will say: Yahweh is great beyond the border of Israel.
 
-6 “A son honors his father, and a servant his master. If I am a father, then where is my honor? And if I am a master, where is the respect due me?” says Yahweh of Armies to you priests who despise my name. “You say, ‘How have we despised your name?’
+6 A son honors a father, and a servant his master. If I am a father, where is my honor? And if I am a master, where is my fear, says Yahweh of hosts to you, the priests who despise my name. But you say: How have we despised your name?
 
-7 You offer polluted bread on my altar. You say, ‘How have we polluted you?’ In that you say, ‘Yahweh’s table is contemptible.’
+7 You present polluted food on my altar. But you say: How have we polluted you? By saying: The table of Yahweh is contemptible.
 
-8 When you offer the blind for sacrifice, isn’t that evil? And when you offer the lame and sick, isn’t that evil? Present it now to your governor! Will he be pleased with you? Or will he accept your person?” says Yahweh of Armies.
+8 And when you present the blind as a sacrifice, is that not wrong? And when you present the lame and the sick, is that not wrong? Present it, please, to your governor. Will he be pleased with you, or will he show you favor, says Yahweh of hosts.
 
-9 “Now, please entreat the favor of God, that he may be gracious to us. With this, will he accept any of you?” says Yahweh of Armies.
+9 And now, please plead for the favor of God, that he may be gracious to us. This has come from your hand. Will he show favor to any of you, says Yahweh of hosts.
 
-10 “Oh that there were one among you who would shut the doors, that you might not kindle fire on my altar in vain! I have no pleasure in you,” says Yahweh of Armies, “neither will I accept an offering at your hand.
+10 Who among you will shut the doors, so that you do not kindle my altar in vain? I have no pleasure in you, says Yahweh of hosts, and I will not accept an offering from your hand.
 
-11 For from the rising of the sun even to its going down, my name is great among the nations, and in every place incense will be offered to my name, and a pure offering; for my name is great among the nations,” says Yahweh of Armies.
+11 For from the rising of the sun to its going down, my name is great among the nations, and in every place incense is offered to my name, and a pure offering. For my name is great among the nations, says Yahweh of hosts.
 
-12 “But you profane it when you say, ‘the Lord’s table is polluted, and its fruit, even its food, is contemptible.’
+12 But you profane it by saying: The table of the Lord is polluted, and its fruit, its food, is contemptible.
 
-13 You say also, ‘See, what a weariness it is!’ And you have sniffed at it”, says Yahweh of Armies; “and you have brought that which was taken by violence, the lame, and the sick; thus you bring the offering. Should I accept this at your hand?” says Yahweh.
+13 And you say: Look, what a weariness, and you sniff at it, says Yahweh of hosts. And you bring what was stolen, and the lame, and the sick, and so you bring the offering. Should I accept it from your hand, says Yahweh.
 
-14 “But the deceiver is cursed who has in his flock a male, and vows and sacrifices to the Lord a defective thing; for I am a great King,” says Yahweh of Armies, “and my name is awesome among the nations.”
+14 Cursed is the deceiver who has a male in his flock, and vows, and sacrifices a blemished animal to the Lord. For I am a great King, says Yahweh of hosts, and my name is feared among the nations.
 
 Malachi 2
 
-1 “Now, you priests, this commandment is for you.
+1 And now, this command is for you, priests.
 
-2 If you will not listen, and if you will not take it to heart, to give glory to my name,” says Yahweh of Armies, “then I will send the curse on you, and I will curse your blessings. Indeed, I have cursed them already, because you do not take it to heart.
+2 If you do not listen, and if you do not take it to heart to give glory to my name, says Yahweh of hosts, I will send the curse among you, and I will curse your blessings. Indeed, I have already cursed them, because you do not take it to heart.
 
-3 See, I will rebuke your offspring, and will spread dung on your faces, even the dung of your feasts; and you will be taken away with it.
+3 Look, I will rebuke your offspring, and I will spread dung on your faces, the dung of your feasts, and you will be taken away with it.
 
-4 You will know that I have sent this commandment to you, that my covenant may be with Levi,” says Yahweh of Armies.
+4 And you will know that I sent this command to you, so that my covenant would be with Levi, says Yahweh of hosts.
 
-5 “My covenant was with him of life and peace; and I gave them to him that he might be reverent toward me; and he was reverent toward me, and stood in awe of my name.
+5 My covenant with him was life and peace, and I gave them to him in reverence. He feared me, and he was in awe before my name.
 
-6 The law of truth was in his mouth, and unrighteousness was not found in his lips. He walked with me in peace and uprightness, and turned many away from sin.
+6 The teaching of truth was in his mouth, and no wrong was found on his lips. He walked with me in peace and uprightness, and he turned many back from iniquity.
 
-7 For the priest’s lips should keep knowledge, and they should seek the law at his mouth; for he is the messenger of Yahweh of Armies.
+7 For the lips of a priest should guard knowledge, and people should seek teaching from his mouth, for he is the messenger of Yahweh of hosts.
 
-8 But you have turned away from the path. You have caused many to stumble in the law. You have corrupted the covenant of Levi,” says Yahweh of Armies.
+8 But you have turned aside from the way. You have caused many to stumble in the teaching. You have corrupted the covenant of Levi, says Yahweh of hosts.
 
-9 “Therefore I have also made you contemptible and wicked before all the people, according to the way you have not kept my ways, but have had respect for persons in the law.
+9 Therefore I have also made you contemptible and base before all the people, inasmuch as you do not keep my ways, but show partiality in the teaching.
 
-10 Don’t we all have one father? Hasn’t one God created us? Why do we deal treacherously every man against his brother, profaning the covenant of our fathers?
+10 Do we not all have one father? Has not one God created us? Why then do we deal treacherously, each against his brother, profaning the covenant of our fathers?
 
-11 Judah has dealt treacherously, and a detestable thing is committed in Israel and in Jerusalem; for Judah has profaned the holiness of Yahweh which he loves, and has married the daughter of a foreign god.
+11 Judah has dealt treacherously, and an abomination has been done in Israel and in Jerusalem. For Judah has profaned the holiness of Yahweh, which he loves, and has married the daughter of a foreign god.
 
-12 Yahweh will cut off the man who does this, him who wakes and him who answers, out of the tents of Jacob and him who offers an offering to Yahweh of Armies.
+12 May Yahweh cut off the man who does this, the one who wakes and the one who answers, from the tents of Jacob, and the one who presents an offering to Yahweh of hosts.
 
-13 “This again you do: you cover Yahweh’s altar with tears, with weeping, and with sighing, because he doesn’t regard the offering any more, neither receives it with good will at your hand.
+13 And this is a second thing you do: you cover the altar of Yahweh with tears, with weeping and groaning, so that he no longer turns to the offering or accepts it with favor from your hand.
 
-14 Yet you say, ‘Why?’ Because Yahweh has been witness between you and the wife of your youth, against whom you have dealt treacherously, though she is your companion and the wife of your covenant.
+14 But you say: Why? Because Yahweh has been a witness between you and the wife of your youth, against whom you have dealt treacherously, though she is your companion and the wife of your covenant.
 
-15 Did he not make you one, although he had the residue of the Spirit? Why one? He sought godly offspring. Therefore take heed to your spirit, and let no one deal treacherously against the wife of his youth.
+15 Did not one make them, with a remnant of spirit belonging to him? And what does the one seek? Godly offspring. So guard yourselves in your spirit, and do not deal treacherously against the wife of your youth.
 
-16 One who hates and divorces”, says Yahweh, the God of Israel, “covers his garment with violence!” says Yahweh of Armies. “Therefore pay attention to your spirit, that you don’t be unfaithful.
+16 For I hate divorce, says Yahweh, the God of Israel, and the one who covers his garment with violence, says Yahweh of hosts. Therefore guard yourselves in your spirit, and do not deal treacherously.
 
-A note on this verse: This verse is famous in a traditional rendering — “For I hate divorce,” says Yahweh (so the KJV and others) — reached by reading the Hebrew’s first word as “I hate.” The Hebrew as written speaks in the third person, of the man who hates and divorces, and the translation above follows the Hebrew as written.
-
-17 You have wearied Yahweh with your words. Yet you say, ‘How have we wearied him?’ In that you say, ‘Everyone who does evil is good in Yahweh’s sight, and he delights in them;’ or ‘Where is the God of justice?’
+17 You have wearied Yahweh with your words. But you say: How have we wearied him? By saying: Everyone who does evil is good in the eyes of Yahweh, and he delights in them, or: Where is the God of justice?
 
 Malachi 3
 
-1 “See, I send my messenger, and he will prepare the way before me! The Lord, whom you seek, will suddenly come to his temple. See, the messenger of the covenant, whom you desire, is coming!” says Yahweh of Armies.
+1 See, I am sending my messenger, and he will clear the way before me; and the Lord, whom you seek, will suddenly come to his temple, and the messenger of the covenant, whom you delight in: see, he comes, says Yahweh of hosts.
 
-2 “But who can endure the day of his coming? And who will stand when he appears? For he is like a refiner’s fire, and like launderers’ soap;
+2 But who can endure the day of his coming? And who will stand when he appears? For he is like a refiner's fire, and like launderers' soap;
 
-3 and he will sit as a refiner and purifier of silver, and he will purify the sons of Levi, and refine them as gold and silver; and they will offer to Yahweh offerings in righteousness.
+3 and he will sit as a refiner and purifier of silver, and he will purify the sons of Levi and refine them like gold and like silver, and they will present offerings to Yahweh in righteousness.
 
-4 Then the offering of Judah and Jerusalem will be pleasant to Yahweh as in the days of old and as in ancient years.
+4 Then the offering of Judah and Jerusalem will be pleasing to Yahweh, as in the days of old and as in former years.
 
-5 I will come near to you to judgment. I will be a swift witness against the sorcerers, against the adulterers, against the perjurers, and against those who oppress the hireling in his wages, the widow, and the fatherless, and who deprive the foreigner of justice, and don’t fear me,” says Yahweh of Armies.
+5 I will come near to you for judgment, and I will be a swift witness against the sorcerers, against the adulterers, against those who swear falsely, against those who oppress the hired worker in his wages, the widow and the orphan, and who turn the sojourner aside, and do not fear me, says Yahweh of hosts.
 
-6 “For I, Yahweh, don’t change; therefore you, sons of Jacob, are not consumed.
+6 For I, Yahweh, do not change, and you, sons of Jacob, are not consumed.
 
-7 From the days of your fathers you have turned away from my statutes and have not kept them. Return to me, and I will return to you,” says Yahweh of Armies. “But you say, ‘How shall we return?’
+7 From the days of your fathers you have turned aside from my statutes and have not kept them. Return to me, and I will return to you, says Yahweh of hosts. But you say: How shall we return?
 
-8 Will a man rob God? Yet you rob me! But you say, ‘How have we robbed you?’ In tithes and offerings.
+8 Will a man rob God? Yet you are robbing me. But you say: How have we robbed you? In the tithe and the offering.
 
-9 You are cursed with the curse; for you rob me, even this whole nation.
+9 You are cursed with the curse, yet you are robbing me, even this whole nation.
 
-10 Bring the whole tithe into the storehouse, that there may be food in my house, and test me now in this,” says Yahweh of Armies, “if I will not open you the windows of heaven, and pour you out a blessing, that there will not be enough room for.
+10 Bring the whole tithe into the storehouse, so that there may be food in my house, and test me now in this, says Yahweh of hosts, if I will not open for you the windows of heaven and pour out for you a blessing until there is more than enough.
 
-11 I will rebuke the devourer for your sakes, and he will not destroy the fruits of your ground; neither will your vine cast its fruit before its time in the field,” says Yahweh of Armies.
+11 I will rebuke the devourer for you, and it will not destroy the fruit of the ground for you, and your vine in the field will not lose its fruit, says Yahweh of hosts.
 
-12 “All nations will call you blessed, for you will be a delightful land,” says Yahweh of Armies.
+12 All nations will call you blessed, for you will be a land of delight, says Yahweh of hosts.
 
-13 “Your words have been harsh against me,” says Yahweh. “Yet you say, ‘What have we spoken against you?’
+13 Your words have been harsh against me, says Yahweh. But you say: What have we spoken against you?
 
-14 You have said, ‘It is vain to serve God,’ and ‘What profit is it that we have followed his instructions and that we have walked mournfully before Yahweh of Armies?
+14 You have said: It is useless to serve God. What gain is there that we have kept his charge and that we have walked in mourning before Yahweh of hosts?
 
-15 Now we call the proud happy; yes, those who work wickedness are built up; yes, they tempt God, and escape.’
+15 And now we call the arrogant blessed; those who do wickedness are even built up; they even test God and escape.
 
-16 Then those who feared Yahweh spoke one with another; and Yahweh listened and heard, and a book of memory was written before him for those who feared Yahweh and who honored his name.
+16 Then those who feared Yahweh spoke one with another, and Yahweh listened and heard, and a book of remembrance was written before him for those who feared Yahweh and esteemed his name.
 
-17 They will be mine,” says Yahweh of Armies, “my own possession in the day that I make. I will spare them, as a man spares his own son who serves him.
+17 They will be mine, says Yahweh of hosts, my treasured possession on the day when I act, and I will spare them as a man spares his son who serves him.
 
-18 Then you will return and discern between the righteous and the wicked, between him who serves God and him who doesn’t serve him.
+18 Then once again you will discern between the righteous and the wicked, between one who serves God and one who does not serve him.
 
-Malachi 4
+19 For see, the day is coming, burning like a furnace, and all the arrogant and all who do wickedness will be stubble, and the coming day will set them ablaze, says Yahweh of hosts, so that it will leave them neither root nor branch.
 
-1 “For see, the day comes, burning like a furnace, when all the proud and all who work wickedness will be stubble. The day that comes will burn them up,” says Yahweh of Armies, “so that it will leave them neither root nor branch.
+20 But for you who fear my name, the sun of righteousness will rise with healing in its wings, and you will go out and leap like calves from the stall.
 
-2 But to you who fear my name will the sun of righteousness arise with healing in its wings. You will go out and leap like calves of the stall.
+21 You will tread down the wicked, for they will be ashes under the soles of your feet on the day when I act, says Yahweh of hosts.
 
-3 You will tread down the wicked; for they will be ashes under the soles of your feet in the day that I make,” says Yahweh of Armies.
+22 Remember the law of Moses my servant, which I commanded him at Horeb for all Israel: statutes and ordinances.
 
-4 “Remember the law of Moses my servant, which I commanded to him in Horeb for all Israel, even statutes and ordinances.
+23 See, I am sending you Elijah the prophet before the great and terrible day of Yahweh comes.
 
-5 See, I will send you Elijah the prophet before the great and terrible day of Yahweh comes.
-
-6 He will turn the hearts of the fathers to the children and the hearts of the children to their fathers, lest I come and strike the earth with a curse.”
+24 He will turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and strike the land with utter destruction.
 
 Clear English Bible — 1 Maccabees (Chapters 1–16): A Clear English Translation
 
