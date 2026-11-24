@@ -1,1 +1,28 @@
+# .gitignore for the Clear English Bible repo (ceb-push)
+# The audio/ rule predates this file's expansion and is retained.
+# The path rules below were applied 2026-11-24 under Robert Tilford's
+# seating-and-cleanup ruling of 2026-11-24, in the same commit that
+# removed the 720 working files swept in by the Wave 31 `git add -A`
+# commit (08042d8) from the public shelf (the files remain on disk).
+# Source draft: ~/workspace/.tools/ceb-gitignore-draft.txt, prepared
+# with the sensitivity audit of the 720 swept files (verdict ALL CLEAR).
+
 audio/
+
+# --- Desk working trees (the swept paths) ---
+/fix-pass/
+/sealed-pre-landing/
+/index/
+
+# --- Edition backups (swept as editions/*.bak-2026-11-09-pre-decision3) ---
+*.bak-*
+*.bak
+
+# --- Python bytecode (swept as fix-pass/__pycache__/*.pyc) ---
+__pycache__/
+*.pyc
+
+# --- Desk working papers at repo root (swept; audited 2026-11-24) ---
+/EDITION-BUILDOUTS.md
+/TORAH-AUDIT-DRAFT-*.md
+/JAMAICAN-PILOT-GATE-CHECK-*.md
