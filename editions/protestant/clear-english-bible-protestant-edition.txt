@@ -2,7 +2,7 @@ Clear English Bible — Protestant Edition
 
 This volume gathers the 66 protocanonical books of the Clear English Bible corpus into one file, in their canonical order: 1,191 chapters in all, counting the books in the fuller forms described below. It is given freely to any reader who wants it.
 
-What this is, stated plainly. With ten exceptions, this is not a fresh translation made directly from the Hebrew, Aramaic, and Greek: it is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). The exceptions are the Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and the books of Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, and Obadiah, which are fresh translations made directly from the Hebrew, the Masoretic text of the Westminster Leningrad Codex (the Torah verified letter by letter against the Mechon Mamre edition; Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, and Obadiah verified consonant by consonant against the Miqra according to the Masorah), inserted on 23 November 2026 under the editor's rulings that the Old Testament of this Bible rests on the Hebrew. The rest of the Old Testament still stands on the WEB Classic base, pending the further books of the fresh translation, which will replace it book by book as they are completed; the New Testament stands on its Greek. The record of that translation — every difference from the text it replaced, with the Hebrew ground for each, and every place where the Hebrew bears two readings — is kept in the translation's build records, which are named in this repository's CORRECTIONS.md, for any reader who seeks them. Every remaining book was prepared from the WEB Classic base and then internally checked against it, verse by verse and chapter by chapter, so that nothing was added, dropped, or drifted in the modernizing. The campaign's rulings were applied to the corpus and verified after application. The internal checking certifies fidelity to the stated base, and nothing more.
+What this is, stated plainly. With eleven exceptions, this is not a fresh translation made directly from the Hebrew, Aramaic, and Greek: it is a clear-English modernization of one public-domain base text, the World English Bible Classic (WEB Classic). The exceptions are the Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and the books of Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, and Micah, which are fresh translations made directly from the Hebrew, the Masoretic text of the Westminster Leningrad Codex (the Torah verified letter by letter against the Mechon Mamre edition; Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, and Micah verified consonant by consonant against the Miqra according to the Masorah), inserted on 23 November 2026 under the editor's rulings that the Old Testament of this Bible rests on the Hebrew. The rest of the Old Testament still stands on the WEB Classic base, pending the further books of the fresh translation, which will replace it book by book as they are completed; the New Testament stands on its Greek. The record of that translation — every difference from the text it replaced, with the Hebrew ground for each, and every place where the Hebrew bears two readings — is kept in the translation's build records, which are named in this repository's CORRECTIONS.md, for any reader who seeks them. Every remaining book was prepared from the WEB Classic base and then internally checked against it, verse by verse and chapter by chapter, so that nothing was added, dropped, or drifted in the modernizing. The campaign's rulings were applied to the corpus and verified after application. The internal checking certifies fidelity to the stated base, and nothing more.
 
 Disclosure. This work was prepared with AI assistance. The editor is Robert Tilford of Hays, Kansas: he set the rules, directed the work, and ruled the questions reserved for him. The assisting instrument is Awen (Muse AI, by Meta), working under his direction. No endorsement by Meta is claimed.
 
@@ -12,7 +12,7 @@ How this edition was drawn. It is extracted from the same checked corpus as the 
 
 How this volume was assembled. The books below are the packaged reader files of the corpus, set one after another in their canonical order; no book's wording has been altered in the assembling. Each book keeps its own header exactly as it was packaged, under the working name "Clear English Bible" that the books were prepared under; the name "Clear Translation Bible" belongs to this shelf, and the books' own pages were not re-lettered to match it.
 
-COMPLETE — This edition of the Clear English Bible is complete. Except for the Torah, Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, and Obadiah, this is a clear-English modernization made from the World English Bible Classic (public domain) as its base text, and is not a fresh translation made directly from the Hebrew, Aramaic, and Greek. The Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, and Obadiah are fresh translations made directly from the Masoretic Hebrew, inserted on 23 November 2026 under the editor's rulings. This text was prepared with AI assistance. Robert Tilford is the editor.
+COMPLETE — This edition of the Clear English Bible is complete. Except for the Torah, Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, and Micah, this is a clear-English modernization made from the World English Bible Classic (public domain) as its base text, and is not a fresh translation made directly from the Hebrew, Aramaic, and Greek. The Torah — Genesis, Exodus, Leviticus, Numbers, and Deuteronomy — and Isaiah, Jeremiah, Psalms, Zechariah, Amos, Malachi, Hosea, Joel, Obadiah, and Micah are fresh translations made directly from the Masoretic Hebrew, inserted on 23 November 2026 under the editor's rulings. This text was prepared with AI assistance. Robert Tilford is the editor.
 
 Draft history — 25 October 2026. This edition formerly stated that the work was drafted and internally checked; not finished, and not published. It said that the editor's read-through was still to come and that his rulings on the reserved questions would be applied in a later pass, by dated record, before any edition was offered as final, and it asked readers to read the drafts as careful work, honestly labeled, still in the editor's hands. The rulings were applied and verified at Gate B, and this completion label was substituted in the final handling under Ruling 20; the former wording remains in the repository history.
 
@@ -49717,501 +49717,137 @@ Jonah 4
 
 Clear English Bible — Micah (Chapters 1–7): A Clear English Translation
 
-COMPLETE — This book of the Clear English Bible is complete. This is a clear-English modernization made from the World English Bible Classic (public domain) as its base text. It is not a fresh translation made directly from the Hebrew or Greek. This text was prepared with AI assistance. Robert Tilford is the editor.
+This completes the Masoretic book of Micah in this edition. The remaining books of the Old Testament stand in this edition as a clear-English modernization of the World English Bible (WEB) Classic text named in the front matter, except the books the front matter names as fresh translations made directly from the Hebrew; the New Testament stands on the Greek text named there. The book as printed here stands as DRAFT — NOT PUBLISHED.
+
+Insertion record — 23 November 2026. The Masoretic chapters of Micah (7 chapters, 105 verses in Masoretic numbering) were inserted as a fresh translation made directly from the Masoretic Hebrew under Robert Tilford's Fresh Tanakh commission ruling of 23 November 2026 and its authorization-forward amendment, confirmed the same day, replacing the earlier WEB-based text of those chapters. The block is reseated in the Masoretic scheme: the verse that stood as English 5:1 now stands as 4:14, closing chapter 4, and the verses that stood as English 5:2–15 now stand as 5:1–14; chapters 1–3 and 6–7 keep their bounds, and the block header is unchanged, the chapter count being the same in both schemes. The translation was built in two reviser passes (Masoretic chapters 1–4; chapters 5–7) from the Masoretic text as it stands in the Westminster Leningrad Codex and Sefaria's Miqra according to the Masorah — the two witnesses consonant-exact in 97 of the book's 105 verses, the eight divergences classified in the build record (four ketiv/qere presentation, one defect of the Bolls extraction at 4:10, three spelling only) — with JPS 1917 as the open control of record. Two independent checker passes that did not build the text read the draft against the Hebrew line and both controls: the chapters 5–7 pass returned no errors; the chapters 1–4 pass found one error, at 4:13, where the draft had followed JPS's second person against the Hebrew's first person singular והחרמתי, and the checker's exact replacement text was applied and re-verified by count before insertion. The divine name יהוה stands 40 times in the book — no banked benchmark existed, so the count was established from both witnesses before the build; the two witnesses agree at every verse — and prints "Yahweh" at every seat; no standalone יהּ seat stands in Micah. The difference ledger records 104 of the book's 105 verses as differing materially from the seated text or the open control, and 37 open seats stand recorded. The directed seats stand as the commission named them: 1:2 (אדני יהוה, "the Lord Yahweh"); 2:13 (the breaker and the king); 4:1–3 (the mountain of Yahweh's house, printed as Micah's Hebrew stands); Masoretic 5:1–2 (the Bethlehem seat — "whose origins are from of old, from days of eternity"); 6:8 ("do justice, and love loyal love, and walk humbly"); and 7:18–20 (the name-play carried unglossed, the person shifts unharmonised). Build record: PACKET-MICAH.md, LEDGER-MICAH.md, CHECK-REPORT-MICAH.md, and OPEN-SEATS-MICAH.md in the desk's working folder (.tools/fresh-micah/). The book stands as DRAFT — NOT PUBLISHED.
 
 Draft history — 25 October 2026. Micah chapters 1–7 were all internally audited (AUDITED), formerly stood as drafts awaiting Robert's read-through, and were formerly labeled a partial draft, unpublished. The completion statement above was substituted for the former draft header in the final handling under Ruling 20, after the campaign's rulings had been applied and verified; the former header's history is preserved here and in the repository history.
 
 Micah 1
 
-1 Yahweh’s word that came to Micah of Morasheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
-
-2 Hear, you peoples, all of you!
-  Listen, O earth, and all that is therein.
-Let the Lord Yahweh be witness against you,
-  the Lord from his holy temple.
-
-3 For see, Yahweh comes out of his place,
-  and will come down and tread on the high places of the earth.
-
-4 The mountains melt under him,
-  and the valleys split apart like wax before the fire,
-  like waters that are poured down a steep place.
-
-5 “All this is for the disobedience of Jacob,
-  and for the sins of the house of Israel.
-What is the disobedience of Jacob?
-  Isn’t it Samaria?
-And what are the high places of Judah?
-  Aren’t they Jerusalem?
-
-6 Therefore I will make Samaria like a rubble heap of the field,
-  like places for planting vineyards;
-and I will pour down its stones into the valley,
-  and I will uncover its foundations.
-
-7 All her idols will be beaten to pieces,
-  all her temple gifts will be burned with fire,
-  and I will destroy all her images;
-for of the hire of a prostitute has she gathered them,
-  and to the hire of a prostitute will they return.”
-
-8 For this I will lament and wail.
-  I will go stripped and naked.
-  I will howl like the jackals
-  and mourn like the ostriches.
-
-9 For her wounds are incurable;
-  for it has come even to Judah.
-It reaches to the gate of my people,
-  even to Jerusalem.
-
-10 Don’t tell it in Gath.
-  Don’t weep at all.
-  At Beth Ophrah I have rolled myself in the dust.
-
-11 Pass on, inhabitant of Shaphir, in nakedness and shame.
-  The inhabitant of Zaanan won’t come out.
-  The wailing of Beth Ezel will take from you his protection.
-
-12 For the inhabitant of Maroth waits anxiously for good,
-  because evil has come down from Yahweh to the gate of Jerusalem.
-
-13 Harness the chariot to the swift steed, inhabitant of Lachish.
-  She was the beginning of sin to the daughter of Zion;
-  for the transgressions of Israel were found in you.
-
-14 Therefore you will give a parting gift to Moresheth Gath.
-  The houses of Achzib will be a deceitful thing to the kings of Israel.
-
-15 I will yet bring a conqueror to you, inhabitants of Mareshah.
-  The glory of Israel will come to Adullam.
-
-16 Shave your heads,
-  and cut off your hair for the children of your delight.
-Enlarge your baldness like the vulture,
-  for they have gone into captivity from you!
+1 The word of Yahweh that came to Micah the Morashtite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
+2 Hear, peoples, all of you; listen, earth and all that fills it; and let the Lord Yahweh be a witness against you, the Lord from his holy temple.
+3 For see, Yahweh is coming out from his place; he will come down and tread on the high places of the earth.
+4 The mountains will melt under him, and the valleys will split apart, like wax before the fire, like water poured down a steep place.
+5 All this is for the transgression of Jacob and for the sins of the house of Israel. What is the transgression of Jacob? Is it not Samaria? And what are the high places of Judah? Are they not Jerusalem?
+6 So I will make Samaria a heap in the field, a place for planting vineyards; I will pour down its stones into the valley and uncover its foundations.
+7 All her carved images will be beaten to pieces, and all her hire will be burned with fire, and I will lay all her idols desolate; for she gathered them from the hire of a prostitute, and to the hire of a prostitute they will return.
+8 For this I will lament and wail; I will go stripped and naked; I will make a lament like the jackals and mourning like the ostriches.
+9 For her wounds are incurable, for it has come as far as Judah; it has reached the gate of my people, as far as Jerusalem.
+10 Do not tell it in Gath; do not weep at all; in Beth-le-aphrah, wallow yourself in the dust.
+11 Pass on, inhabitant of Shaphir, in nakedness and shame; the inhabitant of Zaanan has not come out; the wailing of Beth Ezel will take from you its standing place.
+12 For the inhabitant of Maroth waits anxiously for good, because evil has come down from Yahweh to the gate of Jerusalem.
+13 Harness the chariot to the swift steed, inhabitant of Lachish; she was the beginning of sin to the daughter of Zion, for the transgressions of Israel were found in you.
+14 Therefore you will give parting gifts to Moresheth Gath; the houses of Achzib will be a deception to the kings of Israel.
+15 I will yet bring to you, inhabitant of Mareshah, one who will possess you; the glory of Israel will come as far as Adullam.
+16 Shave your head bald and cut off your hair for the children of your delight; make your baldness wide like the vulture, for they have gone into exile from you.
 
 Micah 2
 
-1 Woe to those who devise sin
-  and work evil on their beds!
-When the morning is light, they practice it,
-  because it is in the power of their hand.
-
-2 They covet fields and seize them,
-  and houses, then take them away.
-They oppress a man and his house,
-  even a man and his heritage.
-
-3 Therefore Yahweh says:
-“See, I am planning against these people a disaster,
-  from which you will not remove your necks,
-  neither will you walk haughtily,
-  for it is an evil time.
-
-4 In that day they will take up a parable against you,
-  and lament with a doleful lamentation, saying,
-  ‘We are utterly ruined!
-  My people’s possession is divided up.
-  Indeed he takes it from me and assigns our fields to traitors!’ ”
-
-5 Therefore you will have no one who divides the land by lot in Yahweh’s assembly.
-
-6 “Don’t prophesy!”—they prophesy—
-  “Don’t prophesy about these things.
-  Disgrace won’t overtake us.”
-
-7 Will it be said, O house of Jacob,
-  “Is Yahweh’s Spirit angry?
-  Are these his doings?
-  Don’t my words do good to him who walks blamelessly?”
-
-8 But lately my people have risen up as an enemy.
-  You strip the robe and clothing from those who pass by without a care, returning from battle.
-
-9 You drive the women of my people out from their pleasant houses;
-  from their young children you take away my blessing forever.
-
-10 Arise, and depart!
-  For this is not your resting place,
-  because of uncleanness that destroys,
-  even with a grievous destruction.
-
-11 If a man walking in a spirit of falsehood lies, saying,
-  “I will prophesy to you of wine and of strong drink,”
-  he would be the prophet of this people.
-
-12 I will surely assemble all of you, Jacob.
-  I will surely gather the remnant of Israel.
-I will put them together as the sheep of Bozrah,
-  as a flock in the middle of their pasture.
-  They will swarm with people.
-
-13 He who breaks open the way goes up before them.
-  They break through the gate, and go out.
-  Their king passes on before them,
-  with Yahweh at their head.
+1 Woe to those who devise iniquity and work evil on their beds; in the morning light they carry it out, because it is in the power of their hand.
+2 They covet fields and seize them, and houses, and take them away; they oppress a man and his house, a man and his inheritance.
+3 Therefore Yahweh says this: See, I am devising evil against this family, from which you will not draw out your necks, and you will not walk haughtily, for it is an evil time.
+4 In that day they will take up a taunt against you and lament a doleful lamentation, saying: We are utterly ruined; he changes the portion of my people; how he removes it from me! He divides our fields to traitors.
+5 Therefore you will have no one to cast a measuring line by lot in the assembly of Yahweh.
+6 Do not prophesy, they prophesy; do not prophesy about these things; disgrace will not overtake us.
+7 Should it be said, house of Jacob: Is the Spirit of Yahweh impatient? Are these his doings? Do not my words do good to the one who walks uprightly?
+8 But lately my people has risen up as an enemy; you strip the robe and the garment from those who pass by in safety, returned from war.
+9 You drive out the women of my people from their pleasant houses; from their young children you take my glory forever.
+10 Arise and depart, for this is not your resting place, because of the uncleanness that destroys, with a grievous destruction.
+11 If a man walking in wind and falsehood lies: I will preach to you about wine and strong drink, he would be the preacher of this people.
+12 I will surely gather all of you, Jacob; I will surely gather the remnant of Israel; I will put them together like the sheep of Bozrah, like a flock in the middle of its pasture; they will be noisy with people.
+13 The breaker has gone up before them; they break through and pass through the gate and go out by it; their king passes on before them, and Yahweh at their head.
 
 Micah 3
 
-1 I said,
-“Please listen, you heads of Jacob,
-  and rulers of the house of Israel:
-  Isn’t it for you to know justice?
-
-2 You who hate the good,
-  and love the evil;
-  who tear off their skin,
-  and their flesh from off their bones;
-
-  3 who also eat the flesh of my people,
-  and peel their skin from off them,
-  and break their bones,
-  and chop them in pieces, as for the pot,
-  and as meat within the cauldron.
-
-4 Then they will cry to Yahweh,
-  but he will not answer them.
-Yes, he will hide his face from them at that time,
-  because they made their deeds evil.”
-
-5 Yahweh says concerning the prophets who lead my people astray—for those who feed their teeth, they proclaim, “Peace!” and whoever doesn’t provide for their mouths, they prepare war against him:
-
-6 “Therefore night is over you, with no vision,
-  and it is dark to you, that you may not divine;
-  and the sun will go down on the prophets,
-  and the day will be black over them.
-
-7 The seers will be disappointed,
-  and the diviners confounded.
-Yes, they will all cover their lips,
-  for there is no answer from God.”
-
-8 But as for me, I am full of power by Yahweh’s Spirit,
-  and of judgment, and of might,
-  to declare to Jacob his disobedience,
-  and to Israel his sin.
-
-9 Please listen to this, you heads of the house of Jacob,
-  and rulers of the house of Israel,
-  who abhor justice,
-  and pervert all equity,
-
-  10 who build up Zion with blood,
-  and Jerusalem with sin.
-
-11 Her leaders judge for bribes,
-  and her priests teach for a price,
-  and her prophets tell fortunes for money;
-yet they lean on Yahweh, and say,
-  “Isn’t Yahweh among us?
-  No disaster will come on us.”
-
-12 Therefore Zion for your sake will be plowed like a field,
-  and Jerusalem will become heaps of rubble,
-  and the mountain of the temple like the high places of a forest.
+1 And I said: Listen, please, heads of Jacob and rulers of the house of Israel; is it not for you to know justice?
+2 You who hate good and love evil, who tear their skin from them and their flesh from their bones,
+3 who also eat the flesh of my people, and strip their skin from them, and break their bones, and chop them in pieces, as for the pot, and as flesh within the cauldron.
+4 Then they will cry out to Yahweh, but he will not answer them; he will hide his face from them at that time, as they have made their deeds evil.
+5 Yahweh says this concerning the prophets who lead my people astray: they bite with their teeth and cry: Peace; but against anyone who puts nothing into their mouths, they prepare war against him.
+6 Therefore it will be night for you, without vision, and darkness for you, without divination; the sun will go down on the prophets, and the day will grow black over them.
+7 The seers will be ashamed and the diviners put to shame; they will all cover their lips, for there is no answer from God.
+8 But as for me, I am full of power by the Spirit of Yahweh, and of justice, and of might, to declare to Jacob his transgression and to Israel his sin.
+9 Listen to this, please, heads of the house of Jacob and rulers of the house of Israel, who detest justice and twist all that is upright,
+10 who build Zion with blood and Jerusalem with wrongdoing.
+11 Its heads judge for a bribe, its priests teach for a price, and its prophets divine for silver; yet they lean on Yahweh and say: Is Yahweh not in our midst? No evil will come upon us.
+12 Therefore, because of you, Zion will be plowed as a field, Jerusalem will become heaps of ruins, and the mountain of the house will become high places of a forest.
 
 Micah 4
 
-1 But in the latter days,
-  it will happen that the mountain of Yahweh’s temple will be established on the top of the mountains,
-  and it will be exalted above the hills;
-  and peoples will stream to it.
-
-2 Many nations will go and say,
-  “Come! Let’s go up to the mountain of Yahweh,
-  and to the house of the God of Jacob;
-  and he will teach us of his ways,
-  and we will walk in his paths.”
-For the law will go out of Zion,
-  and Yahweh’s word from Jerusalem;
-
-3 and he will judge between many peoples,
-  and will decide concerning strong nations afar off.
-  They will beat their swords into plowshares,
-  and their spears into pruning hooks.
-Nation will not lift up sword against nation,
-  neither will they learn war any more.
-
-4 But every man will sit under his vine and under his fig tree.
-  No one will make them afraid,
-  for the mouth of Yahweh of Armies has spoken.
-
-  5 Indeed all the nations may walk in the name of their gods,
-  but we will walk in the name of Yahweh our God forever and ever.
-
-6 “In that day,” says Yahweh,
-  “I will assemble that which is lame,
-  and I will gather that which is driven away,
-  and that which I have afflicted;
-
-  7 and I will make that which was lame a remnant,
-  and that which was cast far off a strong nation:
-  and Yahweh will reign over them on Mount Zion from then on, even forever.”
-
-8 You, tower of the flock, the hill of the daughter of Zion,
-  to you it will come.
-Yes, the former dominion will come,
-  the kingdom of the daughter of Jerusalem.
-
-9 Now why do you cry out aloud?
-  Is there no king in you?
-  Has your counselor perished,
-  that pains have taken hold of you as of a woman in travail?
-
-10 Be in pain, and labor to give birth, daughter of Zion,
-  like a woman in travail;
-  for now you will go out of the city,
-  and will dwell in the field,
-  and will come even to Babylon.
-There you will be rescued.
-  There Yahweh will redeem you from the hand of your enemies.
-
-11 Now many nations have assembled against you, that say,
-  “Let her be defiled,
-  and let our eye gloat over Zion.”
-
-12 But they don’t know the thoughts of Yahweh,
-  neither do they understand his counsel;
-  for he has gathered them like the sheaves to the threshing floor.
-
-13 Arise and thresh, daughter of Zion,
-  for I will make your horn iron,
-  and I will make your hoofs bronze.
-You will beat in pieces many peoples.
-I will devote their gain to Yahweh,
-  and their substance to the Lord of the whole earth.
+1 And it will happen in the latter days: the mountain of the house of Yahweh will be established on the top of the mountains, and it will be exalted above the hills, and peoples will stream to it.
+2 Many nations will come and say: Come, let us go up to the mountain of Yahweh and to the house of the God of Jacob, and he will teach us from his ways, and we will walk in his paths; for the law will go out from Zion, and the word of Yahweh from Jerusalem.
+3 He will judge between many peoples and decide for strong nations far away; and they will beat their swords into plowshares and their spears into pruning hooks; nation will not lift up sword against nation, and they will no longer learn war.
+4 Each man will sit under his vine and under his fig tree, and no one will make them afraid, for the mouth of Yahweh of hosts has spoken.
+5 For all the peoples walk, each in the name of its god, but we will walk in the name of Yahweh our God forever and ever.
+6 In that day, declares Yahweh, I will assemble the lame and gather the one who was driven away, and the one whom I have afflicted,
+7 and I will make the lame a remnant and the one cast far off a strong nation, and Yahweh will reign over them on Mount Zion from now on and forever.
+8 And you, Tower of the Flock, the hill of the daughter of Zion, to you it will come; the former dominion will come, the kingdom of the daughter of Jerusalem.
+9 Now why do you cry out loudly? Is there no king in you? Has your counselor perished, that pain has seized you like a woman giving birth?
+10 Writhe and groan, daughter of Zion, like a woman giving birth; for now you will go out from the city and dwell in the field and come as far as Babylon; there you will be rescued; there Yahweh will redeem you from the hand of your enemies.
+11 Now many nations have gathered against you, who say: Let her be defiled, and let our eyes gaze on Zion.
+12 But they do not know the thoughts of Yahweh, and they do not understand his counsel, for he has gathered them like sheaves to the threshing floor.
+13 Arise and thresh, daughter of Zion, for I will make your horn iron and your hooves bronze, and you will crush many peoples; and I will devote their gain to Yahweh, and their wealth to the Lord of the whole earth.
+14 Now gather yourself in troops, daughter of troops; they have laid siege against us; with a rod they will strike the judge of Israel on the cheek.
 
 Micah 5
 
-1 Now you will gather yourself in troops,
-  daughter of troops.
-He has laid siege against us.
-  They will strike the judge of Israel with a rod on the cheek.
-
-2 But you, Bethlehem Ephrathah,
-  being small among the clans of Judah,
-  out of you one will come out to me who is to be ruler in Israel;
-  whose goings out are from of old, from ancient times.
-
-3 Therefore he will abandon them until the time that she who is in labor gives birth.
-  Then the rest of his brothers will return to the children of Israel.
-
-4 He will stand, and will shepherd in the strength of Yahweh,
-  in the majesty of the name of Yahweh his God.
-  They will live, for then he will be great to the ends of the earth.
-
-5 He will be our peace when Assyria invades our land
-  and when he marches through our fortresses,
-  then we will raise against him seven shepherds,
-  and eight leaders of men.
-
-6 They will rule the land of Assyria with the sword,
-  and the land of Nimrod in its gates.
-He will deliver us from the Assyrian,
-  when he invades our land,
-  and when he marches within our border.
-
-7 The remnant of Jacob will be among many peoples
-  like dew from Yahweh,
-  like showers on the grass,
-  that don’t wait for man
-  nor wait for the sons of men.
-
-8 The remnant of Jacob will be among the nations,
-  among many peoples,
-  like a lion among the animals of the forest,
-  like a young lion among the flocks of sheep;
-  who, if he goes through, treads down and tears in pieces,
-  and there is no one to deliver.
-
-9 Let your hand be lifted up above your adversaries,
-  and let all of your enemies be cut off.
-
-10 “It will happen in that day”, says Yahweh,
-  “that I will cut off your horses from among you
-  and will destroy your chariots.
-
-11 I will cut off the cities of your land
-  and will tear down all your strongholds.
-
-12 I will destroy witchcraft from your hand.
-  You will have no soothsayers.
-
-13 I will cut off your engraved images and your pillars from among you;
-  and you will no more worship the work of your hands.
-
-14 I will uproot your Asherah poles from among you;
-  and I will destroy your cities.
-
-15 I will execute vengeance in anger
-  and wrath on the nations that didn’t listen.”
+1 But you, Bethlehem Ephrathah, who are small to be among the clans of Judah, out of you shall come forth to me one who is to be ruler in Israel, whose origins are from of old, from days of eternity.
+2 Therefore he will give them up until the time when she who is in labor has given birth; then the remnant of his brothers will return to the children of Israel.
+3 And he will stand and shepherd in the strength of Yahweh, in the majesty of the name of Yahweh his God; and they will dwell, for then he will be great to the ends of the earth.
+4 And he will be peace, when Assyria comes into our land and when he treads in our palaces; then we will raise against him seven shepherds and eight princes of men.
+5 And they will rule the land of Assyria with the sword, and the land of Nimrod in its gates; and he will deliver us from Assyria, when he comes into our land and when he treads within our border.
+6 And the remnant of Jacob will be in the midst of many peoples like dew from Yahweh, like showers on the grass, which does not wait for man and does not wait for the sons of men.
+7 And the remnant of Jacob will be among the nations, in the midst of many peoples, like a lion among the beasts of the forest, like a young lion among flocks of sheep, which, if it passes through, treads down and tears in pieces, and there is no one to deliver.
+8 Let your hand be lifted up over your adversaries, and let all your enemies be cut off.
+9 And it will happen on that day, declares Yahweh, that I will cut off your horses from your midst and destroy your chariots.
+10 And I will cut off the cities of your land and tear down all your strongholds.
+11 And I will cut off sorceries from your hand, and you will have no soothsayers.
+12 And I will cut off your carved images and your standing stones from your midst, and you will no longer bow down to the work of your hands.
+13 And I will uproot your Asherah poles from your midst and destroy your cities.
+14 And I will execute vengeance in anger and wrath on the nations that did not listen.
 
 Micah 6
 
-1 Listen now to what Yahweh says:
-“Arise, plead your case before the mountains,
-  and let the hills hear what you have to say.
-
-2 Hear, you mountains, Yahweh’s indictment,
-  and you enduring foundations of the earth;
-  for Yahweh has a case against his people,
-  and he will contend with Israel.
-
-3 My people, what have I done to you?
-  How have I burdened you?
-  Answer me!
-
-4 For I brought you up out of the land of Egypt,
-  and redeemed you out of the house of bondage.
-  I sent before you Moses, Aaron, and Miriam.
-
-5 My people, remember now what Balak king of Moab devised,
-  and what Balaam the son of Beor answered him from Shittim to Gilgal,
-  that you may know the righteous acts of Yahweh.”
-
-6 How shall I come before Yahweh,
-  and bow myself before the exalted God?
-Shall I come before him with burnt offerings,
-  with calves a year old?
-
-7 Will Yahweh be pleased with thousands of rams?
-  With tens of thousands of rivers of oil?
-Shall I give my firstborn for my disobedience?
-  The fruit of my body for the sin of my soul?
-
-8 He has shown you, O man, what is good.
-  What does Yahweh require of you, but to act justly,
-  to love mercy, and to walk humbly with your God?
-
-9 Yahweh’s voice calls to the city—
-  and wisdom fears your name—
-“Listen to the rod,
-  and he who appointed it.
-
-10 Are there yet treasures of wickedness in the house of the wicked,
-  and a short ephah that is accursed?
-
-11 Will I tolerate dishonest scales,
-  and a bag of deceitful weights?
-
-12 Her rich men are full of violence,
-  her inhabitants speak lies,
-  and their tongue is deceitful in their speech.
-
-13 Therefore I also have struck you with a grievous wound.
-  I have made you desolate because of your sins.
-
-14 You will eat, but not be satisfied.
-  Your hunger will be within you.
-  You will store up, but not save,
-  and that which you save I will give up to the sword.
-
-15 You will sow, but won’t reap.
-  You will tread the olives, but won’t anoint yourself with oil;
-  and crush grapes, but won’t drink the wine.
-
-16 For the statutes of Omri are kept,
-  and all the works of Ahab’s house.
-  You walk in their counsels,
-  that I may make you a ruin,
-  and your inhabitants a hissing.
-  You will bear the reproach of my people.”
+1 Listen now to what Yahweh says: Arise, plead your case before the mountains, and let the hills hear your voice.
+2 Hear, mountains, the case of Yahweh, and you enduring foundations of the earth; for Yahweh has a case against his people, and he will contend with Israel.
+3 My people, what have I done to you, and how have I wearied you? Answer me.
+4 For I brought you up from the land of Egypt and redeemed you from the house of slavery; and I sent before you Moses, Aaron, and Miriam.
+5 My people, remember now what Balak king of Moab planned, and what Balaam son of Beor answered him, from Shittim to Gilgal, so that you may know the righteous acts of Yahweh.
+6 With what shall I come before Yahweh, and bow myself before God on high? Shall I come before him with burnt offerings, with calves a year old?
+7 Will Yahweh be pleased with thousands of rams, with tens of thousands of rivers of oil? Shall I give my firstborn for my transgression, the fruit of my body for the sin of my soul?
+8 He has told you, O man, what is good, and what Yahweh requires of you: only to do justice, and to love loyal love, and to walk humbly with your God.
+9 The voice of Yahweh calls to the city, and it is wisdom to fear your name: Hear the rod, and who has appointed it.
+10 Are there still in the house of the wicked treasures of wickedness, and a scant ephah that is accursed?
+11 Shall I acquit with wicked balances, and with a bag of deceitful weights?
+12 Her rich men are full of violence, her inhabitants speak lies, and their tongue is deceitful in their mouth.
+13 Therefore I also have struck you with a grievous wound; I have made you desolate because of your sins.
+14 You will eat, but not be satisfied; your hunger will be within you; you will store up, but not save, and what you save I will give up to the sword.
+15 You will sow, but not reap; you will tread olives, but not anoint yourself with oil, and crush grapes, but not drink the wine.
+16 And the statutes of Omri are kept, and all the works of the house of Ahab, and you walk in their counsels, so that I may make you a desolation and her inhabitants a hissing, and you will bear the reproach of my people.
 
 Micah 7
 
-1 Misery is mine!
-  Indeed, I am like one who gathers the summer fruits, as gleanings of the vineyard.
-  There is no cluster of grapes to eat.
-  My soul desires to eat the early fig.
-
-2 The godly man has perished out of the earth,
-  and there is no one upright among men.
-  They all lie in wait for blood;
-  every man hunts his brother with a net.
-
-3 Their hands are on that which is evil to do it diligently.
-  The ruler and judge ask for a bribe.
-The powerful man dictates the evil desire of his soul.
-  Thus they conspire together.
-
-4 The best of them is like a brier.
-  The most upright is worse than a thorn hedge.
-The day of your watchmen,
-  even your visitation, has come;
-  now is the time of their confusion.
-
-5 Don’t trust in a neighbor.
-  Don’t put confidence in a friend.
-  With the woman lying in your embrace,
-  be careful of the words of your mouth!
-
-6 For the son dishonors the father,
-  the daughter rises up against her mother,
-  the daughter-in-law against her mother-in-law;
-  a man’s enemies are the men of his own house.
-
-7 But as for me, I will look to Yahweh.
-  I will wait for the God of my salvation.
-  My God will hear me.
-
-8 Don’t rejoice against me, my enemy.
-  When I fall, I will arise.
-  When I sit in darkness, Yahweh will be a light to me.
-
-9 I will bear the indignation of Yahweh,
-  because I have sinned against him,
-  until he pleads my case and executes judgment for me.
-  He will bring me out to the light.
-  I will see his righteousness.
-
-10 Then my enemy will see it,
-  and shame will cover her who said to me,
-  “Where is Yahweh your God?”
-My eyes will see her.
-  Now she will be trodden down like the mire of the streets.
-
-11 A day to build your walls!
-  In that day, he will extend your boundary.
-
-12 In that day they will come to you from Assyria and the cities of Egypt,
-  and from Egypt even to the River,
-  and from sea to sea,
-  and mountain to mountain.
-
-13 Yet the land will be desolate because of those who dwell therein,
-  for the fruit of their doings.
-
-14 Shepherd your people with your staff,
-  the flock of your heritage,
-  who dwell by themselves in a forest.
-Let them feed in the middle of fertile pasture land,
-  in Bashan and Gilead, as in the days of old.
-
-15 “As in the days of your coming out of the land of Egypt,
-  I will show them marvelous things.”
-
-16 The nations will see and be ashamed of all their might.
-  They will lay their hand on their mouth.
-  Their ears will be deaf.
-
-17 They will lick the dust like a serpent.
-  Like crawling things of the earth, they will come trembling out of their dens.
-  They will come with fear to Yahweh our God,
-  and will be afraid because of you.
-
-18 Who is a God like you, who pardons sin,
-  and passes over the disobedience of the remnant of his heritage?
-He doesn’t retain his anger forever,
-  because he delights in loving kindness.
-
-19 He will again have compassion on us.
-  He will tread our sins under foot.
-  You will cast all their sins into the depths of the sea.
-
-20 You will give truth to Jacob,
-  and mercy to Abraham,
-  as you have sworn to our fathers from the days of old.
+1 Woe is me, for I have become like the gatherings of summer fruit, like the gleanings of the vintage; there is no cluster to eat, no first-ripe fig that my soul desires.
+2 The godly man has perished from the earth, and there is no one upright among men; they all lie in wait for blood; every man hunts his brother with a net.
+3 Their hands are on evil to do it well; the prince asks, and the judge for a bribe, and the great man speaks the evil desire of his soul, and they weave it together.
+4 The best of them is like a brier, the most upright is worse than a thorn hedge; the day of your watchmen, your visitation, has come; now will be their confusion.
+5 Do not trust in a neighbor, do not put confidence in a friend; from the woman who lies in your bosom, guard the doors of your mouth.
+6 For the son dishonors the father, the daughter rises up against her mother, the daughter-in-law against her mother-in-law; a man's enemies are the men of his own house.
+7 But as for me, I will look to Yahweh; I will wait for the God of my salvation; my God will hear me.
+8 Do not rejoice over me, my enemy; though I have fallen, I will arise; though I sit in darkness, Yahweh will be a light to me.
+9 I will bear the wrath of Yahweh, because I have sinned against him, until he pleads my case and executes judgment for me; he will bring me out to the light, and I will see his righteousness.
+10 And my enemy will see, and shame will cover her who said to me: Where is Yahweh your God? My eyes will look on her; now she will be trampled like the mire of the streets.
+11 A day for building your walls; on that day the boundary will be far extended.
+12 On that day they will come to you, from Assyria and the cities of Egypt, and from Egypt to the River, and from sea to sea, and from mountain to mountain.
+13 And the land will become a desolation because of its inhabitants, for the fruit of their deeds.
+14 Shepherd your people with your staff, the flock of your heritage, who dwell alone in a forest in the midst of Carmel; let them feed in Bashan and Gilead as in days of old.
+15 As in the days of your coming out from the land of Egypt, I will show him wonders.
+16 Nations will see and be ashamed of all their might; they will put a hand on the mouth; their ears will become deaf.
+17 They will lick dust like the serpent, like crawling things of the earth; they will tremble out of their strongholds; they will come in fear to Yahweh our God, and be afraid because of you.
+18 Who is a God like you, pardoning iniquity and passing over the transgression of the remnant of his heritage? He does not retain his anger forever, for he delights in loyal love.
+19 He will again have compassion on us; he will tread our iniquities underfoot; and you will cast all their sins into the depths of the sea.
+20 You will show faithfulness to Jacob, loyal love to Abraham, as you swore to our fathers from days of old.
 
 Clear English Bible — Nahum (Chapters 1–3): A Clear English Translation
 
