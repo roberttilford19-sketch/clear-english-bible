@@ -1,0 +1,50 @@
+[
+ {
+  "book": "DEUTERONOMY",
+  "chapter": 32,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 60,
+   "q2": 85,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/DEUTERONOMY-reader.txt",
+   "individual-books/DEUTERONOMY-reader.txt",
+   "editions/catholic/clear-translation-bible-catholic-edition.txt",
+   "editions/protestant/clear-translation-bible-protestant-edition.txt",
+   "editions/hebrew/the-torah-the-prophets-and-the-writings.txt"
+  ]
+ },
+ {
+  "book": "DEUTERONOMY",
+  "chapter": 27,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "PAGE-PROSE",
+  "reason": "base page carries no q/q2/qs division in this chapter; nothing to restore; left as staged",
+  "divisions": {
+   "q": 0,
+   "q2": 0,
+   "m": 0,
+   "qs": 0
+  }
+ },
+ {
+  "book": "DEUTERONOMY",
+  "chapter": 33,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 40,
+   "q2": 56,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/DEUTERONOMY-reader.txt",
+   "individual-books/DEUTERONOMY-reader.txt"
+  ]
+ }
+]

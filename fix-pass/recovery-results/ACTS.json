@@ -1,0 +1,138 @@
+[
+ {
+  "book": "ACTS",
+  "chapter": 1,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 2,
+   "q2": 1,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ACTS-reader.txt",
+   "individual-books/ACTS-reader.txt"
+  ]
+ },
+ {
+  "book": "ACTS",
+  "chapter": 2,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 11,
+   "q2": 13,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ACTS-reader.txt",
+   "individual-books/ACTS-reader.txt"
+  ]
+ },
+ {
+  "book": "ACTS",
+  "chapter": 4,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 2,
+   "q2": 3,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ACTS-reader.txt",
+   "individual-books/ACTS-reader.txt"
+  ]
+ },
+ {
+  "book": "ACTS",
+  "chapter": 7,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 6,
+   "q2": 5,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ACTS-reader.txt",
+   "individual-books/ACTS-reader.txt"
+  ]
+ },
+ {
+  "book": "ACTS",
+  "chapter": 13,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 3,
+   "q2": 5,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ACTS-reader.txt",
+   "individual-books/ACTS-reader.txt"
+  ]
+ },
+ {
+  "book": "ACTS",
+  "chapter": 28,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 5,
+   "q2": 8,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ACTS-reader.txt",
+   "individual-books/ACTS-reader.txt"
+  ]
+ },
+ {
+  "book": "ACTS",
+  "chapter": 8,
+  "ruling": "Ruling 8 (as amended 2026-10-18); finisher under the three stop rulings (dispositions log, 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 2,
+   "q2": 4,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ACTS-reader.txt",
+   "individual-books/ACTS-reader.txt"
+  ],
+  "evidence": [
+   "base-only verse 37 (footnote-only on the base page; empty chunk list) treated as outside the staged text per the editor's ruling",
+   "staged chapter registers the base-only verse 37 with a bare-number paragraph ('37') between vv. 36 and 38; carried through untouched"
+  ]
+ },
+ {
+  "book": "ACTS",
+  "chapter": 15,
+  "ruling": "Ruling 8 (as amended 2026-10-18); finisher under the three stop rulings (dispositions log, 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 7,
+   "q2": 0,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ACTS-reader.txt",
+   "individual-books/ACTS-reader.txt"
+  ],
+  "evidence": [
+   "base-only verse 34 (footnote-only on the base page; empty chunk list) treated as outside the staged text per the editor's ruling",
+   "staged chapter registers the base-only verse 34 with a bare-number paragraph ('34') between vv. 33 and 35; carried through untouched"
+  ]
+ }
+]

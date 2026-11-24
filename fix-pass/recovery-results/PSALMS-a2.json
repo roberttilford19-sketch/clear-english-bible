@@ -1,0 +1,1202 @@
+[
+ {
+  "book": "PSALMS",
+  "chapter": 76,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 11,
+   "q2": 14,
+   "m": 0,
+   "qs": 2
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 77,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 20,
+   "q2": 27,
+   "m": 0,
+   "qs": 3
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 78,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 72,
+   "q2": 87,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 79,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 13,
+   "q2": 18,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 80,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 19,
+   "q2": 23,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 81,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 16,
+   "q2": 19,
+   "m": 0,
+   "qs": 1
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 82,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 8,
+   "q2": 9,
+   "m": 0,
+   "qs": 1
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 83,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 16,
+   "q2": 20,
+   "m": 0,
+   "qs": 1
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 84,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 12,
+   "q2": 15,
+   "m": 0,
+   "qs": 2
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 85,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 13,
+   "q2": 14,
+   "m": 0,
+   "qs": 1
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 86,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 17,
+   "q2": 21,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 87,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 6,
+   "q2": 6,
+   "m": 0,
+   "qs": 2
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 88,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 17,
+   "q2": 23,
+   "m": 0,
+   "qs": 2
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 89,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 54,
+   "q2": 55,
+   "m": 0,
+   "qs": 4
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 90,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 16,
+   "q2": 22,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 91,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 15,
+   "q2": 20,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 92,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 15,
+   "q2": 17,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 93,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 6,
+   "q2": 10,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 94,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 23,
+   "q2": 24,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 95,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 11,
+   "q2": 14,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 96,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 12,
+   "q2": 19,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 97,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 12,
+   "q2": 16,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 98,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 10,
+   "q2": 11,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 99,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 9,
+   "q2": 16,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 100,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 4,
+   "q2": 8,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 101,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 9,
+   "q2": 11,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 102,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 26,
+   "q2": 32,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 103,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 22,
+   "q2": 24,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 104,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 35,
+   "q2": 44,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 105,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 45,
+   "q2": 46,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 106,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 43,
+   "q2": 64,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 107,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 38,
+   "q2": 49,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 108,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 13,
+   "q2": 15,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 109,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 29,
+   "q2": 35,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 110,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 7,
+   "q2": 8,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 111,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 11,
+   "q2": 12,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 112,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 10,
+   "q2": 13,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 113,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 9,
+   "q2": 10,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 114,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 8,
+   "q2": 8,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 115,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 19,
+   "q2": 21,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 116,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 19,
+   "q2": 19,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 117,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 3,
+   "q2": 2,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 118,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 29,
+   "q2": 31,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 119,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 176,
+   "q2": 175,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 120,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 7,
+   "q2": 7,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 121,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 8,
+   "q2": 8,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 122,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 8,
+   "q2": 9,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 123,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 4,
+   "q2": 6,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 124,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 8,
+   "q2": 7,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 126,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 6,
+   "q2": 7,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 127,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 6,
+   "q2": 8,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 128,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 5,
+   "q2": 6,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 129,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 8,
+   "q2": 9,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 130,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 8,
+   "q2": 8,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 131,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 3,
+   "q2": 5,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 132,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 18,
+   "q2": 19,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 133,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 3,
+   "q2": 7,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 134,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 3,
+   "q2": 3,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 135,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 22,
+   "q2": 24,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 136,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 26,
+   "q2": 26,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 137,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 9,
+   "q2": 11,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 138,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 8,
+   "q2": 11,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 139,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 25,
+   "q2": 30,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 140,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 13,
+   "q2": 15,
+   "m": 0,
+   "qs": 3
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 141,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 10,
+   "q2": 15,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 143,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 15,
+   "q2": 19,
+   "m": 0,
+   "qs": 1
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 144,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 14,
+   "q2": 22,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 145,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 22,
+   "q2": 22,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 146,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 11,
+   "q2": 14,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 147,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 21,
+   "q2": 22,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 149,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 10,
+   "q2": 10,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 150,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 6,
+   "q2": 7,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 125,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 6,
+   "q2": 5,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 142,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 10,
+   "q2": 13,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ },
+ {
+  "book": "PSALMS",
+  "chapter": 148,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 15,
+   "q2": 17,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/PSALMS-reader.txt",
+   "individual-books/PSALMS-reader.txt"
+  ]
+ }
+]

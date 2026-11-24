@@ -1,0 +1,66 @@
+[
+ {
+  "book": "ECCLESIASTES",
+  "chapter": 3,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 14,
+   "q2": 14,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ECCLESIASTES-reader.txt",
+   "individual-books/ECCLESIASTES-reader.txt"
+  ]
+ },
+ {
+  "book": "ECCLESIASTES",
+  "chapter": 10,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 7,
+   "q2": 13,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ECCLESIASTES-reader.txt",
+   "individual-books/ECCLESIASTES-reader.txt"
+  ]
+ },
+ {
+  "book": "ECCLESIASTES",
+  "chapter": 11,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 9,
+   "q2": 19,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ECCLESIASTES-reader.txt",
+   "individual-books/ECCLESIASTES-reader.txt"
+  ]
+ },
+ {
+  "book": "ECCLESIASTES",
+  "chapter": 12,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 6,
+   "q2": 21,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ECCLESIASTES-reader.txt",
+   "individual-books/ECCLESIASTES-reader.txt"
+  ]
+ }
+]

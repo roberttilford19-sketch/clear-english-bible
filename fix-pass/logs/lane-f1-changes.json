@@ -1,0 +1,62 @@
+[
+  {
+    "place": "1 Samuel 5:8",
+    "book": "1 Samuel",
+    "chapter": 5,
+    "verse": 8,
+    "before": "What must we do with the ark of the God of Israel?",
+    "after": "What should we do with the ark of the God of Israel?",
+    "ruling": "Ruling 1",
+    "ground": "The Philistine lords ask what ought to be done with the ark and no duty is prescribed, so obligation, not prescribed duty, is the force."
+  },
+  {
+    "place": "1 Samuel 6:2",
+    "book": "1 Samuel",
+    "chapter": 6,
+    "verse": 2,
+    "before": "What must we do with Yahweh’s ark?",
+    "after": "What should we do with Yahweh’s ark?",
+    "ruling": "Ruling 1",
+    "ground": "The priests and diviners are asked what ought to be done, and the verse itself continues “how we should send it,” so obligation governs over the drafted “must.”"
+  },
+  {
+    "place": "Judith 12:12",
+    "book": "Judith",
+    "chapter": 12,
+    "verse": 12,
+    "before": "if we shall let such a woman go",
+    "after": "if we will let such a woman go",
+    "ruling": "Ruling 1",
+    "ground": "The servants’ conditional looks to their own intended course, with no solemnity or precedent weight, so open intention takes “will.”"
+  },
+  {
+    "place": "Jonah 1:11",
+    "book": "Jonah",
+    "chapter": 1,
+    "verse": 11,
+    "before": "What shall we do to you, that the sea may be calm to us?",
+    "after": "What should we do to you, that the sea may be calm to us?",
+    "ruling": "Ruling 1",
+    "ground": "The sailors ask what course is required of them to calm the sea, so the question truly asks what ought to be done."
+  },
+  {
+    "place": "Song of Songs 8:8",
+    "book": "Song of Songs",
+    "chapter": 8,
+    "verse": 8,
+    "before": "What must we do for our sister",
+    "after": "What should we do for our sister",
+    "ruling": "Ruling 1",
+    "ground": "The brothers deliberate what ought to be done for their sister and no duty is prescribed, so “must” fails and obligation takes “should.”"
+  },
+  {
+    "place": "1 Maccabees 3:17",
+    "book": "1 Maccabees",
+    "chapter": 3,
+    "verse": 17,
+    "before": "Shall we be able, being a small company,",
+    "after": "Will we be able, being a small company,",
+    "ruling": "Ruling 2",
+    "ground": "Judged with Judas’s built-in answer as one unit, the soldiers ask about their open capability and course, not an obligation, so “will” carries the force."
+  }
+]

@@ -1,0 +1,21 @@
+# LANE F REPORT — deliberative "shall" per-context review (Rulings 1 + 2)
+
+Status: COMPLETE, including the coordinator's serial application to the editions. Logs: `logs/lane-f1-log.md` (Old Testament), `logs/lane-f2-log.md` (New Testament), `logs/lane-f-editions-application.md` (the edition replacements).
+
+## Totals
+- Old Testament (F-1): 68 verse places judged — **6 changed, 61 stood, 1 held** (Judges 13:12). Changes: 1 Samuel 5:8 and 6:2, Judith 12:12, Jonah 1:11, Song of Songs 8:8 (all "must"/"shall" → obligation "should," except Judith 12:12 "shall" → "will," open intention), and 1 Maccabees 3:17 ("shall" → "will," Ruling 2, judged with its built-in answer). Record-only places (Psalm 116:12; 2 Kings 20:9; Esther 6:6) untouched, as the ruling directs.
+- New Testament (F-2): 54 items judged (13 member items; 20 candidate "shall" instances; 21 data items carrying no "shall") — **28 instances changed in 26 verses, 25 items stood, 1 held** (John 12:27). The Romans "What shall we say then?" formula took "will" throughout (6:1, 7:7, 8:31, 9:14, 9:30), on the base's own "will" form of the same formula at Romans 3:5 and 4:1; obligation questions took "should" (Acts 2:37; 22:10; the eternal-life questions at Matthew 19:16, Mark 10:17, Luke 10:25, 18:18; Romans 6:1 second question, 6:15; 1 Corinthians 6:15; 11:22 second question; Hebrews 12:9; Mark 6:37; Luke 22:49; Matthew 18:21; Mark 6:24); open-course questions took "will" (1 Corinthians 4:21; 11:22 first question; Luke 20:13; 9:41; the comparison questions at Matthew 11:16, Luke 13:18, 13:20; Hebrews 11:32). Pilate's trial questions stood in "shall" (Matthew 27:22; John 19:15 — solemn judicial deliberation), as did Acts 4:16 (the Sanhedrin in formal council).
+- Surfaces: every reader change was applied to both reader surfaces (books + individual-books; Judith and 1 Maccabees have no individual-books reader). The coordinator then applied all changes to the editions: 66 asserted replacements (F-1: 14 across the three editions by book membership; F-2: 52 = 26 verses × catholic + protestant), each asserted to occur exactly once in its file before replacement.
+
+## Verification performed
+- Workers' read-backs: every changed verse re-read in both reader surfaces (F-2: 52 surface checks; remaining-"shall" counts reconciled per book against the stands/held registers; F-1: asserted single-occurrence before and after each replacement).
+- Coordinator's samples: Romans 6:1 and Hebrews 12:9 read back in the staged readers in their changed forms; Romans 6:1 (protestant edition), Judith 12:12 (catholic edition), 1 Samuel 5:8 (hebrew edition) read back after the edition application; Hebrews 12:9 confirmed coexisting with Lane C's relineation of Hebrews 12 in the same staged file (the verse stands in prose, its "should" intact).
+- Whole-tree accounting: the set of files differing between the live shelf and staging matches exactly the union of all lanes' touched files (see the coordinator's completion summary).
+
+## Coordinator's caveat, disclosed for the editor's eye
+At Judith 12:12 the F-1 judgment took "will" (the decision-maker's own intended course). The Judith audit record carries a different earlier lean: the drafter's best reading was "should," and Audit Crew BD-1 concurred in that best reading while concurring in the retention. "Will" is a defensible application of Ruling 1's stated principles and its ground is logged, but it diverges from the recorded best reading, and the divergence is disclosed here rather than smoothed over. If the editor prefers the recorded lean, the one-word cure ("will" → "should" at Judith 12:12, three surfaces) is mechanical.
+
+## Awaiting the editor
+- **Judges 13:12 — HELD** (F-1): Manoah's question — prescribed pattern for the child ("must" stands drafted) versus what ought to be done in raising him ("should"); genuinely borderline between the prescribed-duty and obligation principles.
+- **John 12:27 — HELD** (F-2): "What shall I say?" — obligation reading ("should": Jesus weighs what he ought to say, canvassing and refusing the alternative prayer) versus solemn/formal deliberation ("shall" stands: a solemn deliberation performed aloud at the Gospel's turning point, self-resolved in the same breath).
+- The Judith 12:12 caveat above, for the editor's eye only; no action needed unless he directs the cure.

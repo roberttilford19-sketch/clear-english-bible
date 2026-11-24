@@ -1,0 +1,66 @@
+[
+ {
+  "book": "ZECHARIAH",
+  "chapter": 9,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 26,
+   "q2": 40,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ZECHARIAH-reader.txt",
+   "individual-books/ZECHARIAH-reader.txt"
+  ]
+ },
+ {
+  "book": "ZECHARIAH",
+  "chapter": 10,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 17,
+   "q2": 31,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ZECHARIAH-reader.txt",
+   "individual-books/ZECHARIAH-reader.txt"
+  ]
+ },
+ {
+  "book": "ZECHARIAH",
+  "chapter": 11,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 4,
+   "q2": 5,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ZECHARIAH-reader.txt",
+   "individual-books/ZECHARIAH-reader.txt"
+  ]
+ },
+ {
+  "book": "ZECHARIAH",
+  "chapter": 13,
+  "ruling": "Ruling 8 (as amended 2026-10-18)",
+  "disposition": "RESTORED",
+  "divisions": {
+   "q": 5,
+   "q2": 8,
+   "m": 0,
+   "qs": 0
+  },
+  "surfaces": [
+   "books/ZECHARIAH-reader.txt",
+   "individual-books/ZECHARIAH-reader.txt"
+  ]
+ }
+]
